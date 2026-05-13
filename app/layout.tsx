@@ -15,6 +15,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "clouds",
   description: "A research library for life design content ideas.",
+  icons: {
+    apple: "/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    title: "clouds",
+    capable: true,
+  },
 };
 
 export default function RootLayout({
