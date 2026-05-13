@@ -57,18 +57,18 @@ export default function Home() {
 
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
-        <span className="flex items-center gap-2.5 select-none">
-          <span className="text-3xl leading-none text-slate-400">☁︎</span>
+        <span className="flex items-center gap-2 select-none">
+          <span className="text-2xl leading-none text-white/70">☁︎</span>
           <span
-            className="text-sm font-thin tracking-[0.22em] text-slate-500 whitespace-nowrap"
-            style={{ fontVariantCaps: 'small-caps' }}
+            className="text-2xl leading-none text-white whitespace-nowrap"
+            style={{ fontFamily: 'var(--font-pacifico)' }}
           >
             clouds
           </span>
         </span>
         <Link
           href="/add"
-          className="text-xs px-4 py-2 rounded-full bg-white/30 text-slate-600 hover:bg-white/50 transition-all backdrop-blur-sm border border-white/40 whitespace-nowrap"
+          className="text-xs px-4 py-2 rounded-full bg-white/20 text-white/80 hover:bg-white/30 transition-all backdrop-blur-sm border border-white/30 whitespace-nowrap"
         >
           + add idea
         </Link>
@@ -80,8 +80,8 @@ export default function Home() {
           onClick={() => handleCategory(ALL)}
           className={`text-xs px-3 py-1.5 rounded-full transition-all duration-200 border ${
             activeCategory === ALL
-              ? 'bg-slate-700 text-white border-slate-700'
-              : 'bg-white/30 text-slate-500 border-white/40 hover:bg-white/50'
+              ? 'bg-white/90 text-slate-700 border-white/90'
+              : 'bg-white/20 text-white/70 border-white/25 hover:bg-white/30 hover:text-white'
           }`}
         >
           all
@@ -92,8 +92,8 @@ export default function Home() {
             onClick={() => handleCategory(cat)}
             className={`text-xs px-3 py-1.5 rounded-full transition-all duration-200 border ${
               activeCategory === cat
-                ? 'bg-slate-700 text-white border-slate-700'
-                : 'bg-white/30 text-slate-500 border-white/40 hover:bg-white/50'
+                ? 'bg-white/90 text-slate-700 border-white/90'
+                : 'bg-white/20 text-white/70 border-white/25 hover:bg-white/30 hover:text-white'
             }`}
           >
             {cat}
@@ -122,7 +122,7 @@ export default function Home() {
         </button>
         <button
           onClick={random}
-          className="text-xs px-5 py-2.5 rounded-full bg-white/30 text-slate-600 hover:bg-white/50 transition-all backdrop-blur-sm border border-white/40"
+          className="text-xs px-5 py-2.5 rounded-full bg-white/20 text-white/80 hover:bg-white/30 transition-all backdrop-blur-sm border border-white/30"
         >
           random
         </button>
