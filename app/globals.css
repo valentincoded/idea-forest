@@ -22,23 +22,54 @@ body {
 .cloud-background {
   overflow: hidden;
   background:
-    radial-gradient(circle at 20% 20%, rgba(254, 255, 252, 0.78), transparent 24%),
-    radial-gradient(circle at 76% 14%, rgba(234, 248, 255, 0.72), transparent 28%),
-    radial-gradient(circle at 70% 78%, rgba(254, 255, 252, 0.5), transparent 34%),
-    linear-gradient(155deg, #9fdbff 0%, var(--cloud-sky) 42%, #4daee4 100%);
+    radial-gradient(circle at 20% 20%, rgba(254, 255, 252, 0.58), transparent 24%),
+    radial-gradient(circle at 76% 14%, rgba(234, 248, 255, 0.56), transparent 28%),
+    radial-gradient(circle at 70% 78%, rgba(254, 255, 252, 0.4), transparent 34%),
+    linear-gradient(155deg, #b8e8ff 0%, #7fd1fb 42%, #48ade8 100%);
 }
 
 .cloud-background__wash {
   position: absolute;
-  inset: -18%;
+  inset: -24%;
   background:
-    radial-gradient(ellipse at 28% 34%, rgba(254, 255, 252, 0.9), transparent 35%),
-    radial-gradient(ellipse at 66% 58%, rgba(254, 255, 252, 0.62), transparent 38%),
-    radial-gradient(ellipse at 48% 84%, rgba(234, 248, 255, 0.7), transparent 42%);
-  filter: blur(48px);
+    radial-gradient(ellipse at 24% 30%, rgba(255, 255, 255, 0.9), transparent 32%),
+    radial-gradient(ellipse at 70% 42%, rgba(255, 255, 255, 0.74), transparent 35%),
+    radial-gradient(ellipse at 48% 84%, rgba(234, 248, 255, 0.78), transparent 42%);
+  filter: blur(52px);
   mix-blend-mode: screen;
-  opacity: 0.82;
-  animation: cloud-drift 28s ease-in-out infinite alternate;
+  opacity: 0.88;
+  animation: cloud-drift 24s ease-in-out infinite alternate;
+}
+
+.cloud-background__drift {
+  position: absolute;
+  pointer-events: none;
+  border-radius: 999px;
+  background:
+    radial-gradient(ellipse at 18% 56%, rgba(255, 255, 255, 0.9) 0 18%, transparent 19%),
+    radial-gradient(ellipse at 38% 42%, rgba(255, 255, 255, 0.84) 0 25%, transparent 26%),
+    radial-gradient(ellipse at 62% 54%, rgba(255, 255, 255, 0.76) 0 22%, transparent 23%),
+    radial-gradient(ellipse at 82% 62%, rgba(255, 255, 255, 0.62) 0 16%, transparent 17%);
+  filter: blur(18px);
+  mix-blend-mode: screen;
+  opacity: 0.6;
+}
+
+.cloud-background__drift--one {
+  top: 16%;
+  left: -22%;
+  width: 86vw;
+  height: 28vh;
+  animation: cloud-slide-one 36s linear infinite;
+}
+
+.cloud-background__drift--two {
+  right: -34%;
+  bottom: 18%;
+  width: 92vw;
+  height: 30vh;
+  opacity: 0.44;
+  animation: cloud-slide-two 44s linear infinite;
 }
 
 .cloud-background__grain {
@@ -69,6 +100,54 @@ body {
   to {
     transform: translate3d(2%, 1.5%, 0) scale(1.04);
   }
+}
+
+@keyframes cloud-slide-one {
+  from {
+    transform: translate3d(-6%, 0, 0);
+  }
+
+  to {
+    transform: translate3d(22%, 4%, 0);
+  }
+}
+
+@keyframes cloud-slide-two {
+  from {
+    transform: translate3d(8%, 0, 0);
+  }
+
+  to {
+    transform: translate3d(-22%, -3%, 0);
+  }
+}
+
+.pixel-cloud {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.68);
+  image-rendering: pixelated;
+  opacity: 0.34;
+  box-shadow:
+    8px 0 rgba(255, 255, 255, 0.68),
+    16px 0 rgba(255, 255, 255, 0.68),
+    24px 0 rgba(255, 255, 255, 0.68),
+    8px -8px rgba(255, 255, 255, 0.68),
+    16px -8px rgba(255, 255, 255, 0.68),
+    24px -8px rgba(255, 255, 255, 0.54),
+    32px 0 rgba(255, 255, 255, 0.54);
+}
+
+.pixel-cloud--one {
+  top: 23%;
+  right: 10%;
+}
+
+.pixel-cloud--two {
+  left: 9%;
+  bottom: 18%;
+  transform: scale(0.75);
 }
 
 .glass-card {
@@ -145,9 +224,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(254, 255, 252, 0.08);
-  border: 1px solid rgba(254, 255, 252, 0.2);
-  color: rgba(254, 255, 252, 0.82);
+  background: rgba(254, 255, 252, 0.42);
+  border: 1px solid rgba(254, 255, 252, 0.72);
+  color: var(--cloud-sky-deep);
   font-size: 16px;
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
@@ -156,25 +235,40 @@ body {
 }
 
 .nav-btn:hover {
-  background: rgba(254, 255, 252, 0.18);
+  background: rgba(254, 255, 252, 0.82);
   border-color: rgba(65, 161, 207, 0.6);
   box-shadow: var(--shadow-glow);
 }
 
 .sky-pill {
   border-radius: var(--radius-pill);
-  border: 1px solid rgba(254, 255, 252, 0.18);
-  background: rgba(254, 255, 252, 0.08);
+  border: 1px solid rgba(254, 255, 252, 0.68);
+  background: rgba(254, 255, 252, 0.36);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
+  box-shadow: rgba(0, 129, 192, 0.08) 0 8px 24px, inset 0 1px 0 rgba(255, 255, 255, 0.54);
+}
+
+.sky-pill--bright {
+  background: rgba(254, 255, 252, 0.62);
+  border-color: rgba(254, 255, 252, 0.88);
 }
 
 .display-font {
   font-family: var(--font-display), Georgia, serif;
 }
 
+.cloud-wordmark {
+  font-family: var(--font-pixel), var(--font-display), Georgia, serif;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: lowercase;
+  text-shadow: 0 0 18px rgba(255, 255, 255, 0.64);
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .cloud-background__wash {
+  .cloud-background__wash,
+  .cloud-background__drift {
     animation: none;
   }
 }

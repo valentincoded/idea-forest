@@ -20,6 +20,40 @@ interface IdeaCardProps {
   current: number
 }
 
+const segmentLabels = [
+  'Contrarian snapback',
+  'Benefit lead',
+  'Pain lead',
+  'Observation',
+  'Staccato',
+  'Story',
+  'Visual',
+  'Stun',
+  'Snap',
+  'Question planted',
+]
+
+function parseAngle(angle: string) {
+  const pattern = new RegExp(`(${segmentLabels.join('|')}):`, 'g')
+  const matches = [...angle.matchAll(pattern)]
+
+  if (matches.length === 0) {
+    return [{ label: 'Direction', text: angle.trim() }]
+  }
+
+  return matches.map((match, index) => {
+    const next = matches[index + 1]
+    const label = match[1]
+    const start = (match.index ?? 0) + match[0].length
+    const end = next?.index ?? angle.length
+
+    return {
+      label,
+      text: angle.slice(start, end).trim(),
+    }
+  })
+}
+
 export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardProps) {
   const isUsed = idea.status !== 'unused'
 
@@ -40,11 +74,20 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         </p>
         <ul className="grid min-w-0 gap-2.5 sm:gap-3">
           {idea.angles.map((angle, i) => (
-            <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/48 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:-translate-y-0.5 hover:border-[#c8e8f6] hover:bg-white/68 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">
+            <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/58 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:-translate-y-0.5 hover:border-[#c8e8f6] hover:bg-white/76 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">
               <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft font-mono text-[10px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb] sm:h-7 sm:w-7 sm:text-[11px]">
                 {String(i + 1).padStart(2, '0')}
               </span>
-              <span className="min-w-0 overflow-hidden break-words [overflow-wrap:anywhere]">{angle}</span>
+              <span className="grid min-w-0 gap-2 overflow-hidden break-words [overflow-wrap:anywhere]">
+                {parseAngle(angle).map((segment) => (
+                  <span key={`${i}-${segment.label}`} className="block">
+                    <span className="mr-1.5 font-mono text-[9px] font-semibold uppercase tracking-[0.14em] text-cloud-accent-strong sm:text-[10px]">
+                      {segment.label}
+                    </span>
+                    <span>{segment.text}</span>
+                  </span>
+                ))}
+              </span>
             </li>
           ))}
         </ul>

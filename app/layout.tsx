@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Cormorant_Garamond, Geist_Mono, Manrope } from "next/font/google";
+import { Cormorant_Garamond, Geist_Mono, Manrope, Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 
 const body = Manrope({
@@ -14,6 +14,12 @@ const mono = Geist_Mono({
 
 const display = Cormorant_Garamond({
   variable: "--font-display",
+  weight: ["400", "500", "600"],
+  subsets: ["latin"],
+});
+
+const pixel = Pixelify_Sans({
+  variable: "--font-pixel",
   weight: ["400", "500", "600"],
   subsets: ["latin"],
 });
@@ -38,7 +44,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${body.variable} ${mono.variable} ${display.variable} h-full antialiased`}
+      className={`${body.variable} ${mono.variable} ${display.variable} ${pixel.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

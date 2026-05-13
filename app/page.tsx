@@ -55,14 +55,14 @@ export default function Home() {
 
       <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
         <span className="sky-pill flex items-center gap-2.5 px-3.5 py-2 select-none sm:gap-3 sm:px-4 sm:py-2.5">
-          <span className="text-xl leading-none text-cloud-paper drop-shadow-[0_0_18px_rgba(255,255,255,0.7)] sm:text-2xl">☁︎</span>
-          <span className="display-font text-xl font-medium leading-none text-cloud-paper whitespace-nowrap sm:text-2xl">
+          <span className="text-xl leading-none text-cloud-sky-deep drop-shadow-[0_0_18px_rgba(255,255,255,0.7)] sm:text-2xl">☁︎</span>
+          <span className="cloud-wordmark text-[1.65rem] leading-none text-cloud-sky-deep whitespace-nowrap sm:text-[1.9rem]">
             clouds
           </span>
         </span>
         <Link
           href="/add"
-          className="sky-pill min-h-10 px-3.5 py-2 text-[10px] font-semibold uppercase tracking-[0.12em] text-cloud-paper/86 transition-all hover:border-cloud-paper/45 hover:bg-white/18 hover:text-white whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-xs"
+          className="sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-[10px] font-semibold uppercase tracking-[0.12em] text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-xs"
         >
           + add idea
         </Link>
@@ -74,7 +74,7 @@ export default function Home() {
           className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
             activeCategory === ALL
               ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
-              : 'border-white/24 bg-white/10 text-white/76 backdrop-blur-md hover:border-white/45 hover:bg-white/18 hover:text-white'
+              : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
           }`}
         >
           all
@@ -86,7 +86,7 @@ export default function Home() {
             className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
               activeCategory === cat
                 ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
-                : 'border-white/24 bg-white/10 text-white/76 backdrop-blur-md hover:border-white/45 hover:bg-white/18 hover:text-white'
+                : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
             }`}
           >
             {cat}
@@ -113,7 +113,7 @@ export default function Home() {
         </button>
         <button
           onClick={random}
-          className="sky-pill min-h-11 min-w-28 px-5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-paper/84 transition-all hover:border-cloud-paper/45 hover:bg-white/18 hover:text-white"
+          className="sky-pill sky-pill--bright min-h-11 min-w-28 px-5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84"
         >
           random
         </button>

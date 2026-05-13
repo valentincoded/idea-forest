@@ -12,6 +12,7 @@ Use the other references only as supporting notes:
 - Mercury: spacious atmospheric canvas and calm browsing rhythm.
 - Sociotype: typographic precision and disciplined spacing.
 - dope.security: celestial atmosphere and frosted glass restraint.
+- Air: expansive sky canvas and memorable identity treatment, but do not import its heavy dark typography wholesale.
 
 ## Design Principles
 
@@ -20,6 +21,7 @@ Use the other references only as supporting notes:
 3. Controls should feel like navigation instruments, not dashboard chrome.
 4. Use one bright accent at a time. The background carries the mood. The accent carries interaction.
 5. Keep the idea content first. Ornament should frame the thought, never compete with it.
+6. Preserve the pixel-art identity details. The Clouds wordmark should feel playful and digital, not corporate-bold.
 
 ## Tokens
 
@@ -39,7 +41,7 @@ Primary surfaces:
 
 ### Sky Background
 
-Full-screen layered background with radial cloud washes, star fields, grain, and slow drift. This must be CSS-only so local and deployed builds match.
+Full-screen layered background with blue-sky color, moving white cloud gradients, subtle pixel-cloud accents, grain, and slow drift. This must be CSS-only so local and deployed builds match.
 
 ### Header
 
@@ -60,3 +62,5 @@ Large floating card with clear zones:
 5. Action row: mark used.
 
 The card can use small decorative sky details, but the text rhythm must stay clean.
+
+Angle text must be structured for mobile scanning. Labels such as `Contrarian snapback`, `Stun`, `Snap`, `Visual`, and `Question planted` should render as small blue subheads instead of disappearing inside a paragraph.
