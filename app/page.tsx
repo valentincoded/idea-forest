@@ -58,7 +58,7 @@ export default function Home() {
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
         <span className="text-sm font-medium tracking-widest text-slate-500 uppercase whitespace-nowrap">
-          idea forest
+          ☁︎ clouds
         </span>
         <Link
           href="/add"

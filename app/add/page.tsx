@@ -3,28 +3,29 @@
 import { useState } from 'react'
 import dynamic from 'next/dynamic'
 import Link from 'next/link'
-import { Category, Angle } from '@/types/idea'
+import { Category } from '@/types/idea'
 
 const GradientBackground = dynamic(() => import('@/components/GradientBackground'), { ssr: false })
 
 const CATEGORIES: Category[] = ['time', 'identity', 'system', 'money', 'fear', 'design', 'creativity', 'environment']
-const ANGLES: Angle[] = ['reframe', 'myth-bust', 'observation', 'diagnostic', 'aspirational', 'pattern interrupt', 'POV']
 
 export default function AddPage() {
   const [hook, setHook] = useState('')
-  const [concept, setConcept] = useState('')
-  const [angle, setAngle] = useState<Angle>('reframe')
+  const [angle1, setAngle1] = useState('')
+  const [angle2, setAngle2] = useState('')
+  const [angle3, setAngle3] = useState('')
   const [category, setCategory] = useState<Category>('identity')
   const [copied, setCopied] = useState(false)
 
   const handleCopy = () => {
-    const entry = JSON.stringify({ hook, concept, angle, category, status: 'unused' }, null, 2)
+    const angles = [angle1, angle2, angle3].filter(a => a.trim().length > 0)
+    const entry = JSON.stringify({ hook, angles, category, status: 'unused' }, null, 2)
     navigator.clipboard.writeText(entry)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
   }
 
-  const ready = hook.trim().length > 0 && concept.trim().length > 0
+  const ready = hook.trim().length > 0 && angle1.trim().length > 0
 
   return (
     <main className="min-h-screen flex flex-col">
@@ -38,7 +39,7 @@ export default function AddPage() {
           ← back
         </Link>
         <span className="text-sm font-medium tracking-widest text-slate-500 uppercase">
-          add idea
+          + add idea
         </span>
       </header>
 
@@ -56,39 +57,35 @@ export default function AddPage() {
             />
           </div>
 
-          <div className="flex flex-col gap-2">
-            <label className="text-xs text-slate-400 tracking-widest uppercase">concept</label>
-            <textarea
-              value={concept}
-              onChange={e => setConcept(e.target.value)}
-              placeholder="What the video is actually about — 1–2 sentences."
-              rows={4}
-              className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm placeholder:text-slate-400 focus:outline-none focus:border-blue-300 resize-none backdrop-blur-sm"
-            />
+          <div className="flex flex-col gap-3">
+            <label className="text-xs text-slate-400 tracking-widest uppercase">angles</label>
+            {[
+              { val: angle1, set: setAngle1, placeholder: 'First entry point — scene, confession, or cold open.' },
+              { val: angle2, set: setAngle2, placeholder: 'Second entry point — number, reversal, or question.' },
+              { val: angle3, set: setAngle3, placeholder: 'Third entry point — story, diagnosis, or contrast.' },
+            ].map(({ val, set, placeholder }, i) => (
+              <div key={i} className="flex gap-3 items-start">
+                <span className="text-slate-300 select-none mt-3.5 shrink-0">—</span>
+                <textarea
+                  value={val}
+                  onChange={e => set(e.target.value)}
+                  placeholder={placeholder}
+                  rows={2}
+                  className="flex-1 bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm placeholder:text-slate-400 focus:outline-none focus:border-blue-300 resize-none backdrop-blur-sm"
+                />
+              </div>
+            ))}
           </div>
 
-          <div className="grid grid-cols-2 gap-4">
-            <div className="flex flex-col gap-2">
-              <label className="text-xs text-slate-400 tracking-widest uppercase">category</label>
-              <select
-                value={category}
-                onChange={e => setCategory(e.target.value as Category)}
-                className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm focus:outline-none focus:border-blue-300 backdrop-blur-sm"
-              >
-                {CATEGORIES.map(c => <option key={c} value={c}>{c}</option>)}
-              </select>
-            </div>
-
-            <div className="flex flex-col gap-2">
-              <label className="text-xs text-slate-400 tracking-widest uppercase">angle</label>
-              <select
-                value={angle}
-                onChange={e => setAngle(e.target.value as Angle)}
-                className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm focus:outline-none focus:border-blue-300 backdrop-blur-sm"
-              >
-                {ANGLES.map(a => <option key={a} value={a}>{a}</option>)}
-              </select>
-            </div>
+          <div className="flex flex-col gap-2">
+            <label className="text-xs text-slate-400 tracking-widest uppercase">category</label>
+            <select
+              value={category}
+              onChange={e => setCategory(e.target.value as Category)}
+              className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm focus:outline-none focus:border-blue-300 backdrop-blur-sm"
+            >
+              {CATEGORIES.map(c => <option key={c} value={c}>{c}</option>)}
+            </select>
           </div>
 
           <div className="pt-2 border-t border-white/30 flex flex-col gap-3">

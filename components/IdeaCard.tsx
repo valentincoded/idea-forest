@@ -38,13 +38,17 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         <p className={`text-2xl md:text-3xl font-light leading-snug text-slate-800 tracking-tight ${isUsed ? 'line-through opacity-40' : ''}`}>
           {idea.hook}
         </p>
-        <p className="text-sm md:text-base text-slate-600 leading-relaxed font-light">
-          {idea.concept}
-        </p>
+        <ul className="flex flex-col gap-2">
+          {idea.angles.map((angle, i) => (
+            <li key={i} className="flex gap-3 text-sm md:text-base text-slate-600 leading-relaxed font-light">
+              <span className="text-slate-300 select-none shrink-0">—</span>
+              <span>{angle}</span>
+            </li>
+          ))}
+        </ul>
       </div>
 
-      <div className="flex items-center justify-between pt-2 border-t border-white/30">
-        <span className="text-xs text-slate-400 italic">{idea.angle}</span>
+      <div className="flex items-center justify-end pt-2 border-t border-white/30">
         <button
           onClick={onMarkUsed}
           className={`text-xs px-4 py-2 rounded-full transition-all duration-200 ${

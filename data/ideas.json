@@ -1,401 +1,551 @@
 [
   {
     "id": "001",
-    "hook": "If nothing changes, walk me through what your Tuesday looks like in five years.",
-    "concept": "The anti-vision exercise — forcing the mind to render the default future in specific detail. Not the abstract concept of the path continuing. The actual Tuesday.",
-    "angle": "diagnostic",
+    "hook": "Describe an average Tuesday. Five years from now. Nothing changed.",
+    "angles": [
+      "Walk through the actual morning — alarm, commute, first Slack message. Not abstract dread. The Tuesday.",
+      "Most people stop mid-exercise because it gets too specific to avoid. That's the point.",
+      "The question isn't 'where do I want to be?' It's 'can I tolerate still being here?'"
+    ],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "002",
-    "hook": "Getting faster at the wrong thing is still the wrong thing.",
-    "concept": "The efficiency trap — optimization without direction is a loop, not progress. The better you get at clearing plates, the more plates appear.",
-    "angle": "reframe",
+    "hook": "Getting better at the wrong life is not a win.",
+    "angles": [
+      "The promotion problem: the better you perform inside a misaligned system, the more valuable you become to it.",
+      "Efficiency without direction is just faster failure — the inbox clears, another appears, nothing changed.",
+      "The person promoted three times in a job they hate has a resume, not a life."
+    ],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "003",
-    "hook": "The freedom you're picturing isn't a country. It's a Tuesday at 1pm with nowhere to be.",
-    "concept": "What you actually want is granular — closing the laptop guilt-free, the unscheduled afternoon, the appointment you didn't have to negotiate around.",
-    "angle": "aspirational",
+    "hook": "You don't want to move to Bali. You want a Tuesday with nowhere to be.",
+    "angles": [
+      "The specific picture: laptop closed at 1pm, no pending reply, the walk that didn't need to be earned.",
+      "People misidentify the goal as a place because a place is concrete and 'an unscheduled Tuesday' isn't.",
+      "What the Tuesday actually requires: not a flight. A different cost structure and one fewer employer."
+    ],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "004",
-    "hook": "You've told yourself you'll do it when you have more saved. You've been saying that for two years and you have more saved.",
-    "concept": "The runway fallacy — the financial threshold keeps moving because money was never the actual barrier.",
-    "angle": "diagnostic",
+    "hook": "You have more saved than two years ago. Still haven't left.",
+    "angles": [
+      "The moving threshold: the number changes, the position doesn't — which means it was never about the number.",
+      "What the savings actually are: permission to stay. The more you have, the more comfortable not-deciding becomes.",
+      "What would you do the following Monday if the number reached whatever you've told yourself?"
+    ],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "005",
-    "hook": "What you're calling Sunday anxiety is actually a 30-year math problem you haven't solved yet.",
-    "concept": "Not dread about tomorrow's standup. A slow confrontation with decades of the same calculation, dressed up as a weekly feeling.",
-    "angle": "reframe",
+    "hook": "Sunday night isn't anxiety. It's when the math becomes impossible to avoid.",
+    "angles": [
+      "The body is running one calculation: 30 more years of this, visible all at once on the one quiet day of the week.",
+      "Why it's worse now than before: the job hasn't gotten worse. You've gotten clearer. Clarity is uncomfortable.",
+      "Most people treat the Sunday feeling like weather. It's a signal."
+    ],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "006",
-    "hook": "Boredom at work isn't a character flaw. It's a signal that your environment has a ceiling lower than your actual range.",
-    "concept": "Boreout vs. laziness — chronic understimulation in a capable person registers as emptiness. Understanding the signal changes the response.",
-    "angle": "reframe",
+    "hook": "You're not lazy. The ceiling is just too low.",
+    "angles": [
+      "Boreout vs. burnout: exhaustion from not enough registers as emptiness — and usually gets misread as a character problem.",
+      "A capable person in a low-ceiling environment starts performing worse, not better.",
+      "When did you last do something at work that genuinely surprised you with what you were capable of?"
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "007",
-    "hook": "Your skills don't live in the building. You just never tested them anywhere else.",
-    "concept": "Skill dysmorphia — the belief that your capability only exists within this specific company, this specific system. The skills are real. The container was always the variable.",
-    "angle": "reframe",
+    "hook": "You've never actually tested if the skills work outside the building.",
+    "angles": [
+      "Five years inside one system teaches you the system. Not necessarily the craft.",
+      "One small experiment — a single freelance project, one consulting call — gives you real market data fast.",
+      "What usually happens: the skills transfer better than feared. The confidence was the variable."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "008",
-    "hook": "Being the only one in your circle who wants something different doesn't mean you're wrong. It means you're early.",
-    "concept": "The loneliness of dissent — wanting to leave when everyone around you is content looks like a personal problem. It's a timing problem.",
-    "angle": "observation",
+    "hook": "Nobody in your circle gets it. That doesn't mean you're wrong.",
+    "angles": [
+      "The company you keep sets the window of what's normal — if everyone around you is on the default path, leaving looks like a crisis.",
+      "Most people around you haven't interrogated the path. They're on it by inertia, not conviction.",
+      "Early is lonely. It's also the only place where anything new starts."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "009",
-    "hook": "Take away the title. The salary. The LinkedIn headline. What's actually left?",
-    "concept": "The identity question underneath every practical excuse — without the external proof of competence, what does your sense of self rest on?",
-    "angle": "diagnostic",
+    "hook": "Take the title away. The salary. The headline. What's left?",
+    "angles": [
+      "Most people can't finish this exercise because the answer feels thinner than expected.",
+      "The job has been answering 'who are you?' quietly for years. You've outsourced the question.",
+      "The party test: how do you introduce yourself when you don't have the role yet? That pause is data."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "010",
-    "hook": "The job uses the most predictable 30% of you. The other 70% is sitting in the parking lot.",
-    "concept": "What's sharp, weird, and genuinely alive in you doesn't fit the org chart. That's not a liability. That's where the real work starts.",
-    "angle": "diagnostic",
+    "hook": "The most interesting parts of you never make it into the job description.",
+    "angles": [
+      "What gets left at the door: the opinionated, the specific, the uncategorizable — everything too alive for the org chart.",
+      "This isn't your particular company. It's the structure of employment. You're hired for a function, not a full person.",
+      "What happens to the unused parts over time: they atrophy, or they become the thing you build something around."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "011",
-    "hook": "You've met the 10-years-if-nothing-changes version of yourself. He's your manager.",
-    "concept": "The senior colleague who's been doing this for 15 years and is visibly hollowed out isn't a cautionary tale. He's a projection.",
-    "angle": "pattern interrupt",
+    "hook": "Your manager is the 10-year warning.",
+    "angles": [
+      "Not about the person — about the trajectory: same structure, same choices, same path, different decade.",
+      "The question it forces: what's the decision, somewhere between now and then, that produces a different outcome?",
+      "Most people already know the answer. The uncomfortable part is that the decision is available right now."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "012",
-    "hook": "Most people don't know if they're actually good. They just know they're good at this one company.",
-    "concept": "Institutional validation is not the same as market validation. The open market is a different test, and most people have never sat it.",
-    "angle": "diagnostic",
+    "hook": "You know you're good here. You don't know if you're good.",
+    "angles": [
+      "Institutional fluency vs. actual skill: years inside one system teaches you how to succeed in that system specifically.",
+      "The way to find out: one external project. The result usually surprises people — in the better direction.",
+      "The fear that keeps people from testing it: if it doesn't transfer, they lose the story. Better not to know."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "013",
-    "hook": "The version of you that doesn't fit in a Jira ticket — that's the one worth building something around.",
-    "concept": "What a company pays you for and what you're actually capable of are rarely the same thing.",
-    "angle": "reframe",
+    "hook": "Build something around the part that doesn't fit.",
+    "angles": [
+      "The sharp opinions, the specific obsessions, the way of seeing — all too much for a job description, exactly right for an audience.",
+      "The business logic: what makes someone interesting is the same thing that makes them useful to a specific group.",
+      "The inversion: the averaged-down version of yourself is the interchangeable one. The excess is the differentiator."
+    ],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "014",
-    "hook": "The deal was: do the right things, get the right outcomes. The deal changed. Most people didn't notice.",
-    "concept": "The shattered employment contract — the unspoken promise of loyalty, stability, and upward movement has been quietly revoked. The behavior hasn't been updated to match.",
-    "angle": "observation",
+    "hook": "The deal changed. Most people are still honoring the old terms.",
+    "angles": [
+      "The original contract: performance → security → upward movement. None of those terms hold the same way anymore.",
+      "The company already updated its model. The employee's model is 2012.",
+      "Updating your model doesn't mean bitterness. It means different decisions about where to put your loyalty."
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "015",
-    "hook": "The people most capable of leaving are usually the ones who stay longest.",
-    "concept": "High performers are retained precisely because they're valuable. The comfort of feeling needed is the mechanism of the trap.",
-    "angle": "observation",
+    "hook": "The people most capable of leaving usually stay the longest.",
+    "angles": [
+      "High performers are the most retained — the best projects, the most interesting problems, the most reason to stay.",
+      "The trap: being valued by the wrong system is its own prison. The golden handcuffs are most golden on the most capable wrists.",
+      "The dark version: the people who leave first are often the ones the handcuffs never fit."
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "016",
-    "hook": "You gave the job your first 8 hours. Everything that matters to you got the leftovers.",
-    "concept": "Peak mental energy goes to a goal that isn't yours. What remains goes to the relationships, the work, the creative output you keep saying you'll get to.",
-    "angle": "observation",
+    "hook": "The job gets your first 8 hours. Everything you love gets the rest.",
+    "angles": [
+      "Sharpest thinking, most energy, most creative capacity — all to a goal that isn't yours.",
+      "The leftovers: your relationships, your creative work, your health, your curiosity. Everything that constitutes a life.",
+      "What would your day look like if the thing you actually cared about got the first 4 hours?"
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "017",
-    "hook": "High-performing burnout is the most invisible kind. You're still hitting your numbers. Nobody asks.",
-    "concept": "Still showing up, still being praised, still making the meetings. The internal disengagement has no external signal, so it gets no name.",
-    "angle": "diagnostic",
+    "hook": "Still hitting your numbers. Nobody knows you've checked out.",
+    "angles": [
+      "High-performing burnout: everything looks fine from the outside, nothing is fine from the inside. No signal for anyone to respond to.",
+      "The mechanism: autopilot. The muscle memory keeps performing after the motivation has left the building.",
+      "What eventually breaks it: not the performance metrics. The person behind them."
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "018",
-    "hook": "AI isn't coming for your job. It's exposing whether your job had any fingerprints on it to begin with.",
-    "concept": "What gets automated was never really yours. What survives is judgment, voice, point of view. These are harder to develop than to protect.",
-    "angle": "reframe",
+    "hook": "AI is exposing which jobs were ever really yours.",
+    "angles": [
+      "What survives: judgment, perspective, taste, voice — things that require a specific person to have developed over time.",
+      "What doesn't: execution work, templated decisions, information processing — things that were never really about you anyway.",
+      "The useful question: if your work could be fully replicated, what does that tell you about the work?"
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "019",
-    "hook": "Staying and leaving are both decisions. One of them just doesn't feel like one.",
-    "concept": "Choosing not to change is still a choice, with compounding consequences. The moral framing of sticking it out obscures that you're making an active allocation of your limited time.",
-    "angle": "reframe",
+    "hook": "Not leaving is still a choice. With compounding consequences.",
+    "angles": [
+      "'I haven't figured out how to leave yet' vs. 'I'm choosing to stay' — these produce very different accountability.",
+      "Each year of the default path makes the exit harder: more lifestyle, more identity, more sunk cost.",
+      "The honest version: 'I'm choosing this for now, for these specific reasons.' That's a decision. The vague staying isn't."
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "020",
-    "hook": "You didn't cause the problem. You still have to solve it.",
-    "concept": "The economy changed, AI changed, the org changed. The correct response isn't bitterness. It's a strategy update.",
-    "angle": "observation",
+    "hook": "You didn't break the economy. You still have to navigate it.",
+    "angles": [
+      "Fault vs. responsibility: you didn't cause AI or the changed labor market — but you're still inside the consequences.",
+      "Bitterness is an accurate read of the situation. It is not a strategy.",
+      "What the update looks like: portable skills, multiple income streams, less dependence on any single employer's mood."
+    ],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "021",
-    "hook": "Your whole financial life runs through one person's mood. That's the structure you're calling stable.",
-    "concept": "One employer, one boss, one set of moods between you and your rent. The concentrated risk is the safe choice.",
-    "angle": "reframe",
+    "hook": "Your entire financial life runs through one person's bad day.",
+    "angles": [
+      "One meeting, one restructure, one HR decision — the full fragility of the structure called 'stable job.'",
+      "A business with 4 small clients is structurally safer than a single employer. Yet one is called risky and the other isn't.",
+      "The job is the most concentrated financial risk most people hold. It just doesn't feel like risk because it's familiar."
+    ],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "022",
-    "hook": "You made $60k and felt free. You make $140k and feel trapped. The salary didn't do that.",
-    "concept": "Lifestyle creep — the consumption that rose to meet the income. You now need the salary you once didn't. The cage was built gradually and by choice.",
-    "angle": "observation",
+    "hook": "You made more money and got less free. The salary didn't do that.",
+    "angles": [
+      "Lifestyle creep: each raise bought a slightly more expensive version of the same constraint — bigger rent, more subscriptions, the car.",
+      "The cage was self-built. Not by greed, by the natural drift of having more and spending more.",
+      "What do you actually need to live the life you want? The number is usually much smaller than the current salary."
+    ],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "023",
-    "hook": "What most people want isn't more money. It's fewer things they can't say no to.",
-    "concept": "The actual desire is optionality. A deliberately smaller life can deliver that faster than waiting for a salary to grow large enough to feel like freedom.",
-    "angle": "reframe",
+    "hook": "You don't want more money. You want more no.",
+    "angles": [
+      "Optionality is the real target: the ability to decline the client, leave the meeting, not reply until tomorrow.",
+      "How much does a no actually cost? Usually less than people think — reduced expenses, one less employer, one fewer obligation.",
+      "The test: half the salary, full control of your schedule. Would you take it? Most people hesitate longer than they expect."
+    ],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "024",
-    "hook": "There's a version of financial safety built on one income source. It's also the most fragile version.",
-    "concept": "The conventional path optimizes for salary while creating single-point-of-failure dependency. An independent income, even smaller, distributes the risk.",
-    "angle": "reframe",
+    "hook": "The financially safe choice is usually the most fragile structure.",
+    "angles": [
+      "Concentration risk: one income source is a single point of failure by definition — any portfolio manager would flag this.",
+      "Diversification doesn't require quitting first. The second stream starts while the first one still pays the bills.",
+      "The target isn't replacing the income immediately — it's reducing the percentage of your life that depends on one person's decision."
+    ],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "025",
-    "hook": "You're not afraid of failing. You're afraid of failing and then not knowing who you are anymore.",
-    "concept": "The identity void underneath the practical fear — the title, the salary, the dinner party answer all serve as proof of competence. Losing them isn't a financial event. It's an existential one.",
-    "angle": "diagnostic",
+    "hook": "The fear isn't failure. It's finding out who you are without the job.",
+    "angles": [
+      "The title, the salary, the LinkedIn headline have been answering 'who are you?' quietly for years — without requiring an actual answer.",
+      "The real terror: try, fail, and then have no story left.",
+      "The reframe: the story was always borrowed. The job was never who you were — it was what you did."
+    ],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "026",
-    "hook": "Your body logged the decision before your mind caught up. The panic attacks, the cortisol, the Sunday that bleeds into Monday — those are data.",
-    "concept": "The nervous system registers what the rational mind rationalizes. The body is not malfunctioning. It's accurately reading a situation the mind has a vested interest in excusing.",
-    "angle": "observation",
+    "hook": "The Sunday dread isn't anxiety. It's your body doing math.",
+    "angles": [
+      "The calculation: 30 more years of this, rendered all at once on the one quiet day of the week.",
+      "The physical signals — cortisol, interrupted sleep, the Monday that starts Sunday night — are not symptoms of a disorder. They're data points about a situation.",
+      "The rational mind can rationalize the situation indefinitely. The nervous system can't."
+    ],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "027",
-    "hook": "You've known what to do for two years. More research won't change that.",
-    "concept": "Reading, watching, buying courses produces the feeling of progress without the exposure to risk. The information isn't what's missing.",
-    "angle": "diagnostic",
+    "hook": "You've known what to do for two years. The next course won't fix that.",
+    "angles": [
+      "The consumption loop: every book, course, podcast produces the feeling of movement without the exposure to risk.",
+      "This is not an information problem. It's an action problem. These require completely different interventions.",
+      "The test: what's the smallest version of the thing you keep preparing for? Can it happen this week?"
+    ],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "028",
-    "hook": "The people who tried and failed mostly got over it. The people who never tried mostly didn't.",
-    "concept": "Regret asymmetry — the fear of failure fades. The weight of the untried compounds. The math runs in one direction over a lifetime.",
-    "angle": "reframe",
+    "hook": "Failure fades. Regret compounds.",
+    "angles": [
+      "Almost no one at 60 regrets the things they tried that didn't work. Many regret the things they never tried.",
+      "What failure actually costs: usually less than feared, and often carries useful data about what to try next.",
+      "What not-trying costs: not the failure, but the not-knowing — and the story about yourself that forms around it."
+    ],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "029",
-    "hook": "What if the discomfort you're feeling right now is the system working, not breaking?",
-    "concept": "The anxious mind defaults to crisis framing. Sometimes the restlessness is directional, not pathological. The distinction changes what you do next.",
-    "angle": "observation",
+    "hook": "What if the discomfort is the system working, not breaking?",
+    "angles": [
+      "Growth friction vs. alarm: restlessness can be directional — pointing toward something — rather than just noise.",
+      "The default framing: everything uncomfortable reads as wrong. Sometimes wrong is just unfamiliar.",
+      "The question to ask when it's uncomfortable: is this feeling pointing somewhere, or is it just noise?"
+    ],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "030",
-    "hook": "Passion is something you build. It's not something you find.",
-    "concept": "Searching inward for a calling before taking action is usually the longest route to it. Purpose is a residue of solving real problems with sustained effort.",
-    "angle": "myth-bust",
+    "hook": "Passion isn't found. It's what's left after you've done something long enough.",
+    "angles": [
+      "The searching trap: looking inward for a calling before taking action is the longest route — you don't discover what you care about, you build it.",
+      "Purpose as residue: what you put consistent energy into, for long enough, becomes what you care about. Not mystical. Mechanical.",
+      "Not 'what am I passionate about?' but 'what would I do for free long enough to get good at it?'"
+    ],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "031",
-    "hook": "Nobody who left did it by jumping. They built something on the side until jumping wasn't the word for it anymore.",
-    "concept": "The dramatic resignation moment is almost never how it actually happens. The real path is quieter, longer, and more deliberate.",
-    "angle": "myth-bust",
+    "hook": "Nobody who left jumped. They made it so the jump didn't exist anymore.",
+    "angles": [
+      "The dramatic resignation is the myth — the actual path is quieter: a first client, a second, a decision that's already mostly made.",
+      "The bridge model: not about quitting — about making quitting less scary by making the alternative more real.",
+      "What the bridge looks like: 5 hours a week on the side, one project shipped, one person who paid you."
+    ],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "032",
-    "hook": "The goal isn't a different country. It's a Tuesday where nobody's waiting on a reply from you.",
-    "concept": "The actual picture of freedom — not a postcard, but the appointment without calendar negotiation, the flight booked Monday for Friday, the laptop closed at 1pm.",
-    "angle": "aspirational",
+    "hook": "The target isn't a beach. It's an unscheduled Tuesday.",
+    "angles": [
+      "The specific picture: the doctor's appointment without negotiating a calendar, the flight booked Tuesday for Friday, the laptop closed at 1pm.",
+      "People misidentify the goal as a location because Lisbon is concrete and 'sovereignty over Tuesday' isn't.",
+      "What actually needs to change: not the location — the income sources, the fixed costs, the employer count."
+    ],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "033",
-    "hook": "Most people end up in a life that assembled itself. They never decided anything — they just didn't stop the defaults.",
-    "concept": "The inherited life — the career, the city, the weekend rhythm: most of it arrived by inertia. Design is the act of interrupting the defaults before they calcify.",
-    "angle": "observation",
+    "hook": "Your life mostly assembled itself. You mostly just didn't object.",
+    "angles": [
+      "The default path: the job offer that was good, the city you stayed in, the routine that formed, the identity that calcified.",
+      "Design isn't planning everything — it's noticing the defaults and occasionally asking: did I choose this, or did it just happen?",
+      "The useful inventory: which parts of your current life did you actually decide? Which arrived by accumulation?"
+    ],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "034",
-    "hook": "The first client isn't found by picking a niche. It's found by doing something specific enough that someone with an actual problem recognizes you.",
-    "concept": "Niche paralysis — the category doesn't precede the client. The client precedes the category. Starting with the problem is faster than starting with the positioning.",
-    "angle": "myth-bust",
+    "hook": "Stop finding a niche. Find one person with one problem.",
+    "angles": [
+      "The positioning trap: waiting to know the perfect category before starting is the long way around.",
+      "How the first client actually arrives: not from a niche decision — from being useful to one specific person with one specific problem.",
+      "The sequence: one client → you learn what you're actually good at → the positioning emerges from evidence, not the other way around."
+    ],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "035",
-    "hook": "The standing desk is not the work. Neither is the Notion template. Neither is the productivity system.",
-    "concept": "The optimization trap — the gear, the setup, the ritual produce the feeling of preparation. The only thing that moves the work forward is the work.",
-    "angle": "myth-bust",
+    "hook": "The setup is not the work.",
+    "angles": [
+      "Making the environment feel ready is less frightening than starting — so people optimize endlessly instead of beginning.",
+      "The Notion template, the standing desk, the perfect morning routine: none of it produces the thing. Only the thing produces the thing.",
+      "The only metric that matters: did something exist at the end of this week that didn't exist at the beginning?"
+    ],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "036",
-    "hook": "Making something with your own hands feels different from the inside. That difference is the whole point.",
-    "concept": "In most corporate work, you can't point at a thing you made. The shift from abstract deliverables to concrete output changes how you relate to your own time.",
-    "angle": "aspirational",
+    "hook": "Pointing at something and saying 'I made that' registers differently than any company achievement.",
+    "angles": [
+      "A design, a video, a piece of writing carries a quality of ownership that slides, decks, and tickets never do.",
+      "What's missing in most knowledge work: the ability to point. The work is too abstract, too collaborative, too owned-by-the-company to be yours.",
+      "The shift: from contributor to author. Both do work. Only one of them made something."
+    ],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "037",
-    "hook": "The draft that's been sitting for 14 months is not a failure. It's the clearest signal you have about what you actually want to make.",
-    "concept": "The folder with the half-built thing, the domain bought 18 months ago. These aren't accidents. They're repeated attempts at telling yourself something.",
-    "angle": "reframe",
+    "hook": "The 14-month draft isn't procrastination. It's a direction.",
+    "angles": [
+      "The things you keep returning to — even to not finish — are more honest than your career plan.",
+      "The folder with the half-built thing, the domain bought 18 months ago: not failures. Evidence of a persistent pull.",
+      "The action: open it. Don't finish it. Just read the first paragraph. That's enough for today."
+    ],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "038",
-    "hook": "If your content sounds like everyone using the same framework, you haven't made content. You've made template output.",
-    "concept": "Shared frameworks produce interchangeable results. What separates the signal from the noise is a perspective that couldn't have been written by anyone else.",
-    "angle": "observation",
+    "hook": "Everyone using the same framework ends up saying the same thing.",
+    "angles": [
+      "Useful scaffolding that produces indistinguishable output. The framework is for structure. The angle has to be yours.",
+      "What differentiates: one specific angle that could only come from one person's specific experience with one specific problem.",
+      "The test: could this piece be written by 500 people following the same instructions? If yes, it's output, not content."
+    ],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "039",
-    "hook": "Where you live isn't a lifestyle preference. It's a neurological input your body processes every single day.",
-    "concept": "Environment shapes the nervous system at a level below decision-making. The place you live sets the floor of your daily experience. Most people never audit it.",
-    "angle": "reframe",
+    "hook": "Where you live is a daily input into your nervous system. Most people never audit it.",
+    "angles": [
+      "Density, commute, winter darkness, cost pressure, walkability — each affects the baseline every single day.",
+      "Environment operates below the level of habits. It sets the floor they're all working from.",
+      "Does your current environment support the person you're trying to become, or ask you to maintain the person you're trying to leave?"
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "040",
-    "hook": "Your morning routine cannot fix a city that keeps your body in survival mode.",
-    "concept": "Sunlight, noise, commute, rent pressure, social comparison — these are daily inputs no habit stack consistently overrides. The environment sets the baseline. The routine operates inside it.",
-    "angle": "reframe",
+    "hook": "Your morning routine can't fix a city that keeps you in survival mode.",
+    "angles": [
+      "Sunlight, noise, commute, financial pressure — these are inputs no 5am habit stack consistently overrides.",
+      "The morning routine optimizes inside the container. If the container is wrong, the optimization is compensatory.",
+      "What would your mornings look like if the environment made the behaviors easy instead of requiring effort to access them?"
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "041",
-    "hook": "The anxiety you've been managing might be a location signal, not a personality trait.",
-    "concept": "The nervous system uses physical cues to distinguish safe from unsafe — density, noise, financial pressure, darkness, pace. What reads as chronic anxiety might be an accurate read of the inputs.",
-    "angle": "diagnostic",
+    "hook": "The anxiety you've been managing might just be where you live.",
+    "angles": [
+      "The nervous system uses physical cues to assess safety: density, noise, financial pressure, darkness, pace — all inputs, not background.",
+      "What reads as chronic anxiety might be an accurate read of the environment. Not a disorder. A response.",
+      "The experiment: 3 weeks somewhere slower, quieter, warmer. What changes in the body without changing anything else?"
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "042",
-    "hook": "When your fixed costs drop, your nervous system exhales. Those two things happen at the same time.",
-    "concept": "Cost-of-living pressure is physiological, not just financial. The background urgency that governs most daily decisions is partly a function of how expensive it is to exist where you are.",
-    "angle": "observation",
+    "hook": "Lower rent and your nervous system exhale at the same time.",
+    "angles": [
+      "When fixed costs drop, the background urgency that governs daily decisions drops with it.",
+      "The creative bandwidth that opens: not because you have more time — because you have less permanent financial stress running as a background process.",
+      "How much does the expensive city actually cost in daily stress? Most people haven't run that calculation."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "043",
-    "hook": "Most people don't need a more disciplined morning. They need a different city.",
-    "concept": "Walkability, sunlight, slow pace, and lower financial pressure make the behaviors we try to force through habit easier by default. The environment does the work the routine is trying to compensate for.",
-    "angle": "myth-bust",
+    "hook": "Most people don't need a better morning routine. They need a different city.",
+    "angles": [
+      "Walkability, sunlight, and lower financial pressure make the behaviors you're forcing through willpower easier by default.",
+      "The environment does the behavioral work the routine is compensating for.",
+      "You're not bad at habits. Your environment is fighting you."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "044",
-    "hook": "Slowing down is not the opposite of ambition. It is the condition for sustainable ambition.",
-    "concept": "A nervous system running on urgency as its primary fuel eventually runs out. High performers who move to slower environments often describe the same output — without the constant sense of operating at the edge of capacity.",
-    "angle": "reframe",
+    "hook": "Slowing down didn't make me less productive. It removed the urgency I'd confused for ambition.",
+    "angles": [
+      "Running on constant low-grade stress feels like drive — until you're somewhere slower and realize the pace was anxiety, not motivation.",
+      "What sustainable output actually feels like: not pressure, not emergency — steady, directed engagement that doesn't need an adrenaline spike to start.",
+      "Most people who slow down report similar or better creative output. Because the nervous system isn't in recovery mode half the time."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "045",
     "hook": "A prestige city is very good at making survival feel like success.",
-    "concept": "High income, high stimulation, high social comparison. The environment optimized for professional output spends all the surplus it produces. The feeling of being permanently behind is a design feature of that ecosystem.",
-    "angle": "observation",
+    "angles": [
+      "High income, high stimulation, high social comparison — the city spends all the surplus it produces.",
+      "The always-behind feeling isn't personal underperformance. It's the environment's design. Prestige cities are optimized to generate wanting, not satisfaction.",
+      "How much of what you spend is maintenance? How much is actually choice?"
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "046",
     "hook": "Your nervous system has a cost of living too.",
-    "concept": "Noise, commute, winter darkness, rent pressure, social comparison, crowding — each is a daily input. The cumulative load doesn't appear on a balance sheet, but it appears in sleep quality, attention span, and the sense that you never fully exhale.",
-    "angle": "observation",
+    "angles": [
+      "The hidden ledger: noise, commute, winter, cost pressure, crowding — each is a daily withdrawal from something that doesn't appear on the bank statement.",
+      "What shows up instead: sleep quality, attention span, the feeling of never fully exhaling.",
+      "What is this environment costing you that doesn't appear on any spreadsheet?"
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "047",
-    "hook": "What people call 'wanting a slower pace' is usually wanting a lower daily input load. The brain stops bracing.",
-    "concept": "Walkability, less noise, more daylight, more nature — these aren't romantic lifestyle preferences. They're inputs with physiological outputs. The body stops running threat detection as a background process.",
-    "angle": "reframe",
+    "hook": "'I want a slower pace' usually means 'I want my brain to stop bracing.'",
+    "angles": [
+      "What the body is asking for: less input — less noise, less financial pressure, less social comparison, more space between events.",
+      "People think they want slowness because they're lazy. Usually it's the opposite — they've been at maximum input for too long.",
+      "Walkability, natural light, lower density: not romantic preferences. Inputs with measurable effects on baseline cortisol."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "048",
-    "hook": "Most people only discover how dysregulated they were after the environment changes.",
-    "concept": "The baseline is invisible until it shifts. You don't notice how much mental bandwidth was running background survival calculations until those calculations become unnecessary. The contrast is the data.",
-    "angle": "observation",
+    "hook": "Most people only find out how dysregulated they were after the environment changes.",
+    "angles": [
+      "The baseline is invisible until it shifts — you don't notice how much energy was running background survival calculations until they stop.",
+      "People who move to a different environment often describe a 2-3 week adjustment period, then a baseline shift they didn't expect.",
+      "You can't fully feel what you're missing until you've been somewhere that has it."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "049",
-    "hook": "Earning in one economy and spending in another is usually called geographic arbitrage. It's actually a structural reduction in daily urgency.",
-    "concept": "The finance framing misses the point. Lower fixed costs don't just change the spreadsheet — they change the decision-making state the rest of your life happens inside.",
-    "angle": "reframe",
+    "hook": "Earning in a strong currency and spending in a weak one isn't a finance trick. It's a nervous system intervention.",
+    "angles": [
+      "Geographic arbitrage reframed: the real output isn't financial — it's a structural reduction in daily urgency.",
+      "Lower cost of living doesn't just change the spreadsheet. It changes the decision-making state the rest of your life happens inside.",
+      "What becomes possible when the pressure drops: not more output. More actual thinking. More margin for error."
+    ],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "050",
-    "hook": "You can think your way out of a lot of things. Your baseline nervous system isn't one of them.",
-    "concept": "Environment shapes the nervous system at a level below decision-making. The place you live sets the floor. Most people try to override the floor instead of changing it.",
-    "angle": "observation",
+    "hook": "You can think your way out of most things. Your body's baseline isn't one of them.",
+    "angles": [
+      "The nervous system operates below rationalization — you can convince your mind the situation is fine while the body keeps sending distress signals.",
+      "What changes the baseline: environment, not mindset. Place, pace, pressure, light, safety — these are physiological inputs, not attitudes.",
+      "If you've been trying to fix a location problem with a mindset solution, that's why it hasn't worked."
+    ],
     "category": "environment",
     "status": "unused"
   }

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "idea forest",
+  title: "clouds",
   description: "A research library for life design content ideas.",
 };
 

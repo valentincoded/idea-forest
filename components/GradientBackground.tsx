@@ -20,7 +20,7 @@ export default function GradientBackground() {
           color2="#e8eef8"
           color3="#a0b8e0"
           brightness={1.1}
-          grain="on"
+          grain="off"
           cDistance={3.5}
           cPolarAngle={90}
           cAzimuthAngle={180}
