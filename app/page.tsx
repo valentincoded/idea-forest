@@ -57,8 +57,14 @@ export default function Home() {
 
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
-        <span className="text-sm font-medium tracking-widest text-slate-500 uppercase whitespace-nowrap">
-          ☁︎ clouds
+        <span className="flex items-center gap-2.5 select-none">
+          <span className="text-3xl leading-none text-slate-400">☁︎</span>
+          <span
+            className="text-sm font-thin tracking-[0.22em] text-slate-500 whitespace-nowrap"
+            style={{ fontVariantCaps: 'small-caps' }}
+          >
+            clouds
+          </span>
         </span>
         <Link
           href="/add"
