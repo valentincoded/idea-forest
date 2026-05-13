@@ -41,7 +41,7 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         <ul className="flex flex-col gap-2">
           {idea.angles.map((angle, i) => (
             <li key={i} className="flex gap-3 text-sm md:text-base text-slate-600 leading-relaxed font-light">
-              <span className="text-slate-300 select-none shrink-0">—</span>
+              <span className="text-slate-300 select-none shrink-0 tabular-nums text-xs mt-1">{String(i + 1).padStart(2, '0')}</span>
               <span>{angle}</span>
             </li>
           ))}
