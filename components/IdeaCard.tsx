@@ -48,6 +48,15 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         </ul>
       </div>
 
+      {idea.close && (
+        <div className="pt-4 border-t border-white/20">
+          <p className="text-xs text-slate-400 italic leading-relaxed">
+            <span className="not-italic text-slate-300 font-medium tracking-widest uppercase text-[10px] mr-2">close</span>
+            {idea.close}
+          </p>
+        </div>
+      )}
+
       <div className="flex items-center justify-end pt-2 border-t border-white/30">
         <button
           onClick={onMarkUsed}

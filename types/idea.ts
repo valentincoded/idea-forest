@@ -5,6 +5,7 @@ export interface Idea {
   id: string
   hook: string
   angles: string[]
+  close?: string
   category: Category
   status: Status
 }

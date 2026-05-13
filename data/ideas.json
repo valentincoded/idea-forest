@@ -1,552 +1,602 @@
 [
   {
     "id": "001",
-    "hook": "Describe an average Tuesday. Five years from now. Nothing changed.",
+    "hook": "A new city doesn't change you. It changes what's possible.",
     "angles": [
-      "Contrarian snapback: open with 'most people do the 5-year vision exercise and imagine their best case.' Stun: 'But that's not the exercise that actually works.' Snap: 'Describe the default. The Tuesday where nothing changed.' Question planted: what does my default Tuesday actually look like?",
-      "Pain lead: 'What would it feel like to still be in this exact situation in 5 years?' Let that sit. Then make it specific. Not feelings. The actual Tuesday. Walk it out hour by hour.",
-      "Staccato: walk your own last Tuesday out loud. Every hour. No commentary. No analysis. Just what happened. The boringness is the video. Visual: your commute, your desk, your 3pm."
+      "Contrarian snapback: open with 'most people move and expect to become a different person.' Stun: 'But here's what actually happens.' Snap: 'The city doesn't rewrite you. It rewrites your ceiling. What becomes available, normal, and expected shifts completely.' Question planted: what has my current city quietly ruled out for me?",
+      "Benefit lead: 'If you want to think bigger without forcing it, there's one lever most people never name.' Then reveal: the city you live in sets the social proof for what's possible. The ambient ceiling changes what you can even conceive of.",
+      "Observation: 'Notice how people who moved somewhere radically different talk about their life before like it was a different person. Same values. Different scale.' Visual: cut between two contrasting neighborhoods, two contrasting daily routines."
     ],
-    "category": "time",
+    "close": "The city wasn't the upgrade. Access to different evidence of what a life looks like was.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "002",
-    "hook": "Getting better at the wrong life is not a win.",
+    "hook": "Your city is writing your identity. You haven't read the draft.",
     "angles": [
-      "Contrarian snapback: open with 'a promotion is supposed to feel like validation.' Stun: 'But there's a specific kind of promotion that feels worse than nothing.' Snap: 'When the thing you're getting better at was never the right game.' Question planted: am I optimizing the wrong system?",
-      "Pain lead: 'Have you ever gotten exactly what you were working toward and felt nothing?' That gap between achievement and feeling is the video. Explain what it means.",
-      "Story: tell the story of someone who got promoted three times in a job they already knew wasn't right after the first one. The math doesn't add up. Keep it specific."
+      "Contrarian snapback: open with 'location is supposed to be just a backdrop.' Stun: 'But the backdrop is doing more than you think.' Snap: 'The people around you, the commute, the cost of living, what success looks like locally. All of it is installing beliefs without asking.' Question planted: what has my city been quietly teaching me about what's normal?",
+      "Pain lead: 'What if the ceiling you feel isn't yours? What if it's the ceiling of your zip code?' Then walk through how environments transmit definitions of success, ambition, and normal without announcing themselves.",
+      "Staccato: 'The city has a personality. You've been absorbing it. Check the download history.' Visual: your neighborhood from above, then your internal monologue narrated as you walk through it."
     ],
-    "category": "time",
+    "close": "You did not choose those beliefs. You just stayed long enough to mistake them for facts.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "003",
-    "hook": "You don't want to move to Bali. You want a Tuesday with nowhere to be.",
+    "hook": "The weather didn't change your mood. It set the floor.",
     "angles": [
-      "Contrarian snapback: open with 'everyone's dream destination is different.' Stun: 'But here's what's interesting.' Snap: 'When you press people on what they're actually imagining, the Tuesday looks almost identical.' Question planted: what am I actually imagining?",
-      "Pain lead: 'You've probably said you want to move somewhere. What were you actually picturing in that moment?' Describe it in detail. The fantasy is almost never about the place.",
-      "Staccato: 'It's not Bali. It's Tuesday. No notifications. Nowhere to be. Laptop closed at 1pm. That's the target. That doesn't require a flight.' Visual: the specific morning, not the destination."
+      "Contrarian snapback: open with 'everyone blames winter for low energy.' Stun: 'But the real mechanism is subtler.' Snap: 'Chronic gray weather doesn't make you sad. It lowers the floor of normal until the floor feels like you. The flatness stops registering as external.' Question planted: is my low-grade flatness mine, or borrowed from the climate I've been living in?",
+      "Benefit lead: 'If you want more consistent baseline energy without changing anything about your habits, there's one variable most people skip over entirely.' Then explain: sun exposure as a mood architecture variable, not just a vitamin D problem.",
+      "Story: tell the story of moving to a sunnier city and not realizing for weeks that the persistent low-grade weight had lifted. Not one dramatic morning. Just a Tuesday that felt inexplicably lighter. Visual: the same morning in two climates."
     ],
-    "category": "time",
+    "close": "The gray was never yours. You just stopped noticing it was there.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "004",
-    "hook": "You have more saved than two years ago. Still haven't left.",
+    "hook": "You've been calling it ambition. It might be your zip code.",
     "angles": [
-      "Contrarian snapback: open with 'most people think the savings account is a countdown to freedom.' Stun: 'But it turns out.' Snap: 'The more you have, the less it feels like permission. The number keeps moving.' Question planted: why hasn't the number changed anything?",
-      "Pain lead: 'You've moved the threshold at least once. When I have X, I'll do it. What happened when X arrived?' Tell that story honestly. The number was never the thing.",
-      "Confession: 'You're not waiting for the number to change. You're waiting for the feeling to change.' That distinction is the video. What would actually change the feeling?"
+      "Contrarian snapback: open with 'ambition feels like a personality trait.' Stun: 'But here's what the evidence keeps showing.' Snap: 'The people around you set the reference class for what's achievable. Your ambition is partly just your social proof environment talking back to you.' Question planted: is my ambition mine, or capped at what the people around me believe is possible?",
+      "Pain lead: 'If you grew up somewhere where no one around you did the thing, you probably think it's harder than it is. Not because you're wrong. Because you've never seen evidence that contradicts it.' Then explain the reference class problem.",
+      "Staccato: 'The ceiling is local. Most people never leave to test it. The ones who do rarely come back saying the wall was real.' Visual: two people from the same town, one who left, one who stayed, five years later."
     ],
-    "category": "time",
+    "close": "The ambition ceiling you thought was talent was mostly geography.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "005",
-    "hook": "Sunday night isn't anxiety. It's when the math becomes impossible to avoid.",
+    "hook": "Most walls are local. Cross a border and they disappear.",
     "angles": [
-      "Contrarian snapback: open with 'most people treat Sunday night dread as a mood problem to manage.' Stun: 'But here's a different read.' Snap: 'It's a calculation. 30 more years, rendered all at once on the one quiet day of the week.' Question planted: what is my body actually calculating?",
-      "Pain lead: 'You know the feeling. You're doing something normal and it just arrives. Describe it physically, specifically.' Then explain what calculation is running underneath it.",
-      "Staccato: 'Sunday night isn't anxiety. It's the math. The job, the years, the same Tuesday repeating. It all becomes visible when there's nothing to distract from it.' Let that land before explaining."
+      "Contrarian snapback: open with 'the obstacles in your life feel structural and permanent.' Stun: 'But there's a specific kind that falls apart completely when you move.' Snap: 'Social rules, professional constraints, definitions of normal. Most of them are local. Not global. Not facts. Just local ordinances you never left the jurisdiction of.' Question planted: which of the walls I've accepted are just local conventions I've never tested?",
+      "Benefit lead: 'If you want to find out which of your limitations are real and which are cultural, there's one shortcut that works faster than any amount of self-reflection.' Then explain: physical relocation reveals the difference faster than therapy because it changes the social environment, not just the thinking.",
+      "Observation: 'Notice how expats all describe the same thing. A loosening. A rule they followed for years that no one enforces here. The wall was always local.' Visual: a border crossing, literal or metaphorical. The same person on both sides."
     ],
-    "category": "time",
+    "close": "The limitation that felt permanent was a local ordinance. You were just never outside its jurisdiction.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "006",
-    "hook": "You're not lazy. The ceiling is just too low.",
+    "hook": "Walkable cities make different people. This is not a metaphor.",
     "angles": [
-      "Contrarian snapback: open with 'people who underperform usually get told they need more discipline.' Stun: 'But there's a specific case where that diagnosis is completely wrong.' Snap: 'When the ceiling is too low, capable people perform worse, not better.' Question planted: is my underperformance actually a ceiling problem?",
-      "Pain lead: 'Have you ever had a job with almost nothing to do and felt worse than when you were busy?' Describe that specific emptiness. Then explain what boreout is and how it reads from outside.",
-      "Story: walk through a week with almost nothing to do at work. The specific feeling of it. How that emptiness registers in the body. The thing that gets misread as a character flaw."
+      "Contrarian snapback: open with 'walkability is usually sold as a convenience feature.' Stun: 'But it changes the texture of how you think.' Snap: 'When the default movement is your own legs and ambient human contact, the quality of your thoughts over a day shifts. It's cognitive infrastructure, not a lifestyle perk.' Question planted: what is my daily movement doing to my thinking without my awareness?",
+      "Benefit lead: 'If you want more clarity, more accidental good ideas, and less background anxiety without adding anything to your routine, the answer might be in the design of your city.' Then explain walkability as cognitive infrastructure, not just convenience.",
+      "Staccato: 'Walking is thinking. The city that makes you walk makes you think. The city that puts you in a car makes you commute.' Visual: a walkable city neighborhood at 8am versus a suburban commute at the same time. Same hour, different internal state."
     ],
-    "category": "identity",
+    "close": "The insight wasn't the walk. It was everything the walk interrupted that the car would have replaced with noise.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "007",
-    "hook": "You've never actually tested if the skills work outside the building.",
+    "hook": "The most interesting people in your city already left. That matters.",
     "angles": [
-      "Contrarian snapback: open with 'people stay in jobs they've outgrown because they don't want to risk finding out they can't survive elsewhere.' Stun: 'But here's what the test almost always shows.' Snap: 'The skills transfer better than feared. The confidence was the variable, not the skill.' Question planted: what would I actually find out?",
-      "Pain lead: 'When's the last time you did work for someone who didn't already know you? How that test feels different from any internal performance review.'",
-      "Story: tell the story of the first piece of work done for someone outside your company. What you expected. What actually happened. Be specific."
+      "Contrarian snapback: open with 'we talk about brain drain like it's a problem for cities.' Stun: 'But here's what it means for you specifically.' Snap: 'If the people with the most curiosity and ambition keep leaving your environment, what does staying say about the ceiling you've accepted?' Question planted: am I staying because it's right, or because leaving feels harder?",
+      "Pain lead: 'Have you watched the most interesting person in your circle move somewhere and change completely in 18 months? That's not coincidence. That's environment.' Then explain what that observation means when you're still here.",
+      "Story: tell the story of two people from the same town. One stays because it's comfortable. One leaves because the signal is wrong. Five years later they have different reference classes for what's normal. Be specific about what those reference classes produce."
     ],
-    "category": "identity",
+    "close": "Staying was never neutral. It was also a choice, with its own outcomes.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "008",
-    "hook": "Nobody in your circle gets it. That doesn't mean you're wrong.",
+    "hook": "You can't outwork a city working against you. The math never closes.",
     "angles": [
-      "Contrarian snapback: open with 'the people closest to you usually have the most concern when you stop following the default path.' Stun: 'But here's what that concern is actually made of.' Snap: 'Not doubt in you. The circle's map of what's normal. And their map has never been tested.' Question planted: is my hesitation mine or borrowed?",
-      "Story: tell the specific story of bringing the idea up to people you trust. The faces, the redirect, the silence. What that did to the impulse afterward.",
-      "Staccato: 'Nobody in your circle gets it. That's normal. Early always looks like a crisis from inside the default path. That doesn't make it one.' Visual: the specific conversation setting."
+      "Contrarian snapback: open with 'discipline is supposed to override environment.' Stun: 'But there's a point where the environment is doing too much work in the opposite direction.' Snap: 'Cost of living that requires 60-hour weeks, commutes that consume the creative hours, social circles that misread your direction. You can push against all of it, but you're paying an environment tax the whole time.' Question planted: how much of my energy is going toward compensating for an environment that doesn't fit?",
+      "Pain lead: 'If you keep working harder and the conditions keep not improving, the problem might not be the work.' Then walk through the math of an environment that costs more energy to compensate for than it gives back.",
+      "Staccato: 'The city is a co-founder. Some are bad co-founders. You're allowed to notice that.' Visual: the same work ethic in two different environments producing different outputs."
     ],
-    "category": "identity",
+    "close": "Changing the environment is not giving up. Sometimes it is the most direct route to the result.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "009",
-    "hook": "Take the title away. The salary. The headline. What's left?",
+    "hook": "Slow cities aren't lazy. They run a different OS.",
     "angles": [
-      "Contrarian snapback: open with 'we all know our job doesn't define us.' Stun: 'But here's the exercise that actually tests that.' Snap: 'You're at a party. Nobody knows you. You don't have the role yet. Describe yourself.' Question planted: what would I actually say?",
-      "Pain lead: 'The party test. You're at an event. Nobody knows you. The role doesn't exist yet. How long before the pause in your answer becomes uncomfortable?' That pause is data.",
-      "Confession: 'Most people can't finish this exercise. Not because there's nothing left. Because what's left feels thinner than what they traded for the title.' Walk through what you found when you tried it."
+      "Contrarian snapback: open with 'we treat fast-paced cities as the default goal.' Stun: 'But here's what you give up to live in one.' Snap: 'The pace is not neutral. High-stimulation environments produce high-stimulation thinking. Useful for some things, destructive for others. The city is setting the operating speed of your mind.' Question planted: is the pace of my environment aligned with the pace my best work actually needs?",
+      "Benefit lead: 'If you want to think deeper, not just faster, you might need a different tempo. Not a better productivity system.' Then explain the operating system metaphor for city pace and cognitive output.",
+      "Observation: 'Notice how people who move from a major hub to a slower city describe the first few months as disorienting, then describe the work they did there as some of their best.' Visual: a quiet morning in a slow city versus peak commute hour in a fast one. Same person, different output."
     ],
-    "category": "identity",
+    "close": "The pace was never the virtue. Choosing the right pace for the right kind of thinking was.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "010",
-    "hook": "The most interesting parts of you never make it into the job description.",
+    "hook": "Your neighborhood has a personality. It's been shaping yours.",
     "angles": [
-      "Contrarian snapback: open with 'most companies say they want you to bring your whole self to work.' Stun: 'But there's a structural reason that doesn't actually happen.' Snap: 'You were hired for a function. The rest of you is present but off-clock by design.' Question planted: what am I leaving at the door every day?",
-      "Pain lead: 'What are the opinions you hold back in meetings? The interests too specific for the professional context? Make that list.' That list is the point.",
-      "Story: describe the most alive, opinionated, specific version of yourself outside of work. Then describe the version that shows up Monday morning. The gap between them is the video."
+      "Contrarian snapback: open with 'we think of neighborhood as just a logistical choice.' Stun: 'But the ambient input is constant.' Snap: 'What you overhear at coffee shops, who you run into, what success looks like on the street. Your neighborhood is writing the background of your internal life one Tuesday at a time.' Question planted: what has my neighborhood been quietly normalizing for me?",
+      "Pain lead: 'The version of you in a different neighborhood is not a fantasy. The environment is actively producing the current one.' Then explain how ambient social input shapes identity over time without announcing itself.",
+      "Staccato: 'Walk your neighborhood and notice what it's teaching you. What's celebrated. What's considered weird. What costs signal status. That's the curriculum.' Visual: a slow walk through a neighborhood, narrating what it teaches."
     ],
-    "category": "identity",
+    "close": "Geography is autobiography. The place you live is also the place you are becoming.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "011",
-    "hook": "Your manager is the 10-year warning.",
+    "hook": "The walk home is where ideas live. Most people skip it.",
     "angles": [
-      "Contrarian snapback: open with 'your manager has more experience, more salary, more stability. Usually exactly what you're working toward.' Stun: 'But there's something uncomfortable about looking at them.' Snap: 'The path that produced them is the path you're currently on.' Question planted: is that the destination?",
-      "Pain lead: 'Have you ever been in a meeting with your manager and felt a quiet calculation running in the background? Describe what that calculation was actually adding up.'",
-      "Story: the moment it first occurred to you. Where you were. What was being discussed. That specific flash of recognition. Keep it concrete, not abstract."
+      "Contrarian snapback: open with 'we talk about creative thinking as if it happens at a desk.' Stun: 'But here's where it actually happens.' Snap: 'Transitions. Commutes. Walks. The unfocused mind is where connections form. Most people are deleting that window with their phone before it can produce anything.' Question planted: how many ideas am I eliminating before they can surface?",
+      "Benefit lead: 'If you want more of the thinking that actually moves things forward, the upgrade isn't a better tool. It's protecting the gaps in your attention.' Then explain the transition walk as incubation window, not wasted time.",
+      "Observation: 'Notice that every time you've had a breakthrough thought, you probably weren't sitting at your desk trying to have one.' Visual: walking somewhere without headphones. The silence as a deliberate choice."
     ],
-    "category": "identity",
+    "close": "The phone fills the gap. The gap was where the insight was.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "012",
-    "hook": "You know you're good here. You don't know if you're good.",
+    "hook": "You've outgrown this city. The reasons to stay are excuses.",
     "angles": [
-      "Contrarian snapback: open with 'five years of strong performance reviews suggests you're skilled.' Stun: 'But here's the question nobody actually asks.' Snap: 'Are you good, or are you fluent in this specific system? Those are different things and they require different tests.' Question planted: have I ever tested the difference?",
-      "Pain lead: 'When's the last time you doubted your own skills in a non-abstract way? What does that thought feel like when it arrives?' That's the video.",
-      "Story: tell the story of the first external project. What you expected versus what actually happened. Most people discover the skills transfer better than feared. The confidence was the variable."
+      "Contrarian snapback: open with 'loyalty to a place feels like a virtue.' Stun: 'But here's the thing.' Snap: 'When the city stops being the right input for the person you are now, staying is not loyalty. It's inertia dressed in a story you keep making more elaborate.' Question planted: is the story I'm telling about staying actually true, or does it just require less action?",
+      "Pain lead: 'What if the right version of your next chapter requires a different backdrop? Not because you're running from something. Because you're running toward it.' Then explain: outgrowing a city is not abandonment. It's an update.",
+      "Staccato: 'The city fit once. You've changed. Check if it still fits. You're allowed to get a different size.' Visual: the same familiar streets, but the feeling of watching them from the outside."
     ],
-    "category": "identity",
+    "close": "The place doesn't have to be permanent just because it was once right.",
+    "category": "environment",
     "status": "unused"
   },
   {
     "id": "013",
-    "hook": "Build something around the part that doesn't fit.",
+    "hook": "The version of you waiting to feel ready. It's been waiting for years.",
     "angles": [
-      "Contrarian snapback: open with 'most career advice says lean into your strengths and smooth out what doesn't fit.' Stun: 'But the strongest personal brands work backwards from that.' Snap: 'They're built around the excess. The specific obsession. The thing too strong for the room.' Question planted: what's the part of me I've been containing?",
-      "Pain lead: 'What's the thing about you that's too much for most professional contexts? Too opinionated, too specific, too interested in the wrong thing?' Name it. That's the differentiator.",
-      "Staccato: 'The averaged-down version of you is interchangeable. The excess is the product. What are you containing that you shouldn't be?' Visual: contrast between the professional version and the specific version."
+      "Contrarian snapback: open with 'preparation feels like responsibility.' Stun: 'But here's what it becomes.' Snap: 'The preparation that never produces action is not preparation. It's a permission structure you built to feel like you're doing the thing without doing the thing.' Question planted: what am I actually waiting for, and would it ever be enough?",
+      "Pain lead: 'There's a specific feeling when you realize that the version of you that was going to start has been about to start for two years.' Let that sit. Then make it specific. Not a concept. A particular thing.",
+      "Staccato: 'Ready is a myth. You will never feel ready. The people who did the thing felt exactly like you do now. They went anyway.' Visual: a literal starting line that no one is crossing, then one person stepping over it."
     ],
+    "close": "Readiness was never the condition. Starting was always the event.",
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "014",
-    "hook": "The deal changed. Most people are still honoring the old terms.",
+    "hook": "You are not who you were trained to be. That training is still running.",
     "angles": [
-      "Contrarian snapback: open with 'performance plus loyalty used to equal security and upward movement.' Stun: 'But the company already updated its model.' Snap: 'The original contract doesn't hold the same way. Most people just haven't updated theirs.' Question planted: what does the updated model actually look like?",
-      "Pain lead: 'Think about who gave you the stable-path advice. When were they forming that view? What year, what economy?' Then show what's changed since that calibration.",
-      "Story: tell the story of someone who followed the original deal faithfully. What happened. Then explain why the terms shifted and what the update requires."
+      "Contrarian snapback: open with 'identity feels like something you grew into.' Stun: 'But most of it was installed.' Snap: 'The beliefs about what you're capable of, what you deserve, what kind of person you are. Most of that was written by other people before you could evaluate the source.' Question planted: which of the beliefs I'm running today were installed by people who had no idea what I'd become?",
+      "Pain lead: 'The self-limiting belief that feels the most like a fact is usually the one that was repeated the most times during the years you couldn't argue back.' Then explain inherited identity schemas and why they feel structural even when they're not.",
+      "Observation: 'Notice how the most confident people you know aren't necessarily the most capable. They just received a different set of inputs. The same thing can be reprogrammed.' Visual: a debug terminal running old software, then an update prompt appearing."
     ],
-    "category": "system",
+    "close": "The schema was installed without your consent. Auditing it is available at any time.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "015",
-    "hook": "The people most capable of leaving usually stay the longest.",
+    "hook": "The job title is not the person. Most people forgot that early.",
     "angles": [
-      "Contrarian snapback: open with 'you'd expect the most talented people to leave first, since they have the most options.' Stun: 'But it works exactly backwards.' Snap: 'High performers get the best projects, the most interesting problems, the most reason to stay. The handcuffs fit tightest on the most capable wrists.' Question planted: is competence trapping me?",
-      "Pain lead: 'Think about the most talented person you've known at a company who stayed too long. What was the specific mechanism that kept them?' Name it precisely.",
-      "Observation: 'The people who left your last company fastest were often not the ones you'd have chosen to keep. And the ones who stayed longest were often the most capable. That pattern has a reason.'"
+      "Contrarian snapback: open with 'a title is supposed to describe what you do.' Stun: 'But here's what happens slowly.' Snap: 'The description starts to become the identity. The calendar fills with what the title requires. The person starts to disappear behind the function.' Question planted: where did the person go when the title arrived?",
+      "Pain lead: 'If you had to describe yourself without referencing anything you do for money, how much would be left?' Let that sit. Then explore what it means when the answer is not much.",
+      "Staccato: 'The title is a hat. You are not the hat. Take it off sometimes and check who's under it.' Visual: someone removing a uniform and standing differently. Not dramatically. Just differently."
     ],
-    "category": "system",
+    "close": "The person was always more than the function. The title just made the person hard to see.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "016",
-    "hook": "The job gets your first 8 hours. Everything you love gets the rest.",
+    "hook": "The version of you five years ahead isn't more talented. Just less afraid.",
     "angles": [
-      "Contrarian snapback: open with 'most work-life balance advice focuses on protecting personal time.' Stun: 'But there's a more precise version of the problem.' Snap: 'The job doesn't just get your time. It gets your sharpest thinking, your highest energy. Everything else gets what's left.' Question planted: what is running on my best hours right now?",
-      "Pain lead: 'Map out a specific Tuesday. When were you sharpest? What was using that energy? Then describe what got the leftovers.' The answer is the video.",
-      "Question hook: 'What would your week look like if the thing you actually cared about got your first four hours?' Start there. Then work backward to what would have to change."
+      "Contrarian snapback: open with 'we imagine the future version of ourselves as fundamentally more capable.' Stun: 'But that's not the actual difference.' Snap: 'The skills are already largely there. What the future version has is permission to use them. The fear hasn't been scheduled for the meeting.' Question planted: what would I do right now if I already had the confidence of my five-year-ahead self?",
+      "Benefit lead: 'If the main difference between you now and the version of you that has the thing is fear management, then the path is shorter than it looks.' Then explain: the competence gap is smaller than the permission gap.",
+      "Staccato: 'Future you is not more skilled. Future you already made the decision and lived through the part you're afraid of. The decision is the part.' Visual: a timeline with the fear event circled, not the skill gap."
     ],
-    "category": "system",
+    "close": "The capability was already there. What the future version has is a smaller fear of using it.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "017",
-    "hook": "Still hitting your numbers. Nobody knows you've checked out.",
+    "hook": "The why-not story is self-fulfilling. That's the whole mechanism.",
     "angles": [
-      "Contrarian snapback: open with 'burnout usually gets described as when performance starts to slip.' Stun: 'But there's a specific type that works completely differently.' Snap: 'High-performing burnout. Autopilot. The muscle memory keeps running after the motivation has left. No signal for anyone to respond to.' Question planted: am I in this state right now?",
-      "Pain lead: 'Describe the most recent meeting where you were physically present and completely elsewhere. What you were actually thinking about.' That gap is the video.",
-      "Observation: 'The interesting thing about this state is that people in it almost never call it burnout. They call it fine. And they mean it. That's what makes it worth examining.'"
+      "Contrarian snapback: open with 'limitations feel like external facts.' Stun: 'But here's what most of them actually are.' Snap: 'A narrative that keeps getting rehearsed. The story about why not gets more sophisticated over time. It doesn't get truer. It gets more convincing.' Question planted: is the limitation I keep describing a fact, or a story I've been practicing?",
+      "Pain lead: 'The most painful version of this is when you can see it in someone else but not in yourself. The thing they can't do that you can clearly see they could.' Then turn the mirror around explicitly.",
+      "Staccato: 'Write the story you tell about why you can't. Read it back. Look for the word never. That word is doing the work.' Visual: a written list of reasons, then one word highlighted."
     ],
-    "category": "system",
+    "close": "The constraint that sounds like reality has been rehearsed. Rehearsed enough that it feels structural.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "018",
-    "hook": "AI is exposing which jobs were ever really yours.",
+    "hook": "Your parents' stability was a hypothesis. Theirs, not yours.",
     "angles": [
-      "Contrarian snapback: open with 'most people think AI is a general threat to employment.' Stun: 'But it's a more specific filter than that.' Snap: 'It's separating jobs that require a specific person from jobs that were always about execution. The execution ones were never really yours.' Question planted: which category is my job in?",
-      "Pain lead: 'Describe the first time you used an AI tool on a task you'd been doing for years. What happened. How did the comparison feel in the first five minutes.' That reaction is data.",
-      "Staccato: 'What survives is judgment, perspective, taste. Things a specific person builds over time. What doesn't survive is templated execution. Which one does your job run on?' Visual: side-by-side of your output vs AI output on the same task."
+      "Contrarian snapback: open with 'the stable path is supposed to be the proven one.' Stun: 'But here's what that assumption rests on.' Snap: 'It was formed in a different economy, a different opportunity landscape, a different version of what risky meant. The advice is from a world that no longer operates.' Question planted: whose risk assessment am I actually running, and when was it written?",
+      "Pain lead: 'The guilt that comes from choosing a different path than the one your parents understand is real. It's also not data about whether the path is right.' Then separate the emotional cost from the analytical one.",
+      "Observation: 'Notice how the people who give the most confident stability advice are often the ones who most needed to believe the stable path was right. There's a conflict of interest in the source.' Visual: same advice from different sources with different incentives visible."
     ],
-    "category": "system",
+    "close": "The inherited schema is a survival tool from a world that no longer operates the same way.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "019",
-    "hook": "Not leaving is still a choice. With compounding consequences.",
+    "hook": "The responsible choice isn't always the right one. Nobody says that early enough.",
     "angles": [
-      "Contrarian snapback: open with 'most people frame staying in a job they're unhappy with as not having decided yet.' Stun: 'But here's what that framing is actually doing.' Snap: 'Not deciding is a decision. With consequences that compound every year it continues.' Question planted: what have I been choosing by not choosing?",
-      "Pain lead: 'Think about the last time you said not yet. What was the specific reason? What actually changed in that year?' The honest answer to those two questions is the video.",
-      "Staccato: 'Not leaving is still a choice. Say that again. Every year on the default path is a decision. The vague version of staying and the deliberate version feel completely different in the body. Which one is this?'"
+      "Contrarian snapback: open with 'responsibility is taught as the virtue that overrides personal direction.' Stun: 'But here's what that trade looks like over time.' Snap: 'The responsible choice, compounded over decades, produces a life that was technically correct and personally empty. The risk wasn't the irresponsible option. The risk was playing it safe and being wrong.' Question planted: what is the actual cost of the responsible path, paid in full over 20 years?",
+      "Pain lead: 'If you took the responsible path and something still feels off, it might not be ingratitude. It might be that responsible was always someone else's metric.' Then explore: whose definition of responsibility are you operating on?",
+      "Story: tell the story of choosing the responsible path at 23 and realizing at 31 that there is a version of responsibility to yourself that no one taught. Specific moment. Concrete detail. The day it clicked."
     ],
-    "category": "system",
+    "close": "Responsibility to others, compounded, without a single day of responsibility to yourself, is not virtue. It is a different kind of debt.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "020",
-    "hook": "You didn't break the economy. You still have to navigate it.",
+    "hook": "You fell into this field. That's different from choosing it.",
     "angles": [
-      "Contrarian snapback: open with 'the structural changes in the job market are real and they're unfair.' Stun: 'But here's the distinction that actually matters.' Snap: 'Fault and responsibility are different things. You didn't cause this. You still operate inside the consequences.' Question planted: what does operating inside it actually look like?",
-      "Pain lead: 'Name the specific changes that happened. Be honest about them. Then make the turn: what does the update actually require for someone in your position?'",
-      "Observation: 'The people doing well right now share one operating assumption. They stopped waiting for the system to restore itself. Not optimism. Just a different starting point.'"
+      "Contrarian snapback: open with 'expertise is supposed to be direction.' Stun: 'But here's the thing about expertise you accumulated by accident.' Snap: 'It's hard to leave because it took years. It's harder to stay because you know exactly what the next 20 years look like from here.' Question planted: is the expertise I've built an asset or a sunk cost keeping me in the wrong direction?",
+      "Pain lead: 'The sunk cost of expertise in the wrong field is the most expensive trap because it looks like an asset.' Then explain: capability in the wrong direction is not the same as capability toward the right one.",
+      "Staccato: 'Fell into. Built up. Good at. Can't leave. That's not a career arc. That's a trap with a great-looking profile.' Visual: a resume that tells a coherent story of the wrong direction."
     ],
-    "category": "system",
+    "close": "The expertise doesn't have to come with you. Building it was not wasted. Using it as a reason to stay is.",
+    "category": "identity",
     "status": "unused"
   },
   {
     "id": "021",
-    "hook": "Your entire financial life runs through one person's bad day.",
+    "hook": "One decision made once beats a thousand willpower battles. Design it right.",
     "angles": [
-      "Contrarian snapback: open with 'a single employer feels stable because it's familiar.' Stun: 'But run it through a basic risk analysis and something weird happens.' Snap: 'One income source is a single point of failure by definition. A business with four clients is structurally safer. Yet one gets called risky.' Question planted: why does the more fragile structure get called the safe one?",
-      "Pain lead: 'Walk through the scenario: one meeting, one restructure, one 4pm HR calendar invite on a Friday. What does that email actually change? Be specific.' The specificity is the video.",
-      "Staccato: 'Your entire financial life runs through one person's bad day. Not metaphorically. Literally. One meeting. Let that be specific before moving on.'"
+      "Contrarian snapback: open with 'discipline is supposed to be the answer to consistency.' Stun: 'But here's what discipline is actually terrible at.' Snap: 'Overriding environments. You can outrun the environment for a while, but the environment always wins the long game. One architectural decision eliminates the need for willpower entirely.' Question planted: which of the battles I fight every day could be resolved by changing the environment instead?",
+      "Benefit lead: 'If you want to do the thing without fighting yourself to do it, the solution might not be motivation. It might be removing the decision entirely.' Then explain: design for the default, not the exception.",
+      "Staccato: 'Stop trying to win the battle. Remove the battlefield. The behavior you want should be the path of least resistance. Build that.' Visual: removing friction from a path, not adding force to push through it."
     ],
-    "category": "money",
+    "close": "The system that runs without effort was designed. The effort was in the design, not the execution.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "022",
-    "hook": "You made more money and got less free. The salary didn't do that.",
+    "hook": "You keep starting the same system over. New month, same design.",
     "angles": [
-      "Contrarian snapback: open with 'most people assume a higher salary means more freedom.' Stun: 'But something interesting happens on the way up.' Snap: 'Each raise bought a slightly more expensive version of the same constraint. The cage gets rebuilt at every income level.' Question planted: what did the raises actually buy?",
-      "Story: tell the progression. The first raise, what changed. The second. What you own now that you didn't own before. The sum of those decisions is the video.",
-      "Confession: 'What do you actually need to live the life you want? Not what you spend. What you need.' Most people have never run that number. It's almost always smaller than the current salary."
+      "Contrarian snapback: open with 'the new year resolution feels like a fresh start.' Stun: 'But the architecture is identical.' Snap: 'The problem was never follow-through. The problem was a system designed by someone who didn't know themselves well enough yet to build the right one.' Question planted: what is the actual design flaw I keep not fixing?",
+      "Pain lead: 'The frustration of starting over for the fourth time is real. It is also diagnostic. The same failure pattern is a signal about the system, not about you.' Then explain: the failure is data, not a verdict on character.",
+      "Observation: 'Notice that the systems that actually stick are almost always boring. Simple. No willpower-dependent steps. The elaborate ones are performance, not architecture.' Visual: a complex system collapsing versus a simple one that just keeps running."
     ],
-    "category": "money",
+    "close": "The architecture was the problem. It had nothing to do with your character.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "023",
-    "hook": "You don't want more money. You want more no.",
+    "hook": "Your morning is a ritual. You didn't choose the ceremony.",
     "angles": [
-      "Contrarian snapback: open with 'when people describe financial freedom they usually talk about a number.' Stun: 'But here's what they're actually describing.' Snap: 'Optionality. The ability to decline the client, leave the meeting early, not reply until tomorrow. The money is just the mechanism to protect the no.' Question planted: what would I say no to this week if it cost me nothing?",
-      "Pain lead: 'Name one thing you would say no to this week if declining cost you nothing professionally. That specific thing is the real target.' Make the video about that.",
-      "Test: 'Half the salary, full control of the schedule. Would you take it?' Notice exactly how long you hesitate before answering. That hesitation is the content."
+      "Contrarian snapback: open with 'we design morning routines for productivity.' Stun: 'But morning routines do something else first.' Snap: 'They set the register for the day. The first decisions determine the cognitive tone, the emotional posture, the capacity for the rest of the hours. Most people design for output and get the register wrong.' Question planted: what register is my morning actually setting, and is it the one I want?",
+      "Benefit lead: 'If you want the rest of the day to feel different without changing the day itself, the morning is the most leveraged variable.' Then explain the register effect. What the first 45 minutes determines about everything after.",
+      "Staccato: 'What is the first decision you make after waking up? That's the one that sets the rest. Name it. Evaluate it. Change it if it's not the right first move.' Visual: two contrasting morning openers and their downstream effect on the same day."
     ],
-    "category": "money",
+    "close": "The morning doesn't just produce the day. It frames it. You've been framing it without noticing.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "024",
-    "hook": "The financially safe choice is usually the most fragile structure.",
+    "hook": "Most productivity systems were built for someone else's life. Check the source.",
     "angles": [
-      "Contrarian snapback: open with 'a single employer has been the definition of financial safety for decades.' Stun: 'But run it through the same lens you'd use for any investment.' Snap: 'One holding, no diversification, single point of failure. Any portfolio manager would flag this immediately.' Question planted: why do we call the most concentrated risk the safe option?",
-      "Pain lead: 'The job feels stable because it's familiar. Not because it is. What's the actual distinction?' Then explain what reducing concentration risk looks like without quitting first.",
-      "Staccato: 'One income source is a single point of failure by definition. The second stream doesn't require quitting first. It starts while the first one pays the bills.'"
+      "Contrarian snapback: open with 'productivity advice promises a universal upgrade.' Stun: 'But here's the mismatch.' Snap: 'The system was built by someone with a different brain, different goals, different constraints. You're running someone else's operating system on your hardware and calling the crashes a personal failure.' Question planted: whose productivity system am I actually running, and was it built for me?",
+      "Pain lead: 'The specific frustration of trying every system and having none of them stick is not a discipline problem. It might be an incompatibility problem.' Then explain: fit beats quality in system design.",
+      "Observation: 'Notice how the people selling productivity systems are almost always describing what works for them specifically. That's not fraudulent. It's just not automatically generalizable.' Visual: the same framework applied to two radically different people with opposite outcomes."
     ],
-    "category": "money",
+    "close": "The system that fits is the one you'd use even when motivation is low. That's the only test.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "025",
-    "hook": "The fear isn't failure. It's finding out who you are without the job.",
+    "hook": "Optimizing hard in the wrong direction. That's committed drift.",
     "angles": [
-      "Contrarian snapback: open with 'most people describe fear of leaving as financial risk or fear of failure.' Stun: 'But press on it and something else shows up.' Snap: 'The real fear is try, fail, and have no story left. The title has been answering who are you quietly for years.' Question planted: what's my answer without the title?",
-      "Pain lead: 'Walk through the identity question. The title, the email signature, the LinkedIn headline — what question have those been answering that you haven't had to answer yourself?'",
-      "Confession: 'The job was never who you were. It was what you did. Those are different things. But somewhere along the way they got merged.' Describe when and how that happened for you."
+      "Contrarian snapback: open with 'optimization feels like diligence.' Stun: 'But here's what it can't fix.' Snap: 'When the direction is wrong, optimization makes the mistake more efficient. More work, more discipline, deeper into the wrong answer.' Question planted: am I optimizing execution or avoiding the question of direction?",
+      "Pain lead: 'If you've worked harder than most people you know and the results still don't match the effort, direction might be the variable that has never been evaluated.' Then explain: direction versus velocity. Two different problems with two different solutions.",
+      "Staccato: 'Stop. Aim first. Then go. Most people skip the aiming and go really hard and then wonder why they landed somewhere they didn't want to be.' Visual: two paths from the same starting point, both optimized, both ending in completely different places."
     ],
-    "category": "fear",
+    "close": "The effort was real. The direction was the question you kept postponing.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "026",
-    "hook": "The Sunday dread isn't anxiety. It's your body doing math.",
+    "hook": "The recurring problem is a design problem. Not a character flaw.",
     "angles": [
-      "Contrarian snapback: open with 'Sunday night anxiety is usually framed as something to manage.' Stun: 'But here's a different read on what it actually is.' Snap: 'A calculation. 30 more years of this, running all at once on the one quiet day of the week. The nervous system can't rationalize the way the mind can.' Question planted: what is my body calculating right now?",
-      "Pain lead: 'Walk through what actually happens physically on Sunday evening. The sleep that doesn't come, the thoughts that arrive. Don't pathologize it. Describe it accurately.' Then explain the calculation.",
-      "Observation: 'You've probably tried to manage this feeling. Earlier bedtimes, Sunday plans, routines. Notice how none of it addresses what the feeling is actually reporting.'"
+      "Contrarian snapback: open with 'recurring failures feel like character evidence.' Stun: 'But here's the more useful frame.' Snap: 'If something happens repeatedly, it's diagnostic of the system, not the person. The behavior is a symptom. The architecture is the cause.' Question planted: what is the system underneath the pattern I keep blaming myself for?",
+      "Pain lead: 'The self-blame that comes from the same pattern showing up again is expensive and it targets the wrong variable.' Then explain: behavior is downstream of architecture. Change the architecture, not the self-assessment.",
+      "Observation: 'Notice that the problem that keeps coming back is usually the one you've worked hardest to fix through motivation alone. Motivation is not the tool for this. Design is.' Visual: the same person, same motivation, different environment, different outcome."
     ],
-    "category": "fear",
+    "close": "You were not the problem. The design was. Those are different problems with different solutions.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "027",
-    "hook": "You've known what to do for two years. The next course won't fix that.",
+    "hook": "A system you hate always loses. Build one you'd actually choose.",
     "angles": [
-      "Contrarian snapback: open with 'most people who haven't started something they want to do think they need more information.' Stun: 'But here's the uncomfortable part.' Snap: 'This is not an information problem. It's an action problem. Those require completely different interventions.' Question planted: what would actually change this?",
-      "Story: tell the story of the last thing you bought to get ready. The book, the course, the subscription. How far did you get. What the actual blocker was underneath it.",
-      "Staccato: 'What's the smallest version of the thing you keep preparing for? Not the whole thing. The smallest version. Can it happen this week? That's the only question that matters.'"
+      "Contrarian snapback: open with 'the right system is supposed to be the effective one.' Stun: 'But effective and sustainable are different things.' Snap: 'The system you'd never choose freely, maintained only by discipline, has an expiration date. You've seen it. Every January.' Question planted: is the system I'm running something I'd actually build again if starting from scratch today?",
+      "Benefit lead: 'If you want consistency that doesn't cost increasing willpower over time, build the system for who you actually are, not who you think you should be.' Then explain: the gap between aspirational system design and actual self-knowledge.",
+      "Staccato: 'The best system is the one you do. Not the most optimized one. The one you actually do. Those are often different things.' Visual: a beautiful system no one uses versus a simple one that actually runs."
     ],
-    "category": "fear",
+    "close": "Sustainable beats optimal. The system that fits is always the right system.",
+    "category": "system",
     "status": "unused"
   },
   {
     "id": "028",
-    "hook": "Failure fades. Regret compounds.",
+    "hook": "You have four thousand weeks. That's the whole number.",
     "angles": [
-      "Contrarian snapback: open with 'people avoid trying things because they're afraid of failure.' Stun: 'But the data on this is surprising.' Snap: 'Almost nobody at 60 regrets the things they tried that didn't work. The regrets are almost always the things not tried. The categories of pain are not equal.' Question planted: which category am I currently building?",
-      "Pain lead: 'Ask someone older than you what they regret. Listen specifically to whether it starts with I shouldn't have tried or I should have. One category almost doesn't exist.'",
-      "Staccato: 'Failure fades. Regret compounds. Those are different cost structures. You can fail your way to something. You cannot regret your way to anything.'"
+      "Contrarian snapback: open with 'we know life is finite.' Stun: 'But here's what happens when you make it concrete.' Snap: 'The feeling of infinite time is a cognitive default. Four thousand weeks is not infinite. It is a specific, frighteningly manageable number. Say it out loud with your age subtracted.' Question planted: how many weeks do I actually have left, and does that number change anything?",
+      "Benefit lead: 'If you want a different relationship with time without changing anything practical, spend five minutes on the math.' Then walk through the actual calculation live. Weeks alive. Weeks remaining. Watch what happens.",
+      "Staccato: 'Write the number. Your age in weeks. Subtract from four thousand. Look at it. The urgency is not anxiety. It is information.' Visual: a grid of weeks. Lived ones filled in. The rest empty."
     ],
-    "category": "fear",
+    "close": "The number was always the number. Making it visible is just finally agreeing to know it.",
+    "category": "time",
     "status": "unused"
   },
   {
     "id": "029",
-    "hook": "What if the discomfort is the system working, not breaking?",
+    "hook": "Urgency and importance are different frequencies. Most people only hear one.",
     "angles": [
-      "Contrarian snapback: open with 'most people treat discomfort as a signal that something is wrong.' Stun: 'But there's a specific kind of discomfort that means the opposite.' Snap: 'The restlessness that keeps returning to the same direction is not noise. That's a signal.' Question planted: is my discomfort pointing somewhere?",
-      "Pain lead: 'There's a difference between discomfort that points somewhere specific and background anxiety. Describe what yours actually feels like. Is there a direction in it?'",
-      "Observation: 'Notice how the things making you uncomfortable about your current life keep pointing in the same direction. That consistency is worth examining before you manage it away.'"
+      "Contrarian snapback: open with 'busy is supposed to mean productive.' Stun: 'But here's what busy usually is.' Snap: 'Urgent. Not important. The urgent things scream. The important things don't. The default goes to whoever is loudest, which means the most important work sits quiet and unstarted.' Question planted: what is the most important thing in my life right now that isn't making any noise?",
+      "Pain lead: 'The thing you keep not getting to is almost never urgent. It's just the most important.' Then explain: the asymmetry between urgency and importance, and what gets lost in that gap over a decade.",
+      "Observation: 'Notice what's at the bottom of your to-do list. The things that keep not making the cut. That list is diagnostic. Those are likely the ones that actually matter.' Visual: a to-do list, with the oldest item at the bottom highlighted."
     ],
-    "category": "fear",
+    "close": "The unstarted important thing was always there. It just never made enough noise to compete with the urgent ones.",
+    "category": "time",
     "status": "unused"
   },
   {
     "id": "030",
-    "hook": "Passion isn't found. It's what's left after you've done something long enough.",
+    "hook": "Busy is not a virtue. It's a sign of something.",
     "angles": [
-      "Contrarian snapback: open with 'most people spend years searching for their passion before starting anything.' Stun: 'But here's how it actually works.' Snap: 'You don't discover what you care about. You build it through consistent exposure over time. The passion is residue of the work, not the prerequisite.' Question planted: what am I building caring about?",
-      "Story: think about something you care about deeply now. When did that actually start? What was the moment before you cared? Usually there wasn't one. The caring built.",
-      "Observation: 'People who say they haven't found their passion yet are usually also people who haven't committed to anything long enough to find out. That pattern is not a coincidence.'"
+      "Contrarian snapback: open with 'a full schedule is supposed to signal ambition and worth.' Stun: 'But here's what it might actually signal.' Snap: 'Busyness is a defense mechanism in some people. If you're always occupied, you never have to sit with the question of whether you're occupied with the right things.' Question planted: is my busyness productive, or is it protective?",
+      "Pain lead: 'If you stripped the busy from your week and what remained was a space you didn't want to sit in, that's diagnostic. Not of laziness. Of avoidance.' Then explain: the discomfort of stillness as data.",
+      "Staccato: 'Full calendar. Empty life. That combination is a real and common condition. You can check which one you have right now.' Visual: a packed calendar next to an empty journal."
     ],
-    "category": "design",
+    "close": "The busyness was not the problem. It was the structure you built to avoid confronting one.",
+    "category": "time",
     "status": "unused"
   },
   {
     "id": "031",
-    "hook": "Nobody who left jumped. They made it so the jump didn't exist anymore.",
+    "hook": "The decade you almost started. That's the one that stays with people.",
     "angles": [
-      "Contrarian snapback: open with 'leaving a stable job gets described as a leap, a risk, a brave move.' Stun: 'But talk to anyone who actually did it.' Snap: 'The dramatic resignation is almost never how it worked. One client, then a second, then a decision that was already mostly made.' Question planted: what would making the jump smaller actually look like?",
-      "Story: tell the story of someone who left quietly versus someone who left dramatically. Walk through what the quiet version looked like in the year before it happened.",
-      "Staccato: 'Nobody jumped. They made the alternative more real. Five hours a week. One project. One person who paid. That's the bridge. Not courage.'"
+      "Contrarian snapback: open with 'regret is supposed to be about choices you made.' Stun: 'But the evidence says different.' Snap: 'The regrets that last longest are actions not taken. The decade-long project not started. The thing almost begun that never crossed the line.' Question planted: what am I currently building the longest regret of my life around?",
+      "Pain lead: 'The specific texture of almost-started regret is different from other kinds. It comes with the knowledge that the window was open. That you had the time. That you chose other things.' Make it concrete and specific.",
+      "Story: tell the story of someone who waited for the right conditions to start the thing. The conditions arrived twice. They still didn't go. The decade passed. Be specific about what the conditions were and why they were never quite right."
     ],
-    "category": "design",
+    "close": "The decade almost started is the one that answers the what-if. Starting is the only way to close that loop.",
+    "category": "time",
     "status": "unused"
   },
   {
     "id": "032",
-    "hook": "The target isn't a beach. It's an unscheduled Tuesday.",
+    "hook": "The cost of waiting is priced in time. Do that math.",
     "angles": [
-      "Contrarian snapback: open with 'most people describe the goal as a place or a number.' Stun: 'But here's what they're actually picturing when you press them.' Snap: 'Tuesday with nowhere to be. Laptop closed at 1pm. No notifications. That's the picture. And that doesn't require a flight.' Question planted: what does my specific Tuesday look like?",
-      "Pain lead: 'What does the fantasy actually contain? Not the location. The specific morning. Doctor's appointment without negotiating a calendar. Flight booked Wednesday for Saturday.' Describe it.",
-      "Staccato: 'It's not the beach. It's Tuesday. Describe your Tuesday. Then describe what would have to change to produce it. Usually it's not a flight.'"
+      "Contrarian snapback: open with 'we price risk in money.' Stun: 'But here's the currency that matters more.' Snap: 'Every month of waiting has a time cost that isn't on any invoice. The version of you that could have started a year ago is unavailable now. That's irreversible.' Question planted: what is this delay actually costing me, priced in the currency that can't be refunded?",
+      "Pain lead: 'The decision you're treating as low-stakes because it has no immediate financial consequence might be the most expensive decision you make this year. Because the real cost is time.' Then explain: time as the non-refundable resource.",
+      "Staccato: 'Time is non-refundable. The money spent can be earned back. The year spent waiting cannot. Those are not the same kind of loss.' Visual: two balance sheets. One financial and recoverable. One temporal and not."
     ],
-    "category": "design",
+    "close": "The delay was free today. It was expensive eventually.",
+    "category": "time",
     "status": "unused"
   },
   {
     "id": "033",
-    "hook": "Your life mostly assembled itself. You mostly just didn't object.",
+    "hook": "Financial freedom is not a number. It's a relationship with time.",
     "angles": [
-      "Contrarian snapback: open with 'most people believe they've made deliberate choices about the main things in their life.' Stun: 'But there's an exercise that's worth running.' Snap: 'Go through the main things. Which did you actually decide? Which arrived by inertia and accumulated?' Question planted: how short is my chosen list?",
-      "Pain lead: 'The unsettling thing about this exercise is how short the list of deliberate decisions usually is. Do it out loud. Be specific about each one.'",
-      "Observation: 'Design isn't planning everything. It's asking once a year whether you chose the main things or whether they accumulated. That question changes more than most productivity systems.'"
+      "Contrarian snapback: open with 'financial freedom is sold as a specific dollar amount.' Stun: 'But here's what people who reach the number find.' Snap: 'The number doesn't produce the feeling. Because the feeling was never about money. It was always about being able to decide what happens to your Tuesday. Time autonomy is the product. Money was just one path to it.' Question planted: am I building toward money or toward time autonomy, and are those the same path for me?",
+      "Benefit lead: 'If you want the feeling you're calling financial freedom, name the specific thing it would let you do. The Tuesday morning without a meeting you didn't schedule. That's the target. Build toward that.' Then show how naming the actual outcome changes the path.",
+      "Staccato: 'Enough to decide your own Tuesday. That's the threshold. Some people get there with a lot. Some with much less. Name your Tuesday. Work backward from that.' Visual: two people at different income levels and the Tuesday they actually live."
     ],
-    "category": "design",
+    "close": "The number was never the point. The Tuesday was.",
+    "category": "money",
     "status": "unused"
   },
   {
     "id": "034",
-    "hook": "Stop finding a niche. Find one person with one problem.",
+    "hook": "You don't need to be rich. You need enough.",
     "angles": [
-      "Contrarian snapback: open with 'most advice about starting a business says find your niche first.' Stun: 'But here's what the first client actually looks like in practice.' Snap: 'Not a niche decision. A conversation. A specific person with a specific problem. The positioning comes from evidence, not the other way around.' Question planted: who is the one person with the one problem?",
-      "Story: tell the story of the first client. Not the strategy. The actual conversation, the specific problem, the specific reason they paid. What that sequence actually looked like.",
-      "Staccato: 'Stop finding a niche. Find one person with one problem. Solve it. The niche reveals itself from that. That's the sequence.'"
+      "Contrarian snapback: open with 'we're told more money solves the problem.' Stun: 'But here's what the problem actually is.' Snap: 'It's not wealth. It's autonomy over the hours. And those are not the same number. Sufficiency is much closer than wealth. Most people are building for the wrong target their entire working life.' Question planted: what is my actual number, and is it smaller than I've been told?",
+      "Benefit lead: 'If you want to feel less trapped immediately, the shortest path might not be more income. It might be calculating the actual threshold and finding out you're closer than you think.' Then show the sufficiency calculation versus the wealth target.",
+      "Observation: 'Notice that the people who seem most free are not always the wealthiest. They've found a lower threshold. They built for enough and stopped.' Visual: two lifestyles at different income levels, one with autonomy, one without."
     ],
-    "category": "design",
+    "close": "Enough was always the goal. Most people spend their life past it, building for more.",
+    "category": "money",
     "status": "unused"
   },
   {
     "id": "035",
-    "hook": "The setup is not the work.",
+    "hook": "The safe job is actually fragile. Think about that.",
     "angles": [
-      "Contrarian snapback: open with 'creating the right environment and system before starting seems like the responsible first step.' Stun: 'But here's what it actually is.' Snap: 'A way to feel like you're making progress without the exposure to failure that starting would require. The template produces no output.' Question planted: what am I protecting myself from by setting up?",
-      "Story: tell the story of a specific setup project. The elaborate system that preceded months of no output. Name what it was protecting you from starting.",
-      "Staccato: 'What existed at the end of this week that didn't exist at the beginning? Not planned. Not refined. Existed. That's the only metric that matters.'"
+      "Contrarian snapback: open with 'employment is supposed to be the low-risk option.' Stun: 'But here's the fragility.' Snap: 'One layoff, one restructure, one difficult manager, one failed company. The income structure you called safe had a single point of failure the whole time. The diversified income you called risky was actually the hedge.' Question planted: what is the actual risk profile of my safe income structure?",
+      "Pain lead: 'If you've ever been laid off, or watched someone lose their job in a restructure, you know the specific feeling of a safe thing turning out not to be.' Name that fragility. Then evaluate your current position the same way.",
+      "Staccato: 'Single income source. Single employer. No backup. High fixed expenses. That's the fragile portfolio. It just has a different name.' Visual: a structure with a single load-bearing column, clearly fragile, labeled safe."
     ],
-    "category": "creativity",
+    "close": "The safety was a story about the risk being elsewhere. The risk was always here.",
+    "category": "money",
     "status": "unused"
   },
   {
     "id": "036",
-    "hook": "Pointing at something and saying 'I made that' registers differently.",
+    "hook": "The purchase that felt like a reward. Check if it was a delay.",
     "angles": [
-      "Contrarian snapback: open with 'most knowledge work contributes to something larger, collaborative, anonymous.' Stun: 'But there's a specific quality to work you can point at.' Snap: 'A design, a video, a piece of writing carries an ownership that slides and decks never do. The shift from contributor to author changes what the work is.' Question planted: when's the last time I pointed at something?",
-      "Pain lead: 'Think about the most motivated you've ever been at work. Was it a project where it was clearly yours? What was different about that context?'",
-      "Contrast: 'Slides, decks, tickets versus something you made. Describe how each one feels at the end of the week. That difference is the video.'"
+      "Contrarian snapback: open with 'buying something nice after hard work is supposed to be the point.' Stun: 'But here's the other thing it can be.' Snap: 'A comfort purchase at the exact moment a hard decision needed to be made. The new thing fills the space where the change was supposed to go. You feel better. The decision stays unmade.' Question planted: what decision did my last reward purchase let me avoid making?",
+      "Pain lead: 'There's a specific pattern: you feel stuck, you buy something, the feeling lifts for a few days, then it comes back slightly heavier.' Name the pattern. Make it specific. Then explain the mechanism.",
+      "Observation: 'Notice what you buy at the moments you feel most trapped. The purchase is diagnostic. It shows you exactly what you were using it to avoid.' Visual: a receipt in correlation with an avoided decision."
     ],
-    "category": "creativity",
+    "close": "The comfort was real. The delay it purchased was also real.",
+    "category": "money",
     "status": "unused"
   },
   {
     "id": "037",
-    "hook": "The 14-month draft isn't procrastination. It's a direction.",
+    "hook": "The thing you keep not doing. That's the thing. Not a coincidence.",
     "angles": [
-      "Contrarian snapback: open with 'half-finished projects and unused domains are usually read as failures.' Stun: 'But here's another interpretation.' Snap: 'The things you return to even without finishing are more honest than your career plan. Not failure. Evidence of a persistent pull.' Question planted: what does mine keep pointing at?",
-      "Pain lead: 'What's in your half-built folder? The voice memo, the domain, the draft. Name it specifically. Then ask: is the pull still there?'",
-      "Simple instruction: 'Open it. Don't finish it. Just read the first paragraph. See if the pull is still there. That's enough information for today.'"
+      "Contrarian snapback: open with 'avoidance is supposed to be about things that aren't important.' Stun: 'But here's the precise pattern.' Snap: 'The things we avoid the longest and most consistently are not random. They are the ones with the highest stakes for our actual self-concept. The avoidance maps the importance.' Question planted: what does my avoidance pattern reveal about what I most deeply care about?",
+      "Benefit lead: 'If you want to know what matters most to you, don't look at your calendar. Look at what you've been putting off the longest with the best reasons.' Then explain: procrastination as a priority map.",
+      "Staccato: 'The most consistently avoided thing is the most revealing. Look at the length of the delay. It is proportional to the stakes. Go there.' Visual: a list of postponed items, with the oldest one marked."
     ],
-    "category": "creativity",
+    "close": "The avoidance was protecting something real. That's exactly the thing worth looking at.",
+    "category": "fear",
     "status": "unused"
   },
   {
     "id": "038",
-    "hook": "Everyone using the same framework ends up saying the same thing.",
+    "hook": "You've called it 'not the right time' for years. How many times?",
     "angles": [
-      "Contrarian snapback: open with 'content frameworks and templates are supposed to help you make better content faster.' Stun: 'But here's the problem nobody mentions.' Snap: 'A framework that 500 people use produces 500 structurally identical outputs. The angle has to be yours. That's the whole differentiator.' Question planted: what's my specific angle?",
-      "Pain lead: 'Take any popular content format and look at 10 examples side by side. Describe what you notice. Then ask: what would make one of them impossible for anyone else to replicate?'",
-      "Test: 'Could this piece be produced by 500 people following the same instructions? If yes, it's output. Not content.'"
+      "Contrarian snapback: open with 'not the right time sounds like wisdom.' Stun: 'But here's what it often is.' Snap: 'A permission structure. The right time is a moving target by design. When conditions improve, new ones appear. The gate is set to never open.' Question planted: if the right conditions never arrive, what's the real reason I haven't started?",
+      "Pain lead: 'The specific weight of not the right time accumulates. Each use is individually reasonable. Collectively it becomes a decade of almost.' Then walk through the math of what reasonable timing has actually cost.",
+      "Staccato: 'Name one person who waited for perfect conditions and then had them. Now name three who started with bad conditions and arrived anyway.' Visual: a timeline of individually convincing not-the-right-times."
     ],
-    "category": "creativity",
+    "close": "The right time was a story about the conditions. The real condition was always just the decision.",
+    "category": "fear",
     "status": "unused"
   },
   {
     "id": "039",
-    "hook": "Where you live is a daily input. Most people never run the calculation.",
+    "hook": "Most of what's stopping you was never actually there. Start checking.",
     "angles": [
-      "Contrarian snapback: open with 'most optimization advice focuses on habits, routines, and mindset.' Stun: 'But there's a variable that sits underneath all of those.' Snap: 'Environment. Density, commute, sunlight, cost pressure. These set the floor that every habit is working from.' Question planted: what floor am I working from?",
-      "Pain lead: 'Run the actual audit: your commute time, your winter darkness, your financial pressure, your walkability. How does each one affect your baseline on a regular Tuesday?'",
-      "Question hook: 'Does your current environment support the person you're trying to become? Or does it ask you to maintain the person you're trying to leave?'"
+      "Contrarian snapback: open with 'obstacles are supposed to be external and real.' Stun: 'But here's what most of them are.' Snap: 'Untested. You took the no before you asked the question. You assumed the door was locked. Most of the time it isn't.' Question planted: how many of the obstacles I believe are real have I actually tested?",
+      "Benefit lead: 'If you want to remove years from the path to wherever you're trying to get, start stress-testing the assumed obstacles. Name them. Test them. Find out which are real.' Then walk through the process.",
+      "Story: tell the story of assuming something was impossible, asking anyway, and finding out the no was never there. Specific. What was the assumed obstacle? What happened when it was actually tested?"
     ],
-    "category": "environment",
+    "close": "The wall was real enough to stop you. It was not real enough to actually stop you.",
+    "category": "fear",
     "status": "unused"
   },
   {
     "id": "040",
-    "hook": "Your morning routine can't fix a city that keeps you in survival mode.",
+    "hook": "Starting looks like risk. It feels like relief.",
     "angles": [
-      "Contrarian snapback: open with 'the 5am routine, the cold plunge, the morning pages are supposed to set the tone for the day.' Stun: 'But here's a variable they can't override.' Snap: 'Sunlight access, commute minutes, financial pressure. Daily inputs no habit stack consistently beats. If the container is wrong, the optimization is compensatory.' Question planted: what is my morning routine actually compensating for?",
-      "Pain lead: 'What would your mornings look like if the environment made the behaviors easy instead of requiring daily effort to access them?'",
-      "Staccato: 'The morning routine optimizes inside the container. If the container is wrong, the optimization is compensatory. You're working harder than you need to for results you'd get automatically somewhere else.'"
+      "Contrarian snapback: open with 'the decision to start looks terrifying from the outside.' Stun: 'But here's what everyone who has done it says.' Snap: 'The fear is louder before than after. Once you start, you're busy solving actual problems. The hypothetical fear disappears because the actual situation replaces it.' Question planted: is the fear I feel about starting actually about the thing, or about the uncertainty before I know what the actual thing is?",
+      "Benefit lead: 'If you want to reduce the fear of starting something, the fastest method is getting specific about what exactly you're afraid of. Fear thrives in vagueness. Name it and it changes texture.' Then demonstrate the process live.",
+      "Observation: 'Notice how the people who have started the thing you're afraid of never describe the worst case you're imagining. They describe different problems. Actual ones. Manageable ones.' Visual: the imagined obstacle versus the actual ones encountered."
     ],
-    "category": "environment",
+    "close": "The relief was on the other side of starting. It was always there. The fear was just in front of it.",
+    "category": "fear",
     "status": "unused"
   },
   {
     "id": "041",
-    "hook": "The anxiety you've been managing might just be where you live.",
+    "hook": "Playing it safe is still a bet. Own that.",
     "angles": [
-      "Contrarian snapback: open with 'chronic low-level anxiety is usually treated as a mental health condition to manage.' Stun: 'But here's a specific case where it's actually something else.' Snap: 'An accurate read of the environment. Density, noise, financial pressure, darkness. These are inputs, not background.' Question planted: what is my nervous system actually responding to?",
-      "Pain lead: 'Walk through your environment's inputs. Noise levels, commute, winter, cost pressure. Then ask: what would you expect the nervous system to do with all of that?'",
-      "Experiment: 'Three weeks somewhere slower, quieter, warmer. Without changing anything else. What changes in the body? Most people who've done this report something they didn't expect.'"
+      "Contrarian snapback: open with 'the safe path is supposed to be the choice with no downside.' Stun: 'But here's the accounting that doesn't get done.' Snap: 'The opportunity cost of the cautious path is real. The decade of the thing not attempted is a cost. It just doesn't show up on any invoice.' Question planted: what is the actual cost of my cautious path, priced honestly?",
+      "Pain lead: 'The regret of the risk taken has a limit. You went, you failed, you know. The regret of the risk not taken is open-ended. It lives on the other side of a question that was never asked.' Then explain: bounded versus unbounded regret.",
+      "Staccato: 'Risk of action: limited. You go. You find out. It's bounded. Risk of inaction: unlimited. The question stays open. That's the riskier position.' Visual: a decision tree where the cautious path has its own visible uncertainties."
     ],
-    "category": "environment",
+    "close": "You were betting either way. The visibility of the risk is not the same as the size of it.",
+    "category": "fear",
     "status": "unused"
   },
   {
     "id": "042",
-    "hook": "Lower rent and your nervous system exhale at the same time.",
+    "hook": "The creative block isn't a creative problem. It's a permission problem.",
     "angles": [
-      "Contrarian snapback: open with 'geographic moves are usually analyzed as financial decisions.' Stun: 'But here's what people who've made them actually describe first.' Snap: 'Not the savings. The exhale. The background urgency that drops when the fixed costs do.' Question planted: what would drop alongside my fixed costs?",
-      "Pain lead: 'How much does the expensive city cost in daily stress? Most people have a detailed spreadsheet for the financial costs and nothing for the cognitive ones.'",
-      "Story: tell the story of someone who moved somewhere cheaper. Walk through the first month. What changed first. Usually not what they expected."
+      "Contrarian snapback: open with 'creative blocks are supposed to be about technique or inspiration.' Stun: 'But here's the actual mechanism.' Snap: 'The work is already there. The block is a question about whether you're allowed. Who told you that you needed permission? They didn't have it either. They just stopped waiting.' Question planted: whose permission am I waiting for, and would they even know what to do with it?",
+      "Pain lead: 'The most common creative block is the judgment of the imagined audience. The person in your head who will think it's not good enough.' Name that person. Then explain: you're creating for a ghost.",
+      "Staccato: 'You don't have a creative block. You have a fear of the response. Those are different problems. One has a technique solution. The other requires a decision.' Visual: a blank page, a cursor, the imagined audience hovering in the background."
     ],
-    "category": "environment",
+    "close": "Permission was never the creative condition. It was always a story about who gets to start.",
+    "category": "creativity",
     "status": "unused"
   },
   {
     "id": "043",
-    "hook": "Most people don't need a better morning routine. They need a different city.",
+    "hook": "You haven't run out of ideas. You've run out of courage to say them.",
     "angles": [
-      "Contrarian snapback: open with 'the morning routine is the default answer to feeling better and being more productive.' Stun: 'But here's what's often actually happening.' Snap: 'The behaviors you're forcing through willpower are behaviors the environment would produce automatically somewhere else. You're not bad at habits. The city is fighting you.' Question planted: how much of my routine is just compensating for where I live?",
-      "Pain lead: 'Name the most common productivity advice given to people in expensive, high-density cities. Then ask: how much of it is just compensating for the city itself?'",
-      "Staccato: 'Walkability, sunlight, lower financial pressure make the behaviors easy by default. You're not fighting your habits. You're fighting your environment. Those require completely different solutions.'"
+      "Contrarian snapback: open with 'I don't have any ideas sounds like a fact.' Stun: 'But here's what it actually is.' Snap: 'A filter. The ideas are there. The filter is calibrated to what sounds acceptable, achievable, not embarrassing. The weird idea, the too-honest one. That's the video.' Question planted: which idea have I been most afraid to say out loud?",
+      "Benefit lead: 'The ideas you've been automatically filtering as too much or too weird are the diagnostic location. If they make you slightly uncomfortable to say, they are more interesting than the ones that don't.' Then explain: the embarrassment gradient as creative compass.",
+      "Observation: 'Notice that the content you find most interesting is usually someone saying the thing that seemed unsayable. The honest one. The weird angle. You're not lacking those. You're filing them under not yet.' Visual: a draft folder full of unsent ideas."
     ],
-    "category": "environment",
+    "close": "The interesting ideas were always there. They were just waiting for you to stop filtering before looking at them.",
+    "category": "creativity",
     "status": "unused"
   },
   {
     "id": "044",
-    "hook": "Slowing down didn't make me less productive. It removed the urgency I'd confused for ambition.",
+    "hook": "Making things teaches you what thinking alone never will. That gap is real.",
     "angles": [
-      "Contrarian snapback: open with 'slowing down is associated with less output, less ambition, less drive.' Stun: 'But here's what actually happened when I did it.' Snap: 'The output stayed the same or improved. Because what I was calling drive was anxiety running constantly in the background.' Question planted: how much of my drive is actually stress?",
-      "Story: tell what actually changed when the pace dropped. What you expected. What happened instead. Walk through the specific weeks.",
-      "Observation: 'Most people who slow down deliberately report similar or better creative output. Not because they're doing more. Because the nervous system isn't in recovery mode half the time.'"
+      "Contrarian snapback: open with 'thinking through a problem before starting is supposed to produce clarity.' Stun: 'But here's what thinking cannot access.' Snap: 'The insight inside the work. The thing you only learn by doing. The discovery that happens at the third hour, not the third planning session.' Question planted: what is waiting inside the work I haven't started yet that I can't reach by thinking about it?",
+      "Benefit lead: 'If you want the answer to the question you keep circling in your head, the path is usually not more research. It is the first draft, the first prototype, the first version made badly.' Then explain making as the research method.",
+      "Staccato: 'You cannot think your way to the insight. The insight is in the work. The work has to start badly. Start badly. Fix it later.' Visual: a terrible first draft versus the final version, and the gap that only making could close."
     ],
-    "category": "environment",
+    "close": "The answer was always in the third hour. You were trying to reach it from hour zero with thinking.",
+    "category": "creativity",
     "status": "unused"
   },
   {
     "id": "045",
-    "hook": "A prestige city is very good at making survival feel like success.",
+    "hook": "The thing you can't stop thinking about is data. Point in that direction.",
     "angles": [
-      "Contrarian snapback: open with 'high-income cities are supposed to produce high outcomes. More opportunity, more upside.' Stun: 'But here's what the monthly ledger actually shows.' Snap: 'The city spends all the surplus it produces. The always-behind feeling isn't personal underperformance. Prestige cities are optimized to generate wanting.' Question planted: how much of my spending is actually optional?",
-      "Pain lead: 'Run the real audit. What of your monthly spend is maintenance — the baseline required to function in this environment? How much is actual choice?'",
-      "Staccato: 'High income, high stimulation, high cost. The city spends all the surplus it produces. That's not a coincidence. It's the design.'"
+      "Contrarian snapback: open with 'obsession is supposed to be a problem to manage.' Stun: 'But here's what it is.' Snap: 'A compass. The persistent thought is not a distraction from the path. It is the path trying to become visible. The compulsion toward something is more information than most planning processes.' Question planted: what am I pretending is just an interest when it's actually a direction?",
+      "Benefit lead: 'If you want to stop choosing between options that all feel flat, start by auditing the thoughts you can't turn off. The thing that shows up uninvited in your idle moments is more honest than anything you've deliberately decided.' Then walk through what that audit looks like.",
+      "Staccato: 'What do you think about when no one is watching? No agenda. No justification required. Just the thought that keeps showing up. That one. That's the direction.' Visual: a mind at rest, one thought appearing repeatedly, uninvited."
     ],
-    "category": "environment",
+    "close": "The obsession was the signal. You were trying to rationalize your way to a decision the instinct already made.",
+    "category": "creativity",
     "status": "unused"
   },
   {
     "id": "046",
-    "hook": "Your nervous system has a cost of living too.",
+    "hook": "A life doesn't have a final version. That was never the design.",
     "angles": [
-      "Contrarian snapback: open with 'cost of living is measured in rent, groceries, and transportation.' Stun: 'But there's a second ledger nobody tracks.' Snap: 'Noise, commute, winter, financial pressure, crowding. Each is a daily withdrawal from something that doesn't appear on any bank statement.' Question planted: what's on my second ledger?",
-      "Pain lead: 'What shows up instead of the bill: sleep quality, attention span, the feeling of never fully exhaling. The expense is real. The accounting system just doesn't track it.'",
-      "Question hook: 'What is this environment costing you that doesn't show up on any spreadsheet? Most people have never seriously tried to answer that. Try now.'"
+      "Contrarian snapback: open with 'we treat life as a thing to finish.' Stun: 'But here's what design actually is.' Snap: 'Iteration. No version is final. The next version is not a failure of the last one. It is an update. You are not supposed to have it figured out. You are supposed to be in active revision.' Question planted: what would change if I stopped thinking of my current life as something to get right and started thinking of it as version 2.4?",
+      "Benefit lead: 'If you want to feel less pressure about not having it figured out, one reframe helps more than any plan: you are in beta. Always. That's not a problem. That's the architecture.' Then explain iterative life design versus final-answer life design.",
+      "Staccato: 'Version 1 was necessary. Version 2 was better. Version 3 is what you can see from here. That's not failure. That's the process.' Visual: a product roadmap applied to a life. Version numbers. Update notes. No final release date."
     ],
-    "category": "environment",
+    "close": "The revision was never the failure. It was the mechanism.",
+    "category": "design",
     "status": "unused"
   },
   {
     "id": "047",
-    "hook": "Wanting a slower pace usually means wanting your brain to stop bracing.",
+    "hook": "Intentionality is not a mood. It's a practice with actual friction.",
     "angles": [
-      "Contrarian snapback: open with 'wanting a slower life often gets dismissed as laziness or lack of ambition.' Stun: 'But usually it's the opposite.' Snap: 'Walkability, natural light, lower density are not aesthetic preferences. They're inputs with measurable effects on baseline cortisol. The lifestyle request is a physiological one.' Question planted: what is my brain actually bracing against?",
-      "Pain lead: 'When you say you want a slower life, what specifically do you mean? Describe it in concrete terms.' The details usually reveal a nervous system request, not a personality preference.",
-      "Staccato: 'You don't want less. Your brain wants to stop bracing. Those are different things. One is about ambition. The other is about the cost of inputs.'"
+      "Contrarian snapback: open with 'living intentionally sounds like a feeling.' Stun: 'But here's what it actually requires.' Snap: 'Repeated small decisions against the default. Every day. Not once, not in the morning routine, but at every fork. That is harder than it sounds. Most people mistake the inspiration for the practice.' Question planted: am I living intentionally or am I just inspired by the idea of it?",
+      "Pain lead: 'The gap between knowing how you want to live and actually living that way is one of the most common and quietly heavy things people carry.' Then make it concrete: not abstract values misalignment, but a specific Tuesday that didn't match.",
+      "Observation: 'Notice that intentionality in practice looks less like a calm morning and more like choosing the inconvenient thing at 3pm when you're tired and the default is right there.' Visual: a decision point at a low-energy moment, choosing deliberately anyway."
     ],
-    "category": "environment",
+    "close": "The intention was the easy part. The practice was what it actually cost.",
+    "category": "design",
     "status": "unused"
   },
   {
     "id": "048",
-    "hook": "Most people only find out how dysregulated they were after the environment changes.",
+    "hook": "They look like they have it figured out. They're just further along.",
     "angles": [
-      "Contrarian snapback: open with 'people who are chronically stressed usually know they're stressed.' Stun: 'But here's the part that's harder to see.' Snap: 'The baseline is invisible until it shifts. You don't notice how much energy was running background calculations until they stop. Then you feel the gap retroactively.' Question planted: what might I not know I'm running right now?",
-      "Story: tell the story of the first weeks somewhere different. The adjustment period, then the unexpected stabilization. Something settled that you didn't know was unsettled.",
-      "Observation: 'You can't fully feel what you're missing until you've been somewhere that has it. The absence isn't legible until the contrast exists.'"
+      "Contrarian snapback: open with 'some people seem like they've found the answer.' Stun: 'But here's what's actually happening.' Snap: 'They're further into the same process. More iterations. More failed versions. More evidence of what doesn't work. The clarity they have is not a different nature. It's a more iterated one.' Question planted: if the difference between them and me is just more iterations, what do I do with that?",
+      "Benefit lead: 'If the person who seems most certain is just someone who has tried more versions than you, the path to that clarity is not waiting to feel ready. It's starting the iterations.' Then explain: clarity as downstream product of action, not a prerequisite.",
+      "Staccato: 'They're not smarter. They've tried more. Failed more. Eliminated more. That's the whole advantage. It's replicable. It just requires starting.' Visual: same person at iteration 1 versus iteration 12. Same uncertainty. Much more map."
     ],
-    "category": "environment",
+    "close": "The certainty they have is not a different kind. It is a later version of the same uncertainty you have now.",
+    "category": "design",
     "status": "unused"
   },
   {
     "id": "049",
-    "hook": "Geographic arbitrage is a nervous system intervention. The finance is just the side effect.",
+    "hook": "Most people inherit their life design. Almost no one reviews it.",
     "angles": [
-      "Contrarian snapback: open with 'geographic arbitrage gets described as a financial optimization. Earn in a strong currency, spend in a weak one.' Stun: 'But here's what people who've done it actually describe as the main benefit.' Snap: 'The financial benefit comes third. First they describe the quality of thinking. Then the feeling of margin.' Question planted: what would making decisions from a different state produce?",
-      "Pain lead: 'Most people who've made this move describe the financial benefit as the third thing they noticed. What were the first two? That's the video.'",
-      "Staccato: 'Lower cost of living doesn't just change the spreadsheet. It changes the state the rest of your life happens inside. Different numbers produce different thinking.'"
+      "Contrarian snapback: open with 'the structure of your life feels like your own choices.' Stun: 'But here's how much of it was set by default.' Snap: 'The career trajectory inherited from parental expectation. The city stayed in because leaving was more effort than staying. The schedule built around an employer's definition of work. Almost none of it was actively chosen.' Question planted: how much of my life architecture did I actually choose, and what was just the path of least resistance?",
+      "Pain lead: 'If the life you're living mostly looks like what happened to you rather than what you decided, the audit is available at any time. The discomfort of doing it is less than the cost of not.' Then walk through what the audit looks like in practice.",
+      "Observation: 'Notice that the people who seem most alive are often those who at some point sat down and asked which parts of their life they'd choose again if starting fresh. Not to tear it down. To know what they're actually keeping.' Visual: an architect reviewing blueprints they inherited, marking what to keep and what to change."
     ],
-    "category": "environment",
+    "close": "The defaults were installed quietly. The audit is loud. That's exactly why most people skip it.",
+    "category": "design",
     "status": "unused"
   },
   {
     "id": "050",
-    "hook": "You can think your way out of most things. Your body's baseline isn't one of them.",
+    "hook": "Designing your life is not a luxury. Not having a design is.",
     "angles": [
-      "Contrarian snapback: open with 'most personal development advice is cognitive. Reframe it, shift the mindset, think about it differently.' Stun: 'But here's a category where that approach fails consistently.' Snap: 'The nervous system operates below rationalization. You can convince your mind the situation is fine while the body keeps running its own calculation.' Question planted: which system am I actually trying to fix?",
-      "Pain lead: 'Describe the mismatch: you've done the analysis, you know the situation is objectively fine, you can articulate exactly why. The body keeps sending the same signal anyway.'",
-      "Diagnosis: 'If you've been trying to fix a location problem with a mindset solution, that's why it hasn't worked. Not a character failure. A category error.'"
+      "Contrarian snapback: open with 'life design sounds like a privilege, something available to people with options.' Stun: 'But here's the other framing.' Snap: 'The person who doesn't design their life gets a life designed by everyone around them. Employer, expectation, default. That's also a design. Just a passive one.' Question planted: whose design am I living, and was it chosen?",
+      "Benefit lead: 'If you've been waiting until you have more options before designing your life, consider: the absence of a design is also a design. And it has a known outcome.' Then explain passive design versus active design. Not opposites. Different levels of authorship.",
+      "Staccato: 'You do not need permission. You never did. The design is available now. It always was.' Visual: a blank architectural plan with tools available and waiting."
     ],
-    "category": "environment",
+    "close": "The permission you were waiting for was never the condition. You were already designing. The only question was whether you were doing it on purpose.",
+    "category": "design",
     "status": "unused"
   }
 ]

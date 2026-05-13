@@ -16,10 +16,60 @@ Apply every rule below before writing a single word.
     "Angle 02: pain or benefit lead — open with what they want or fear, then reveal.",
     "Angle 03: staccato take, story, or observation — concrete, short sentences, visual direction."
   ],
+  "close": "1-sentence payoff that resolves the curiosity loop opened by the hook. Only earned at the end of the video.",
   "category": "time | identity | system | money | fear | design | creativity | environment",
   "status": "unused"
 }
 ```
+
+---
+
+## Energy and tone
+
+This content library is for a life design creator. The energy is expansive, permission-giving, and curious. Not trapped.
+
+**The right energy:**
+- Life can be designed. Start there.
+- "You do not need permission to begin. You never did."
+- "Most walls are local." They dissolve when tested.
+- Courage, perspective shifts, creative possibility, identity fluidity.
+- The observer who sees what others have normalized and names it.
+
+**The wrong energy:**
+- Sunday dread, corporate-trapped anxiety, job-escape fantasy.
+- Hustle culture critique (it's been done; it's not the voice).
+- Generic motivational arcs with a tidy resolution.
+
+**Tone by category:**
+- `environment`: somatic, observational, specific cities and geographies.
+- `identity`: diagnostic of inherited schemas, not self-help cheerleading.
+- `design`: iterative, version-based, no final answer energy.
+- `creativity`: permission-giving, fear-as-filter, making as research.
+- `fear`: reframe the accounting, not the emotion.
+- `system`: architectural, not motivational.
+- `time`: mathematical, concrete, non-refundable.
+- `money`: sufficiency over wealth, autonomy as the actual target.
+
+---
+
+## Curiosity loop (Zeigarnik Effect)
+
+Every card opens a loop in the hook that only closes at the end of the video.
+
+**How it works:**
+- The hook plants a single question the viewer cannot answer without watching.
+- The angles develop the middle — the question stays open.
+- The `close` field is the 1-sentence payoff. One clean resolution. Never mid-video.
+
+**Writing the close:**
+- It should feel like the thing the whole video was building toward.
+- It is not a summary. It is a revelation or a reframe.
+- It should make the hook retroactively more interesting.
+- ≤20 words. One clean sentence.
+
+**Example:**
+- Hook: "You have four thousand weeks. That's the whole number."
+- Close: "The number was always the number. Making it visible is just finally agreeing to know it."
 
 ---
 
@@ -203,6 +253,8 @@ Before finalizing any card, scan against these patterns:
 - [ ] No AI tells
 - [ ] No "here's how to" framing in hooks
 - [ ] No three-part balanced conclusions
+- [ ] Close field present and resolves the hook's curiosity loop (not a summary)
+- [ ] Close is ≤20 words, one clean sentence
 
 ---
 
@@ -212,6 +264,10 @@ Before finalizing any card, scan against these patterns:
 You are generating idea cards for a short-form video content library.
 
 Apply every rule in this guide exactly. No exceptions.
+
+ENERGY: Life design, permission-giving, expansive, curious. Not trapped.
+The creator left Germany at 19, worked construction in NZ, studied biology, burned out, walked the Camino, lived Berlin and Bangkok, builds a one-person business. The voice: "what if most of what's stopping you was never actually there?" and "you do not need permission to begin."
+Wrong energy: corporate-trapped anxiety, hustle culture critique, generic motivational arcs.
 
 HOOK RULES:
 - ≤12 words. Two sentences max. Second sentence is a short punch.
@@ -225,11 +281,16 @@ ANGLE RULES:
 - Angle 03: staccato take, specific story, or relatable observation. Include visual direction hint.
 - No em dashes anywhere. Each angle produces a different video.
 
+CLOSE FIELD:
+- 1-sentence payoff that resolves the curiosity loop opened by the hook.
+- Only earned at the end of the video. Not a summary. A revelation or reframe.
+- ≤20 words.
+
 VOICE: Analyst archetype. Diagnostic, not motivational. Negative diagnosis before positive direction. High-variance cadence. No banned vocabulary. No AI tells.
 
 SOURCE MATERIAL: [PASTE TRANSCRIPT OR RESEARCH]
 
 CATEGORY: [time | identity | system | money | fear | design | creativity | environment]
 
-Generate [N] cards. Output as JSON array only.
+Generate [N] cards. Output as JSON array only. Include "close" field on each card.
 ```
