@@ -77,7 +77,7 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
 
       {idea.close && (
         <div className="idea-card__close">
-          <span className="idea-card__close-mark">✦</span>
+          <span className="idea-card__close-label">close</span>
           <p className="idea-card__close-text">{idea.close}</p>
         </div>
       )}
