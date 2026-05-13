@@ -1,0 +1,74 @@
+:root {
+  --cloud-night: #1f1f29;
+  --cloud-midnight: #2d5f93;
+  --cloud-sky: #6ec7f4;
+  --cloud-sky-deep: #0081c0;
+  --cloud-haze: #eaf8ff;
+  --cloud-paper: #fefffc;
+  --cloud-paper-soft: #f9faf7;
+  --cloud-card: rgba(254, 255, 252, 0.9);
+  --cloud-card-light: rgba(254, 255, 252, 0.34);
+  --cloud-ink: #171717;
+  --cloud-charcoal: #2c2c2c;
+  --cloud-muted: #646464;
+  --cloud-line: rgba(222, 226, 222, 0.72);
+  --cloud-line-dark: rgba(255, 255, 255, 0.42);
+  --cloud-accent: #41a1cf;
+  --cloud-accent-strong: #0081c0;
+  --cloud-violet: #444141;
+  --cloud-warm: #f0ece5;
+
+  --text-caption: 12px;
+  --text-body: 15px;
+  --text-subheading: 18px;
+  --text-heading: 40px;
+  --text-display: 54px;
+
+  --leading-tight: 1.08;
+  --leading-copy: 1.5;
+  --tracking-caption: 0.12em;
+  --tracking-body: 0;
+
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-48: 48px;
+  --space-64: 64px;
+  --space-80: 80px;
+
+  --radius-button: 8px;
+  --radius-pill: 50px;
+  --radius-card: 24px;
+  --radius-panel: 16px;
+
+  --shadow-float: rgba(0, 82, 140, 0.16) 0 22px 70px;
+  --shadow-card: rgba(0, 0, 0, 0.08) 0 1px 1px, rgba(0, 0, 0, 0.08) 0 12px 34px;
+  --shadow-glow: rgba(65, 161, 207, 0.34) 0 0 54px;
+}
+
+@theme {
+  --color-cloud-night: #1f1f29;
+  --color-cloud-midnight: #2d5f93;
+  --color-cloud-sky: #6ec7f4;
+  --color-cloud-sky-deep: #0081c0;
+  --color-cloud-haze: #eaf8ff;
+  --color-cloud-paper: #fefffc;
+  --color-cloud-paper-soft: #f9faf7;
+  --color-cloud-ink: #171717;
+  --color-cloud-charcoal: #2c2c2c;
+  --color-cloud-muted: #646464;
+  --color-cloud-accent: #41a1cf;
+  --color-cloud-accent-strong: #0081c0;
+  --color-cloud-violet: #444141;
+  --color-cloud-warm: #f0ece5;
+
+  --radius-cloud-button: 8px;
+  --radius-cloud-pill: 50px;
+  --radius-cloud-card: 24px;
+  --radius-cloud-panel: 16px;
+}

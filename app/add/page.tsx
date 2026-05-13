@@ -1,11 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import dynamic from 'next/dynamic'
 import Link from 'next/link'
+import GradientBackground from '@/components/GradientBackground'
 import { Category } from '@/types/idea'
-
-const GradientBackground = dynamic(() => import('@/components/GradientBackground'), { ssr: false })
 
 const CATEGORIES: Category[] = ['time', 'identity', 'system', 'money', 'fear', 'design', 'creativity', 'environment']
 
@@ -28,81 +26,82 @@ export default function AddPage() {
   const ready = hook.trim().length > 0 && angle1.trim().length > 0
 
   return (
-    <main className="min-h-screen flex flex-col">
+    <main className="min-h-screen flex flex-col overflow-hidden">
       <GradientBackground />
 
-      <header className="flex items-center justify-between px-8 py-6">
+      <header className="mx-auto flex w-full max-w-6xl items-center justify-between px-5 py-5 md:px-8 md:py-7">
         <Link
           href="/"
-          className="text-xs px-4 py-2 rounded-full bg-white/30 text-slate-600 hover:bg-white/50 transition-all backdrop-blur-sm border border-white/40"
+          className="sky-pill min-h-11 px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-paper/86 transition-all hover:border-cloud-paper/45 hover:bg-white/18 hover:text-white"
         >
-          ← back
+          back
         </Link>
-        <span className="text-sm font-medium tracking-widest text-slate-500 uppercase">
+        <span className="sky-pill px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-paper/84">
           + add idea
         </span>
       </header>
 
-      <div className="flex-1 flex items-center justify-center px-6 py-8">
-        <div className="glass-card flex flex-col gap-6 p-10 md:p-14 max-w-2xl w-full mx-auto">
+      <div className="flex flex-1 items-center justify-center px-5 py-8 md:px-8 md:py-10">
+        <div className="glass-card flex w-full max-w-2xl flex-col gap-6 p-6 md:p-10">
 
           <div className="flex flex-col gap-2">
-            <label className="text-xs text-slate-400 tracking-widest uppercase">hook</label>
+            <label className="font-mono text-[11px] uppercase tracking-[0.14em] text-cloud-muted">hook</label>
             <textarea
               value={hook}
               onChange={e => setHook(e.target.value)}
-              placeholder="The opening line — what you say first in the video."
+              placeholder="The opening line."
               rows={3}
-              className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-base placeholder:text-slate-400 focus:outline-none focus:border-blue-300 resize-none backdrop-blur-sm"
+              className="resize-none rounded-cloud-panel border border-cloud-line bg-white/48 px-4 py-3 text-base text-cloud-charcoal placeholder:text-cloud-muted/56 focus:border-[#c8e8f6] focus:outline-none"
             />
           </div>
 
           <div className="flex flex-col gap-3">
-            <label className="text-xs text-slate-400 tracking-widest uppercase">angles</label>
+            <label className="font-mono text-[11px] uppercase tracking-[0.14em] text-cloud-muted">angles</label>
             {[
-              { val: angle1, set: setAngle1, placeholder: 'First entry point — scene, confession, or cold open.' },
-              { val: angle2, set: setAngle2, placeholder: 'Second entry point — number, reversal, or question.' },
-              { val: angle3, set: setAngle3, placeholder: 'Third entry point — story, diagnosis, or contrast.' },
+              { val: angle1, set: setAngle1, placeholder: 'First entry point.' },
+              { val: angle2, set: setAngle2, placeholder: 'Second entry point.' },
+              { val: angle3, set: setAngle3, placeholder: 'Third entry point.' },
             ].map(({ val, set, placeholder }, i) => (
-              <div key={i} className="flex gap-3 items-start">
-                <span className="text-slate-300 select-none mt-3.5 shrink-0">—</span>
+              <div key={i} className="flex items-start gap-3">
+                <span className="mt-3 flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft font-mono text-[11px] text-cloud-accent-strong">
+                  {String(i + 1).padStart(2, '0')}
+                </span>
                 <textarea
                   value={val}
                   onChange={e => set(e.target.value)}
                   placeholder={placeholder}
                   rows={2}
-                  className="flex-1 bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm placeholder:text-slate-400 focus:outline-none focus:border-blue-300 resize-none backdrop-blur-sm"
+                  className="flex-1 resize-none rounded-cloud-panel border border-cloud-line bg-white/48 px-4 py-3 text-sm text-cloud-charcoal placeholder:text-cloud-muted/56 focus:border-[#c8e8f6] focus:outline-none"
                 />
               </div>
             ))}
           </div>
 
           <div className="flex flex-col gap-2">
-            <label className="text-xs text-slate-400 tracking-widest uppercase">category</label>
+            <label className="font-mono text-[11px] uppercase tracking-[0.14em] text-cloud-muted">category</label>
             <select
               value={category}
               onChange={e => setCategory(e.target.value as Category)}
-              className="bg-white/20 border border-white/30 rounded-xl px-4 py-3 text-slate-700 text-sm focus:outline-none focus:border-blue-300 backdrop-blur-sm"
+              className="rounded-cloud-panel border border-cloud-line bg-white/70 px-4 py-3 text-sm text-cloud-charcoal focus:border-[#c8e8f6] focus:outline-none"
             >
               {CATEGORIES.map(c => <option key={c} value={c}>{c}</option>)}
             </select>
           </div>
 
-          <div className="pt-2 border-t border-white/30 flex flex-col gap-3">
-            <p className="text-xs text-slate-400">
-              Copy the JSON below and paste it into{' '}
-              <code className="text-blue-500 text-xs">data/ideas.json</code> — or send it to Claude to add it for you.
+          <div className="flex flex-col gap-3 border-t border-cloud-line pt-2">
+            <p className="text-xs text-cloud-muted">
+              Draft JSON for <code className="text-cloud-accent-strong">data/ideas.json</code>.
             </p>
             <button
               onClick={handleCopy}
               disabled={!ready}
-              className={`text-sm px-5 py-3 rounded-full transition-all duration-200 ${
+              className={`min-h-11 rounded-cloud-pill border px-5 text-sm font-bold uppercase tracking-[0.12em] transition-all duration-200 ${
                 ready
-                  ? 'bg-blue-500/20 text-blue-700 hover:bg-blue-500/30'
-                  : 'bg-slate-100/40 text-slate-400 cursor-not-allowed'
+                  ? 'border-[#c8e8f6] bg-[#e8f5fb] text-cloud-accent-strong hover:bg-white'
+                  : 'cursor-not-allowed border-cloud-line bg-cloud-paper-soft text-cloud-muted/50'
               }`}
             >
-              {copied ? '✓ copied' : 'copy as JSON'}
+              {copied ? 'copied' : 'copy as JSON'}
             </button>
           </div>
         </div>

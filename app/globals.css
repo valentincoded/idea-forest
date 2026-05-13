@@ -1,28 +1,133 @@
 @import "tailwindcss";
+@import "../design/tokens.css";
 
 :root {
-  --background: #2255b0;
-  --foreground: #1e293b;
+  --background: var(--cloud-night);
+  --foreground: var(--cloud-paper);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-family: var(--font-body), system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: rgba(65, 161, 207, 0.35);
+  color: var(--cloud-paper);
+}
+
+.cloud-background {
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(254, 255, 252, 0.78), transparent 24%),
+    radial-gradient(circle at 76% 14%, rgba(234, 248, 255, 0.72), transparent 28%),
+    radial-gradient(circle at 70% 78%, rgba(254, 255, 252, 0.5), transparent 34%),
+    linear-gradient(155deg, #9fdbff 0%, var(--cloud-sky) 42%, #4daee4 100%);
+}
+
+.cloud-background__wash {
+  position: absolute;
+  inset: -18%;
+  background:
+    radial-gradient(ellipse at 28% 34%, rgba(254, 255, 252, 0.9), transparent 35%),
+    radial-gradient(ellipse at 66% 58%, rgba(254, 255, 252, 0.62), transparent 38%),
+    radial-gradient(ellipse at 48% 84%, rgba(234, 248, 255, 0.7), transparent 42%);
+  filter: blur(48px);
+  mix-blend-mode: screen;
+  opacity: 0.82;
+  animation: cloud-drift 28s ease-in-out infinite alternate;
+}
+
+.cloud-background__grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.80' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23g)'/%3E%3C/svg%3E");
+  mix-blend-mode: overlay;
+  opacity: 0.34;
+}
+
+.cloud-background__stars {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle, rgba(254, 255, 252, 0.58) 0 1px, transparent 1.5px),
+    radial-gradient(circle, rgba(0, 129, 192, 0.16) 0 1px, transparent 1.5px);
+  background-position: 16px 22px, 72px 84px;
+  background-size: 132px 132px, 190px 190px;
+  opacity: 0.24;
+}
+
+@keyframes cloud-drift {
+  from {
+    transform: translate3d(-2%, -1%, 0) scale(1);
+  }
+
+  to {
+    transform: translate3d(2%, 1.5%, 0) scale(1.04);
+  }
 }
 
 .glass-card {
-  background: rgba(255, 255, 255, 0.84);
-  backdrop-filter: blur(18px) saturate(120%);
-  -webkit-backdrop-filter: blur(18px) saturate(120%);
-  border-radius: 28px;
-  border: 1px solid rgba(255, 255, 255, 0.65);
-  box-shadow:
-    0 0 0 0.5px rgba(255, 255, 255, 0.25) inset,
-    0 1px 0 rgba(255, 255, 255, 0.7) inset,
-    0 20px 60px rgba(60, 100, 200, 0.12),
-    0 4px 12px rgba(60, 100, 200, 0.08);
+  background: var(--cloud-card);
+  backdrop-filter: blur(22px) saturate(118%);
+  -webkit-backdrop-filter: blur(22px) saturate(118%);
+  border-radius: var(--radius-card);
+  border: 1px solid rgba(254, 255, 252, 0.64);
+  box-shadow: var(--shadow-float), var(--shadow-card), inset 0 1px 0 rgba(255, 255, 255, 0.72);
+}
+
+.idea-card {
+  width: calc(100vw - 1.5rem);
+  max-width: 48rem;
+}
+
+@media (max-width: 640px) {
+  .idea-card {
+    flex: 0 0 calc(100vw - 1.5rem);
+    width: calc(100vw - 1.5rem) !important;
+    max-width: calc(100vw - 1.5rem) !important;
+  }
+
+  .idea-card::before {
+    right: -18px;
+    opacity: 0.38;
+  }
+}
+
+.idea-card::before {
+  content: "";
+  position: absolute;
+  top: 22px;
+  right: 28px;
+  width: 118px;
+  height: 46px;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 28% 55%, rgba(255, 255, 255, 0.92) 0 20px, transparent 21px),
+    radial-gradient(circle at 52% 38%, rgba(255, 255, 255, 0.86) 0 25px, transparent 26px),
+    radial-gradient(circle at 74% 58%, rgba(255, 255, 255, 0.74) 0 18px, transparent 19px);
+  filter: blur(0.2px);
+  opacity: 0.58;
+}
+
+.idea-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 58%;
+  height: 44%;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 62% 34%, rgba(234, 248, 255, 0.78), transparent 32%),
+    radial-gradient(circle at 42% 48%, rgba(65, 161, 207, 0.1), transparent 42%);
+  filter: blur(22px);
+  opacity: 0.7;
+  pointer-events: none;
 }
 
 .scrollbar-none {
@@ -34,22 +139,42 @@ body {
 }
 
 .nav-btn {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  border-radius: var(--radius-pill);
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(255, 255, 255, 0.20);
-  border: 1px solid rgba(255, 255, 255, 0.30);
-  color: rgba(255, 255, 255, 0.80);
+  background: rgba(254, 255, 252, 0.08);
+  border: 1px solid rgba(254, 255, 252, 0.2);
+  color: rgba(254, 255, 252, 0.82);
   font-size: 16px;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   transition: all 0.2s ease;
   cursor: pointer;
 }
 
 .nav-btn:hover {
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(254, 255, 252, 0.18);
+  border-color: rgba(65, 161, 207, 0.6);
+  box-shadow: var(--shadow-glow);
+}
+
+.sky-pill {
+  border-radius: var(--radius-pill);
+  border: 1px solid rgba(254, 255, 252, 0.18);
+  background: rgba(254, 255, 252, 0.08);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.display-font {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cloud-background__wash {
+    animation: none;
+  }
 }

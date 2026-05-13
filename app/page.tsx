@@ -1,13 +1,11 @@
 'use client'
 
 import { useState, useCallback } from 'react'
-import dynamic from 'next/dynamic'
 import IdeaCard from '@/components/IdeaCard'
+import GradientBackground from '@/components/GradientBackground'
 import ideasData from '@/data/ideas.json'
 import { Idea, Category } from '@/types/idea'
 import Link from 'next/link'
-
-const GradientBackground = dynamic(() => import('@/components/GradientBackground'), { ssr: false })
 
 const CATEGORIES: Category[] = ['time', 'identity', 'system', 'money', 'fear', 'design', 'creativity', 'environment']
 const ALL = 'all'
@@ -52,36 +50,31 @@ export default function Home() {
   if (!current) return null
 
   return (
-    <main className="min-h-screen flex flex-col">
+    <main className="min-h-screen overflow-x-hidden flex flex-col">
       <GradientBackground />
 
-      {/* Header */}
-      <header className="flex items-center justify-between px-8 py-6">
-        <span className="flex items-center gap-2 select-none">
-          <span className="text-2xl leading-none text-white/70">☁︎</span>
-          <span
-            className="text-2xl leading-none text-white whitespace-nowrap"
-            style={{ fontFamily: 'var(--font-pacifico)' }}
-          >
+      <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
+        <span className="sky-pill flex items-center gap-2.5 px-3.5 py-2 select-none sm:gap-3 sm:px-4 sm:py-2.5">
+          <span className="text-xl leading-none text-cloud-paper drop-shadow-[0_0_18px_rgba(255,255,255,0.7)] sm:text-2xl">☁︎</span>
+          <span className="display-font text-xl font-medium leading-none text-cloud-paper whitespace-nowrap sm:text-2xl">
             clouds
           </span>
         </span>
         <Link
           href="/add"
-          className="text-xs px-4 py-2 rounded-full bg-white/20 text-white/80 hover:bg-white/30 transition-all backdrop-blur-sm border border-white/30 whitespace-nowrap"
+          className="sky-pill min-h-10 px-3.5 py-2 text-[10px] font-semibold uppercase tracking-[0.12em] text-cloud-paper/86 transition-all hover:border-cloud-paper/45 hover:bg-white/18 hover:text-white whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-xs"
         >
           + add idea
         </Link>
       </header>
 
-      {/* Category filter */}
-      <nav className="flex gap-2 px-8 pb-4 overflow-x-auto scrollbar-none flex-nowrap">
+      <nav className="scrollbar-none mx-auto flex w-full max-w-6xl shrink-0 gap-2 overflow-x-auto px-4 pb-4 sm:px-5 md:px-8">
         <button
           onClick={() => handleCategory(ALL)}
-          className={`text-xs px-3 py-1.5 rounded-full transition-all duration-200 border ${
+          className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
             activeCategory === ALL
-              ? 'bg-white/90 text-slate-700 border-white/90'
-              : 'bg-white/20 text-white/70 border-white/25 hover:bg-white/30 hover:text-white'
+              ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
+              : 'border-white/24 bg-white/10 text-white/76 backdrop-blur-md hover:border-white/45 hover:bg-white/18 hover:text-white'
           }`}
         >
           all
@@ -90,10 +83,10 @@ export default function Home() {
           <button
             key={cat}
             onClick={() => handleCategory(cat)}
-            className={`text-xs px-3 py-1.5 rounded-full transition-all duration-200 border ${
+            className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
               activeCategory === cat
-                ? 'bg-white/90 text-slate-700 border-white/90'
-                : 'bg-white/20 text-white/70 border-white/25 hover:bg-white/30 hover:text-white'
+                ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
+                : 'border-white/24 bg-white/10 text-white/76 backdrop-blur-md hover:border-white/45 hover:bg-white/18 hover:text-white'
             }`}
           >
             {cat}
@@ -101,8 +94,7 @@ export default function Home() {
         ))}
       </nav>
 
-      {/* Card */}
-      <div className="flex-1 flex items-center justify-center px-6 py-8">
+      <div className="flex min-h-0 w-full max-w-full flex-1 items-start justify-center overflow-hidden px-3 pb-5 pt-1 sm:px-5 sm:py-8 md:items-center md:px-8 md:py-10">
         <IdeaCard
           idea={current}
           onMarkUsed={markUsed}
@@ -111,8 +103,7 @@ export default function Home() {
         />
       </div>
 
-      {/* Navigation */}
-      <footer className="flex items-center justify-center gap-6 pb-10">
+      <footer className="sticky bottom-0 z-20 flex shrink-0 items-center justify-center gap-3 px-4 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-3 md:static md:gap-6 md:pb-10">
         <button
           onClick={prev}
           className="nav-btn"
@@ -122,7 +113,7 @@ export default function Home() {
         </button>
         <button
           onClick={random}
-          className="text-xs px-5 py-2.5 rounded-full bg-white/20 text-white/80 hover:bg-white/30 transition-all backdrop-blur-sm border border-white/30"
+          className="sky-pill min-h-11 min-w-28 px-5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-paper/84 transition-all hover:border-cloud-paper/45 hover:bg-white/18 hover:text-white"
         >
           random
         </button>

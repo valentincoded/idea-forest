@@ -3,14 +3,14 @@
 import { Idea } from '@/types/idea'
 
 const categoryColors: Record<string, string> = {
-  time:        'bg-blue-100/60 text-blue-700',
-  identity:    'bg-indigo-100/60 text-indigo-700',
-  system:      'bg-slate-100/60 text-slate-600',
-  money:       'bg-sky-100/60 text-sky-700',
-  fear:        'bg-violet-100/60 text-violet-700',
-  design:      'bg-blue-50/80 text-blue-600',
-  creativity:  'bg-indigo-50/80 text-indigo-600',
-  environment: 'bg-cyan-100/60 text-cyan-700',
+  time:        'bg-[#e8f5fb] text-[#0081c0] border-[#c8e8f6]',
+  identity:    'bg-[#eef1ff] text-[#5266eb] border-[#d9ddff]',
+  system:      'bg-[#f0f1ee] text-[#444141] border-[#dee2de]',
+  money:       'bg-[#e8f7ef] text-[#237b55] border-[#c9ead9]',
+  fear:        'bg-[#f4edff] text-[#7a43bd] border-[#e5d4ff]',
+  design:      'bg-[#eef9ff] text-[#0081c0] border-[#d3effb]',
+  creativity:  'bg-[#fff5dd] text-[#9b6b12] border-[#f0dda8]',
+  environment: 'bg-[#e9fbff] text-[#167c8f] border-[#c9eff6]',
 }
 
 interface IdeaCardProps {
@@ -24,51 +24,56 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
   const isUsed = idea.status !== 'unused'
 
   return (
-    <div className="glass-card flex flex-col gap-6 p-10 md:p-14 max-w-2xl w-full mx-auto">
-      <div className="flex items-center justify-between">
-        <span className={`text-xs font-medium tracking-widest uppercase px-3 py-1 rounded-full ${categoryColors[idea.category]}`}>
+    <article className="glass-card idea-card relative mx-auto flex min-w-0 flex-col gap-4 overflow-hidden p-4 sm:gap-5 sm:p-6 md:gap-7 md:p-10">
+      <div className="relative z-10 flex items-center justify-between gap-4">
+        <span className={`rounded-cloud-pill border px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.14em] sm:text-[11px] ${categoryColors[idea.category]}`}>
           {idea.category}
         </span>
-        <span className="text-xs text-slate-400 tabular-nums">
+        <span className="font-mono text-xs text-cloud-muted/70 tabular-nums">
           {String(current).padStart(2, '0')} / {String(total).padStart(2, '0')}
         </span>
       </div>
 
-      <div className="flex flex-col gap-4">
-        <p className={`text-2xl md:text-3xl font-light leading-snug text-slate-800 tracking-tight ${isUsed ? 'line-through opacity-40' : ''}`}>
+      <div className="relative z-10 flex flex-col gap-4 md:gap-5">
+        <p className={`display-font max-w-2xl text-[2.05rem] font-medium leading-[1.02] text-cloud-ink break-words sm:text-5xl md:text-6xl ${isUsed ? 'line-through opacity-40' : ''}`}>
           {idea.hook}
         </p>
-        <ul className="flex flex-col gap-2">
+        <ul className="grid min-w-0 gap-2.5 sm:gap-3">
           {idea.angles.map((angle, i) => (
-            <li key={i} className="flex gap-3 text-sm md:text-base text-slate-600 leading-relaxed font-light">
-              <span className="text-slate-300 select-none shrink-0 tabular-nums text-xs mt-1">{String(i + 1).padStart(2, '0')}</span>
-              <span>{angle}</span>
+            <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/48 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:-translate-y-0.5 hover:border-[#c8e8f6] hover:bg-white/68 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">
+              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft font-mono text-[10px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb] sm:h-7 sm:w-7 sm:text-[11px]">
+                {String(i + 1).padStart(2, '0')}
+              </span>
+              <span className="min-w-0 overflow-hidden break-words [overflow-wrap:anywhere]">{angle}</span>
             </li>
           ))}
         </ul>
       </div>
 
       {idea.close && (
-        <div className="pt-4 border-t border-white/20">
-          <p className="text-xs text-slate-400 italic leading-relaxed">
-            <span className="not-italic text-slate-300 font-medium tracking-widest uppercase text-[10px] mr-2">close</span>
+        <div className="relative z-10 min-w-0 rounded-cloud-panel border border-cloud-line bg-cloud-paper-soft/70 p-3 sm:p-4">
+          <p className="min-w-0 overflow-hidden text-xs italic leading-relaxed text-cloud-muted [overflow-wrap:anywhere] sm:text-sm">
+            <span className="mr-2 font-mono text-[10px] not-italic uppercase tracking-[0.14em] text-cloud-accent-strong">close</span>
             {idea.close}
           </p>
         </div>
       )}
 
-      <div className="flex items-center justify-end pt-2 border-t border-white/30">
+      <div className="relative z-10 flex items-center justify-between gap-3 border-t border-cloud-line pt-2">
+        <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-cloud-muted/60 sm:text-[10px] sm:tracking-[0.18em]">
+          idea in orbit
+        </span>
         <button
           onClick={onMarkUsed}
-          className={`text-xs px-4 py-2 rounded-full transition-all duration-200 ${
+          className={`min-h-10 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-bold uppercase tracking-[0.12em] transition-all duration-200 sm:px-4 sm:text-xs ${
             isUsed
-              ? 'bg-slate-200/60 text-slate-400 hover:bg-slate-200'
-              : 'bg-blue-500/20 text-blue-700 hover:bg-blue-500/30'
+              ? 'border-cloud-line bg-cloud-paper-soft text-cloud-muted hover:bg-white'
+              : 'border-[#c8e8f6] bg-[#e8f5fb] text-cloud-accent-strong hover:-translate-y-0.5 hover:bg-white hover:shadow-[0_10px_28px_rgba(0,129,192,0.16)]'
           }`}
         >
           {isUsed ? 'used' : 'mark used'}
         </button>
       </div>
-    </div>
+    </article>
   )
 }

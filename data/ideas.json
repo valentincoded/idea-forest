@@ -145,7 +145,7 @@
   },
   {
     "id": "013",
-    "hook": "The version of you waiting to feel ready. It's been waiting for years.",
+    "hook": "The ready version of you has been waiting for years.",
     "angles": [
       "Contrarian snapback: open with 'preparation feels like responsibility.' Stun: 'But here's what it becomes.' Snap: 'The preparation that never produces action is not preparation. It's a permission structure you built to feel like you're doing the thing without doing the thing.' Question planted: what am I actually waiting for, and would it ever be enough?",
       "Pain lead: 'There's a specific feeling when you realize that the version of you that was going to start has been about to start for two years.' Let that sit. Then make it specific. Not a concept. A particular thing.",
@@ -157,7 +157,7 @@
   },
   {
     "id": "014",
-    "hook": "You are not who you were trained to be. That training is still running.",
+    "hook": "You are not who you were trained to be.",
     "angles": [
       "Contrarian snapback: open with 'identity feels like something you grew into.' Stun: 'But most of it was installed.' Snap: 'The beliefs about what you're capable of, what you deserve, what kind of person you are. Most of that was written by other people before you could evaluate the source.' Question planted: which of the beliefs I'm running today were installed by people who had no idea what I'd become?",
       "Pain lead: 'The self-limiting belief that feels the most like a fact is usually the one that was repeated the most times during the years you couldn't argue back.' Then explain inherited identity schemas and why they feel structural even when they're not.",
@@ -181,7 +181,7 @@
   },
   {
     "id": "016",
-    "hook": "The version of you five years ahead isn't more talented. Just less afraid.",
+    "hook": "Future you is not more talented. Just less afraid.",
     "angles": [
       "Contrarian snapback: open with 'we imagine the future version of ourselves as fundamentally more capable.' Stun: 'But that's not the actual difference.' Snap: 'The skills are already largely there. What the future version has is permission to use them. The fear hasn't been scheduled for the meeting.' Question planted: what would I do right now if I already had the confidence of my five-year-ahead self?",
       "Benefit lead: 'If the main difference between you now and the version of you that has the thing is fear management, then the path is shorter than it looks.' Then explain: the competence gap is smaller than the permission gap.",
@@ -217,13 +217,13 @@
   },
   {
     "id": "019",
-    "hook": "The responsible choice isn't always the right one. Nobody says that early enough.",
+    "hook": "The responsible choice is not always the right one.",
     "angles": [
       "Contrarian snapback: open with 'responsibility is taught as the virtue that overrides personal direction.' Stun: 'But here's what that trade looks like over time.' Snap: 'The responsible choice, compounded over decades, produces a life that was technically correct and personally empty. The risk wasn't the irresponsible option. The risk was playing it safe and being wrong.' Question planted: what is the actual cost of the responsible path, paid in full over 20 years?",
       "Pain lead: 'If you took the responsible path and something still feels off, it might not be ingratitude. It might be that responsible was always someone else's metric.' Then explore: whose definition of responsibility are you operating on?",
       "Story: tell the story of choosing the responsible path at 23 and realizing at 31 that there is a version of responsibility to yourself that no one taught. Specific moment. Concrete detail. The day it clicked."
     ],
-    "close": "Responsibility to others, compounded, without a single day of responsibility to yourself, is not virtue. It is a different kind of debt.",
+    "close": "Responsibility without any responsibility to yourself is not virtue. It is a different kind of debt.",
     "category": "identity",
     "status": "unused"
   },
@@ -235,7 +235,7 @@
       "Pain lead: 'The sunk cost of expertise in the wrong field is the most expensive trap because it looks like an asset.' Then explain: capability in the wrong direction is not the same as capability toward the right one.",
       "Staccato: 'Fell into. Built up. Good at. Can't leave. That's not a career arc. That's a trap with a great-looking profile.' Visual: a resume that tells a coherent story of the wrong direction."
     ],
-    "close": "The expertise doesn't have to come with you. Building it was not wasted. Using it as a reason to stay is.",
+    "close": "The expertise was not wasted. Using it as a reason to stay is.",
     "category": "identity",
     "status": "unused"
   },
@@ -268,7 +268,7 @@
     "hook": "Your morning is a ritual. You didn't choose the ceremony.",
     "angles": [
       "Contrarian snapback: open with 'we design morning routines for productivity.' Stun: 'But morning routines do something else first.' Snap: 'They set the register for the day. The first decisions determine the cognitive tone, the emotional posture, the capacity for the rest of the hours. Most people design for output and get the register wrong.' Question planted: what register is my morning actually setting, and is it the one I want?",
-      "Benefit lead: 'If you want the rest of the day to feel different without changing the day itself, the morning is the most leveraged variable.' Then explain the register effect. What the first 45 minutes determines about everything after.",
+      "Benefit lead: 'If you want the rest of the day to feel different without changing the day itself, the morning is the strongest variable.' Then explain the register effect. What the first 45 minutes determines about everything after.",
       "Staccato: 'What is the first decision you make after waking up? That's the one that sets the rest. Name it. Evaluate it. Change it if it's not the right first move.' Visual: two contrasting morning openers and their downstream effect on the same day."
     ],
     "close": "The morning doesn't just produce the day. It frames it. You've been framing it without noticing.",
@@ -421,7 +421,7 @@
   },
   {
     "id": "036",
-    "hook": "The purchase that felt like a reward. Check if it was a delay.",
+    "hook": "The purchase felt like a reward. Check the delay.",
     "angles": [
       "Contrarian snapback: open with 'buying something nice after hard work is supposed to be the point.' Stun: 'But here's the other thing it can be.' Snap: 'A comfort purchase at the exact moment a hard decision needed to be made. The new thing fills the space where the change was supposed to go. You feel better. The decision stays unmade.' Question planted: what decision did my last reward purchase let me avoid making?",
       "Pain lead: 'There's a specific pattern: you feel stuck, you buy something, the feeling lifts for a few days, then it comes back slightly heavier.' Name the pattern. Make it specific. Then explain the mechanism.",
@@ -475,7 +475,7 @@
       "Benefit lead: 'If you want to reduce the fear of starting something, the fastest method is getting specific about what exactly you're afraid of. Fear thrives in vagueness. Name it and it changes texture.' Then demonstrate the process live.",
       "Observation: 'Notice how the people who have started the thing you're afraid of never describe the worst case you're imagining. They describe different problems. Actual ones. Manageable ones.' Visual: the imagined obstacle versus the actual ones encountered."
     ],
-    "close": "The relief was on the other side of starting. It was always there. The fear was just in front of it.",
+    "close": "The relief was always on the other side. The fear was just in front of it.",
     "category": "fear",
     "status": "unused"
   },
@@ -505,7 +505,7 @@
   },
   {
     "id": "043",
-    "hook": "You haven't run out of ideas. You've run out of courage to say them.",
+    "hook": "You did not run out of ideas. You started filtering.",
     "angles": [
       "Contrarian snapback: open with 'I don't have any ideas sounds like a fact.' Stun: 'But here's what it actually is.' Snap: 'A filter. The ideas are there. The filter is calibrated to what sounds acceptable, achievable, not embarrassing. The weird idea, the too-honest one. That's the video.' Question planted: which idea have I been most afraid to say out loud?",
       "Benefit lead: 'The ideas you've been automatically filtering as too much or too weird are the diagnostic location. If they make you slightly uncomfortable to say, they are more interesting than the ones that don't.' Then explain: the embarrassment gradient as creative compass.",
@@ -517,7 +517,7 @@
   },
   {
     "id": "044",
-    "hook": "Making things teaches you what thinking alone never will. That gap is real.",
+    "hook": "Making teaches what thinking alone cannot.",
     "angles": [
       "Contrarian snapback: open with 'thinking through a problem before starting is supposed to produce clarity.' Stun: 'But here's what thinking cannot access.' Snap: 'The insight inside the work. The thing you only learn by doing. The discovery that happens at the third hour, not the third planning session.' Question planted: what is waiting inside the work I haven't started yet that I can't reach by thinking about it?",
       "Benefit lead: 'If you want the answer to the question you keep circling in your head, the path is usually not more research. It is the first draft, the first prototype, the first version made badly.' Then explain making as the research method.",
@@ -529,7 +529,7 @@
   },
   {
     "id": "045",
-    "hook": "The thing you can't stop thinking about is data. Point in that direction.",
+    "hook": "The thought you cannot drop is data.",
     "angles": [
       "Contrarian snapback: open with 'obsession is supposed to be a problem to manage.' Stun: 'But here's what it is.' Snap: 'A compass. The persistent thought is not a distraction from the path. It is the path trying to become visible. The compulsion toward something is more information than most planning processes.' Question planted: what am I pretending is just an interest when it's actually a direction?",
       "Benefit lead: 'If you want to stop choosing between options that all feel flat, start by auditing the thoughts you can't turn off. The thing that shows up uninvited in your idle moments is more honest than anything you've deliberately decided.' Then walk through what that audit looks like.",
@@ -571,7 +571,7 @@
       "Benefit lead: 'If the person who seems most certain is just someone who has tried more versions than you, the path to that clarity is not waiting to feel ready. It's starting the iterations.' Then explain: clarity as downstream product of action, not a prerequisite.",
       "Staccato: 'They're not smarter. They've tried more. Failed more. Eliminated more. That's the whole advantage. It's replicable. It just requires starting.' Visual: same person at iteration 1 versus iteration 12. Same uncertainty. Much more map."
     ],
-    "close": "The certainty they have is not a different kind. It is a later version of the same uncertainty you have now.",
+    "close": "Their certainty is a later version of the uncertainty you have now.",
     "category": "design",
     "status": "unused"
   },
@@ -595,7 +595,7 @@
       "Benefit lead: 'If you've been waiting until you have more options before designing your life, consider: the absence of a design is also a design. And it has a known outcome.' Then explain passive design versus active design. Not opposites. Different levels of authorship.",
       "Staccato: 'You do not need permission. You never did. The design is available now. It always was.' Visual: a blank architectural plan with tools available and waiting."
     ],
-    "close": "The permission you were waiting for was never the condition. You were already designing. The only question was whether you were doing it on purpose.",
+    "close": "You were already designing. The only question was whether you were doing it on purpose.",
     "category": "design",
     "status": "unused"
   },
