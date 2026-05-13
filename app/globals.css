@@ -254,14 +254,34 @@ body {
   border-color: rgba(254, 255, 252, 0.88);
 }
 
-.display-font {
-  font-family: var(--font-display), Georgia, serif;
+.pixel-font,
+.cloud-wordmark {
+  font-family: var(--font-pixel), ui-monospace, monospace;
+  letter-spacing: 0;
+}
+
+.cloud-lockup {
+  min-height: 58px;
+  padding-right: 1.05rem;
+  background: rgba(254, 255, 252, 0.66);
+  border-color: rgba(254, 255, 252, 0.9);
+}
+
+.cloud-lockup__icon {
+  width: 28px;
+  height: 18px;
+  display: inline-block;
+  background:
+    radial-gradient(circle at 18% 64%, var(--cloud-sky-deep) 0 8px, transparent 8.5px),
+    radial-gradient(circle at 42% 42%, var(--cloud-sky-deep) 0 10px, transparent 10.5px),
+    radial-gradient(circle at 68% 62%, var(--cloud-sky-deep) 0 8px, transparent 8.5px),
+    linear-gradient(var(--cloud-sky-deep), var(--cloud-sky-deep)) 7px 9px / 18px 9px no-repeat;
+  image-rendering: pixelated;
+  filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.72));
 }
 
 .cloud-wordmark {
-  font-family: var(--font-pixel), var(--font-display), Georgia, serif;
   font-weight: 500;
-  letter-spacing: 0;
   text-transform: lowercase;
   text-shadow: 0 0 18px rgba(255, 255, 255, 0.64);
 }

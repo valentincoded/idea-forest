@@ -54,15 +54,15 @@ export default function Home() {
       <GradientBackground />
 
       <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
-        <span className="sky-pill flex items-center gap-2.5 px-3.5 py-2 select-none sm:gap-3 sm:px-4 sm:py-2.5">
-          <span className="text-xl leading-none text-cloud-sky-deep drop-shadow-[0_0_18px_rgba(255,255,255,0.7)] sm:text-2xl">☁︎</span>
+        <span className="cloud-lockup sky-pill flex items-center gap-2.5 px-3.5 py-2 select-none sm:gap-3 sm:px-4 sm:py-2.5">
+          <span className="cloud-lockup__icon" aria-hidden="true" />
           <span className="cloud-wordmark text-[1.65rem] leading-none text-cloud-sky-deep whitespace-nowrap sm:text-[1.9rem]">
             clouds
           </span>
         </span>
         <Link
           href="/add"
-          className="sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-[10px] font-semibold uppercase tracking-[0.12em] text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-xs"
+          className="pixel-font sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-sm font-medium uppercase leading-none text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-base"
         >
           + add idea
         </Link>
@@ -71,7 +71,7 @@ export default function Home() {
       <nav className="scrollbar-none mx-auto flex w-full max-w-6xl shrink-0 gap-2 overflow-x-auto px-4 pb-4 sm:px-5 md:px-8">
         <button
           onClick={() => handleCategory(ALL)}
-          className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
+          className={`pixel-font min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-sm font-medium uppercase leading-none transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-base ${
             activeCategory === ALL
               ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
               : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
@@ -83,7 +83,7 @@ export default function Home() {
           <button
             key={cat}
             onClick={() => handleCategory(cat)}
-            className={`min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[10px] font-semibold uppercase tracking-[0.12em] transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-xs ${
+            className={`pixel-font min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-sm font-medium uppercase leading-none transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-base ${
               activeCategory === cat
                 ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
                 : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
@@ -113,7 +113,7 @@ export default function Home() {
         </button>
         <button
           onClick={random}
-          className="sky-pill sky-pill--bright min-h-11 min-w-28 px-5 text-xs font-semibold uppercase tracking-[0.12em] text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84"
+          className="pixel-font sky-pill sky-pill--bright min-h-11 min-w-28 px-5 text-base font-medium uppercase leading-none text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84"
         >
           random
         </button>
