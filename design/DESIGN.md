@@ -21,7 +21,7 @@ Use the other references only as supporting notes:
 3. Controls should feel like navigation instruments, not dashboard chrome.
 4. Use one bright accent at a time. The background carries the mood. The accent carries interaction.
 5. Keep the idea content first. Ornament should frame the thought, never compete with it.
-6. Preserve the pixel-art identity details. The Clouds wordmark should feel playful and digital, not corporate-bold.
+6. Use PPMondwest for the Clouds wordmark and large idea text. The interface should feel clean, airy, and tasteful, not pixel-art or goofy.
 
 ## Tokens
 
@@ -41,7 +41,7 @@ Primary surfaces:
 
 ### Sky Background
 
-Full-screen layered background with blue-sky color, moving white cloud gradients, subtle pixel-cloud accents, grain, and slow drift. This must be CSS-only so local and deployed builds match.
+Full-screen layered background with blue-sky color and moving white gradients that feel like being in the sky. Keep it clean and CSS-only so local and deployed builds match.
 
 ### Header
 

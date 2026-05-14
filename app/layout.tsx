@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Geist_Mono, Manrope, Pixelify_Sans } from "next/font/google";
+import { Geist_Mono, Manrope } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
 const body = Manrope({
@@ -12,10 +13,11 @@ const mono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const pixel = Pixelify_Sans({
-  variable: "--font-pixel",
-  weight: ["400", "500", "600"],
-  subsets: ["latin"],
+const ppmondwest = localFont({
+  src: "../public/fonts/ppmondwest-regular.otf",
+  variable: "--font-ppmondwest",
+  weight: "400",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -38,7 +40,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${body.variable} ${mono.variable} ${pixel.variable} h-full antialiased`}
+      className={`${body.variable} ${mono.variable} ${ppmondwest.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

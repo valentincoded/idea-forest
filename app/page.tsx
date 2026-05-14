@@ -54,15 +54,12 @@ export default function Home() {
       <GradientBackground />
 
       <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
-        <span className="cloud-lockup sky-pill flex items-center gap-2.5 px-3.5 py-2 select-none sm:gap-3 sm:px-4 sm:py-2.5">
-          <span className="cloud-lockup__icon" aria-hidden="true" />
-          <span className="cloud-wordmark text-[1.65rem] leading-none text-cloud-sky-deep whitespace-nowrap sm:text-[1.9rem]">
-            clouds
-          </span>
+        <span className="cloud-wordmark select-none text-[2rem] leading-none text-cloud-ink whitespace-nowrap sm:text-[2.35rem]">
+          clouds
         </span>
         <Link
           href="/add"
-          className="pixel-font sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-sm font-medium uppercase leading-none text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5 sm:text-base"
+          className="ui-label sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-[13px] font-medium leading-none text-cloud-ink transition-all hover:border-white hover:bg-white/86 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5"
         >
           + add idea
         </Link>
@@ -71,7 +68,7 @@ export default function Home() {
       <nav className="scrollbar-none mx-auto flex w-full max-w-6xl shrink-0 gap-2 overflow-x-auto px-4 pb-4 sm:px-5 md:px-8">
         <button
           onClick={() => handleCategory(ALL)}
-          className={`pixel-font min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-sm font-medium uppercase leading-none transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-base ${
+          className={`ui-label min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[13px] font-medium leading-none transition-all duration-200 sm:min-h-10 sm:px-4 ${
             activeCategory === ALL
               ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
               : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
@@ -83,7 +80,7 @@ export default function Home() {
           <button
             key={cat}
             onClick={() => handleCategory(cat)}
-            className={`pixel-font min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-sm font-medium uppercase leading-none transition-all duration-200 sm:min-h-10 sm:px-4 sm:text-base ${
+            className={`ui-label min-h-9 shrink-0 rounded-cloud-pill border px-3.5 text-[13px] font-medium leading-none transition-all duration-200 sm:min-h-10 sm:px-4 ${
               activeCategory === cat
                 ? 'border-cloud-paper bg-cloud-paper text-cloud-sky-deep shadow-[0_8px_26px_rgba(0,129,192,0.18)]'
                 : 'border-white/60 bg-white/34 text-cloud-sky-deep/78 backdrop-blur-md hover:border-white hover:bg-white/72 hover:text-cloud-sky-deep'
@@ -113,7 +110,7 @@ export default function Home() {
         </button>
         <button
           onClick={random}
-          className="pixel-font sky-pill sky-pill--bright min-h-11 min-w-28 px-5 text-base font-medium uppercase leading-none text-cloud-sky-deep transition-all hover:border-white hover:bg-white/84"
+          className="ui-label sky-pill sky-pill--bright min-h-11 min-w-28 px-5 text-[13px] font-medium leading-none text-cloud-ink transition-all hover:border-white hover:bg-white/86"
         >
           random
         </button>

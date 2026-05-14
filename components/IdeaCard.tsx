@@ -63,21 +63,21 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
   return (
     <article className="glass-card idea-card relative mx-auto flex min-w-0 flex-col gap-4 overflow-hidden p-4 sm:gap-5 sm:p-6 md:gap-7 md:p-10">
       <div className="relative z-10 flex items-center justify-between gap-4">
-        <span className={`pixel-font rounded-cloud-pill border px-3 py-1.5 text-[12px] font-medium uppercase leading-none sm:text-sm ${categoryColors[idea.category]}`}>
+        <span className={`ui-label rounded-cloud-pill border px-3 py-1.5 text-[13px] font-medium leading-none ${categoryColors[idea.category]}`}>
           {idea.category}
         </span>
-        <span className="pixel-font text-sm text-cloud-muted/70 tabular-nums">
+        <span className="ui-label text-[13px] text-cloud-muted/70 tabular-nums">
           {String(current).padStart(2, '0')} / {String(total).padStart(2, '0')}
         </span>
       </div>
 
       <div className="relative z-10 flex flex-col gap-4 md:gap-5">
-        <p className={`pixel-font max-w-2xl text-[2.15rem] font-medium leading-[0.9] text-cloud-ink break-words sm:text-5xl md:text-6xl ${isUsed ? 'line-through opacity-40' : ''}`}>
+        <p className={`display-font max-w-2xl text-[2.55rem] font-medium leading-[1.02] tracking-[-0.02em] text-cloud-ink break-words sm:text-5xl md:text-[3.4rem] ${isUsed ? 'line-through opacity-40' : ''}`}>
           {idea.hook}
         </p>
         {idea.raw && (
-          <div className="rounded-cloud-panel border border-cloud-line bg-white/66 p-3.5 shadow-[inset_0_0_0_1px_rgba(255,255,255,0.45)] sm:p-4">
-            <p className="pixel-font mb-2 text-xs uppercase leading-none text-cloud-accent-strong sm:text-sm">
+          <div className="rounded-cloud-panel border border-cloud-line bg-white/72 p-3.5 shadow-[inset_0_0_0_1px_rgba(255,255,255,0.58)] sm:p-4">
+            <p className="ui-label mb-2 text-[12px] font-medium leading-none text-cloud-accent-strong">
               raw
             </p>
             <p className="text-sm leading-relaxed text-cloud-charcoal [overflow-wrap:anywhere] sm:text-base">
@@ -87,14 +87,14 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         )}
         <ul className="grid min-w-0 gap-2.5 sm:gap-3">
           {idea.angles.map((angle, i) => (
-            <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/58 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:-translate-y-0.5 hover:border-[#c8e8f6] hover:bg-white/76 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">
-              <span className="pixel-font mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft text-[12px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb] sm:h-7 sm:w-7 sm:text-sm">
+            <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/58 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:border-[#c8e8f6] hover:bg-white/76 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">
+              <span className="ui-label mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft text-[11px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb] sm:h-7 sm:w-7">
                 {String(i + 1).padStart(2, '0')}
               </span>
               <span className="grid min-w-0 gap-2 overflow-hidden break-words [overflow-wrap:anywhere]">
                 {parseAngle(angle).map((segment) => (
                   <span key={`${i}-${segment.label}`} className="block">
-                    <span className="pixel-font mr-1.5 text-[12px] font-medium uppercase leading-none text-cloud-accent-strong sm:text-sm">
+                    <span className="ui-label mr-1.5 text-[12px] font-medium leading-none text-cloud-accent-strong">
                       {segment.label}
                     </span>
                     <span>{segment.text}</span>
@@ -109,22 +109,22 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
       {idea.close && (
         <div className="relative z-10 min-w-0 rounded-cloud-panel border border-cloud-line bg-cloud-paper-soft/70 p-3 sm:p-4">
           <p className="min-w-0 overflow-hidden text-xs italic leading-relaxed text-cloud-muted [overflow-wrap:anywhere] sm:text-sm">
-            <span className="pixel-font mr-2 text-sm not-italic uppercase leading-none text-cloud-accent-strong">close</span>
+            <span className="ui-label mr-2 text-[12px] not-italic leading-none text-cloud-accent-strong">close</span>
             {idea.close}
           </p>
         </div>
       )}
 
       <div className="relative z-10 flex items-center justify-between gap-3 border-t border-cloud-line pt-2">
-        <span className="pixel-font text-xs uppercase text-cloud-muted/60 sm:text-sm">
+        <span className="ui-label text-[12px] text-cloud-muted/60">
           idea in orbit
         </span>
         <button
           onClick={onMarkUsed}
-          className={`pixel-font min-h-10 shrink-0 rounded-cloud-pill border px-3.5 text-sm font-medium uppercase leading-none transition-all duration-200 sm:px-4 ${
+          className={`ui-label min-h-10 shrink-0 rounded-cloud-pill border px-3.5 text-[13px] font-medium leading-none transition-all duration-200 sm:px-4 ${
             isUsed
               ? 'border-cloud-line bg-cloud-paper-soft text-cloud-muted hover:bg-white'
-              : 'border-[#c8e8f6] bg-[#e8f5fb] text-cloud-accent-strong hover:-translate-y-0.5 hover:bg-white hover:shadow-[0_10px_28px_rgba(0,129,192,0.16)]'
+              : 'border-[#c8e8f6] bg-[#e8f5fb] text-cloud-accent-strong hover:bg-white hover:shadow-[0_10px_28px_rgba(0,129,192,0.14)]'
           }`}
         >
           {isUsed ? 'used' : 'mark used'}
