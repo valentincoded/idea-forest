@@ -1419,5 +1419,382 @@
     "close": "The feed moves on. Search keeps working.",
     "category": "system",
     "status": "unused"
+  },
+  {
+    "id": "050",
+    "mode": "structure",
+    "source": "The Professional Paradox describes professionals who desire stability but realize that the only true security comes from adaptability and portability.",
+    "hook": "Stability now means portability.",
+    "angles": [
+      "Diagnosis: The old promise was stay put and become secure. The new reality is become movable or become exposed.",
+      "Content angle: Show someone choosing portable skills over a fragile title.",
+      "Video use: Use a company badge, then cut to a personal system, network, and proof archive."
+    ],
+    "presentation": [
+      "Open with the desire for safety.",
+      "Show why the fixed path no longer protects the person.",
+      "End with the assets they can carry."
+    ],
+    "bigIdea": {
+      "truth": "Security no longer comes from being attached to one path. It comes from being hard to strand.",
+      "idea": "The professional paradox is wanting stability in a world that rewards portability.",
+      "bridge": "This turns career anxiety into a concrete asset-building frame.",
+      "names": [
+        "Professional Paradox",
+        "Portable Stability",
+        "Hard To Strand"
+      ]
+    },
+    "close": "The safest person is the one who can move.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "051",
+    "mode": "structure",
+    "source": "Job descriptions become outdated within months of hiring, and median job tenure for workers aged 25 to 34 has stabilized at just 2.7 years.",
+    "hook": "The job changes before you settle.",
+    "angles": [
+      "Diagnosis: People are not failing to adjust. The role itself keeps mutating under their feet.",
+      "Content angle: Show the job someone accepted, then the job it became six months later.",
+      "Video use: Use an original job description, then overlay the new hidden tasks added by reality."
+    ],
+    "presentation": [
+      "Open with the clean job listing.",
+      "Add the invisible responsibilities one by one.",
+      "Make the change feel specific, not dramatic."
+    ],
+    "bigIdea": {
+      "truth": "The modern role is less like a chair and more like a moving floor.",
+      "idea": "A job description now expires while the person is still learning it.",
+      "bridge": "This supports content about career adaptation without blaming the worker for instability.",
+      "names": [
+        "Expiring Job Description",
+        "Moving Floor Work",
+        "The Six-Month Role"
+      ]
+    },
+    "close": "You accepted one job and inherited another.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "052",
+    "mode": "structure",
+    "source": "Professionals fear AI will thin the ice, making roles more precarious and less predictable, while removing the grunt work that once built foundational expertise.",
+    "hook": "AI thins the ice.",
+    "angles": [
+      "Diagnosis: The fear is not only replacement. It is being pushed into higher-stakes work before the foundation has formed.",
+      "Content angle: Show the junior work disappearing, then show the person being judged on senior decisions.",
+      "Video use: Use a ladder with the lower rungs erased."
+    ],
+    "presentation": [
+      "Open with the task AI now handles.",
+      "Show what that task used to teach.",
+      "End with the missing rung problem."
+    ],
+    "bigIdea": {
+      "truth": "Removing low-level work also removes the place where people learn how to carry high-level judgment.",
+      "idea": "AI does not only replace tasks. It erases training ground.",
+      "bridge": "This creates sharper AI career content than simple replacement panic.",
+      "names": [
+        "Thin Ice Work",
+        "Missing Rungs",
+        "Erased Training Ground"
+      ]
+    },
+    "close": "The rung disappeared before the person learned to climb.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "053",
+    "mode": "structure",
+    "source": "A communication gap worsens AI anxiety. While 69% of C-suite leaders believe they have communicated clearly about AI, only 12% of entry-level and mid-career professionals agree.",
+    "hook": "Leadership thinks it explained AI.",
+    "angles": [
+      "Diagnosis: The gap itself creates fear. The people making the change think the people absorbing it understand the plan.",
+      "Content angle: Show the executive slide, then show the employee trying to decode what happens to their role.",
+      "Video use: Split screen the polished AI memo against a private Slack message asking what it means."
+    ],
+    "presentation": [
+      "Open with the confident leadership statement.",
+      "Cut to the worker's actual question.",
+      "Make the silence between them visible."
+    ],
+    "bigIdea": {
+      "truth": "Unclear change feels like threat, even when leadership calls it strategy.",
+      "idea": "The AI communication gap turns transformation into workplace fog.",
+      "bridge": "This supports content about trust, transparency, and the emotional cost of vague strategy.",
+      "names": [
+        "AI Communication Gap",
+        "Workplace Fog",
+        "The 69 To 12 Gap"
+      ]
+    },
+    "close": "The memo sounded clear only from the top.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "054",
+    "mode": "structure",
+    "source": "Boreout is the result of chronic understimulation and a lack of meaningful tasks. Professionals are still performing outside, but something inside that used to care has quietly disappeared.",
+    "hook": "Boreout is empty exhaustion.",
+    "angles": [
+      "Diagnosis: The person is tired without being used fully. That creates shame because the exhaustion looks unearned from the outside.",
+      "Content angle: Show a worker doing fine on paper while disappearing internally.",
+      "Video use: Use a full calendar with dead eyes, then cut to the unused skill sitting untouched."
+    ],
+    "presentation": [
+      "Open with the person meeting expectations.",
+      "Show the absence of challenge.",
+      "Name the exhaustion that comes from being underused."
+    ],
+    "bigIdea": {
+      "truth": "Being underused can drain a person as deeply as being overused.",
+      "idea": "Boreout is what happens when the work keeps the body busy and leaves the self untouched.",
+      "bridge": "This gives language to professionals who feel guilty because their pain does not look like overload.",
+      "names": [
+        "Boreout",
+        "Empty Exhaustion",
+        "The Underused Self"
+      ]
+    },
+    "close": "The work was easy. That was the problem.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "055",
+    "mode": "structure",
+    "source": "Professionals fear the creator economy is a mathematical impossibility, moving from stable exploitation to volatile exhaustion under an algorithm that is indifferent to survival.",
+    "hook": "The exit has a trapdoor.",
+    "angles": [
+      "Diagnosis: Leaving corporate life does not automatically create freedom. It can replace a manager with a colder machine.",
+      "Content angle: Show the fantasy of the corporate exit, then show the pressure of needing attention to eat.",
+      "Video use: Contrast quitting footage with an empty analytics dashboard at midnight."
+    ],
+    "presentation": [
+      "Open with the dream of leaving.",
+      "Show the new dependency on attention.",
+      "End with the question of who the creator now works for."
+    ],
+    "bigIdea": {
+      "truth": "The creator economy can sell freedom while quietly moving the boss into the algorithm.",
+      "idea": "Stable exploitation can become volatile exhaustion when attention becomes income.",
+      "bridge": "This supports more honest creator content that does not romanticize the exit.",
+      "names": [
+        "Creator Economy Trapdoor",
+        "Volatile Exhaustion",
+        "Algorithm Boss"
+      ]
+    },
+    "close": "You left the boss and met the dashboard.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "056",
+    "mode": "structure",
+    "source": "Career Capital is a portfolio of portable, compounding assets that transcend any single company or role: learning velocity, networks, reputation, character, and financial resources.",
+    "hook": "Career capital travels with you.",
+    "angles": [
+      "Diagnosis: A title can vanish when the company changes. Career capital remains because it lives in the person and the market around them.",
+      "Content angle: Show the five assets that still matter after a layoff.",
+      "Video use: Use a suitcase metaphor with skills, network, reputation, character, and cash as packed items."
+    ],
+    "presentation": [
+      "Open with the job title being removed.",
+      "Show what stays in the person's hands.",
+      "Make each asset visible through a concrete example."
+    ],
+    "bigIdea": {
+      "truth": "The company owns the role. The professional owns the assets that survive the role.",
+      "idea": "Career capital is the part of a career that remains portable.",
+      "bridge": "This turns career growth into asset building, not position chasing.",
+      "names": [
+        "Career Capital",
+        "Portable Assets",
+        "The Layoff Suitcase"
+      ]
+    },
+    "close": "The title left. The capital stayed.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "057",
+    "mode": "structure",
+    "source": "The Invisible Ladder consists of learning velocity, professional networks, reputation, character, and financial resources.",
+    "hook": "The real ladder is invisible.",
+    "angles": [
+      "Diagnosis: People chase visible promotion while ignoring the assets that actually create future options.",
+      "Content angle: Show two careers. One climbs titles. One builds portable power below the surface.",
+      "Video use: Use an iceberg visual where title sits above water and the five hidden assets sit below."
+    ],
+    "presentation": [
+      "Open with the visible promotion path.",
+      "Reveal the hidden ladder underneath.",
+      "Tie each rung to a real weekly behavior."
+    ],
+    "bigIdea": {
+      "truth": "The visible ladder can disappear. The invisible ladder keeps creating options.",
+      "idea": "The Invisible Ladder is the stack of assets that makes a professional harder to trap.",
+      "bridge": "This supports tactical career content without reducing growth to promotions.",
+      "names": [
+        "Invisible Ladder",
+        "Hidden Career Assets",
+        "Option Stack"
+      ]
+    },
+    "close": "The promotion was visible. The options were built underneath.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "058",
+    "mode": "structure",
+    "source": "The Soft Life movement represents peace over pressure. It rejects grind culture in favor of self-care, boundaries, leisure without guilt, and anti-exploitation.",
+    "hook": "Soft life is not laziness.",
+    "angles": [
+      "Diagnosis: People dismiss softness because they confuse exploitation with ambition.",
+      "Content angle: Show a person choosing boundaries without abandoning standards.",
+      "Video use: Use a slow morning, a closed laptop, and one high-quality piece of work finished without collapse."
+    ],
+    "presentation": [
+      "Open with the accusation of laziness.",
+      "Show the boundary protecting the work.",
+      "Make peace look disciplined, not decorative."
+    ],
+    "bigIdea": {
+      "truth": "Peace is not the opposite of ambition. It is the condition that stops ambition from becoming self-abandonment.",
+      "idea": "Soft life rejects exploitation, not effort.",
+      "bridge": "This supports content that keeps the softness sharp and avoids turning it into aesthetic fluff.",
+      "names": [
+        "Soft Life",
+        "Peace Over Pressure",
+        "Anti-Exploitation Ambition"
+      ]
+    },
+    "close": "The boundary protected the standard.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "059",
+    "mode": "structure",
+    "source": "Professionals want to romanticize the small stuff and feel rich in life despite economic volatility.",
+    "hook": "Rich in life beats rich-looking.",
+    "angles": [
+      "Diagnosis: The craving is not only luxury. It is wanting daily life to feel worth being inside.",
+      "Content angle: Show small moments that make life feel abundant without pretending money is irrelevant.",
+      "Video use: Use sunlight, meal prep, a walk, a clean room, and one paid bill as grounded richness."
+    ],
+    "presentation": [
+      "Open with a normal moment that feels expensive emotionally.",
+      "Avoid fake luxury.",
+      "Keep money reality in frame."
+    ],
+    "bigIdea": {
+      "truth": "People want proof that life can feel full before everything is financially perfect.",
+      "idea": "Rich in life means the day contains more than survival math.",
+      "bridge": "This creates soft-life content that feels grounded instead of delusional.",
+      "names": [
+        "Rich In Life",
+        "Grounded Luxury",
+        "The Full Day"
+      ]
+    },
+    "close": "The day felt full before it looked impressive.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "060",
+    "mode": "structure",
+    "source": "Reddit is where professionals admit to doommaxxing or feeling 404 coded, meaning checked out or mentally unavailable due to stress.",
+    "hook": "404 coded means checked out.",
+    "angles": [
+      "Diagnosis: The person is physically present at work, but the inner system has stopped loading.",
+      "Content angle: Use the error-code language to show a professional who still performs while mentally unavailable.",
+      "Video use: Overlay 404 coded on a normal desk scene where every action is delayed by one beat."
+    ],
+    "presentation": [
+      "Open with the phrase on screen.",
+      "Show ordinary work movements feeling slightly offline.",
+      "End with one honest line about the system being overloaded."
+    ],
+    "bigIdea": {
+      "truth": "Checking out can be the nervous system refusing to keep pretending it is online.",
+      "idea": "404 coded gives professional numbness internet-native language.",
+      "bridge": "This supports content that names disconnection without turning it into a personality defect.",
+      "names": [
+        "404 Coded",
+        "Offline At Work",
+        "The Loaded-Out Self"
+      ]
+    },
+    "close": "The person was there. The system was not.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "061",
+    "mode": "structure",
+    "source": "TikTok professionals participate in aura farming, deliberately curating their vibe or aesthetic to signal success or peace.",
+    "hook": "Aura farming performs peace.",
+    "angles": [
+      "Diagnosis: The peaceful image can become another job when the person has to keep proving they are above pressure.",
+      "Content angle: Show the difference between actual calm and the performance of looking calm.",
+      "Video use: Contrast the curated morning routine with the hidden pressure to make it look effortless."
+    ],
+    "presentation": [
+      "Open with the perfect soft-life shot.",
+      "Reveal the work required to look effortless.",
+      "End with a quieter version of peace that does not need proof."
+    ],
+    "bigIdea": {
+      "truth": "Peace becomes another performance when it has to be constantly witnessed.",
+      "idea": "Aura farming turns calm into a signal instead of a state.",
+      "bridge": "This creates more honest soft-life content by separating the aesthetic from the actual nervous system.",
+      "names": [
+        "Aura Farming",
+        "Performed Peace",
+        "Signal Versus State"
+      ]
+    },
+    "close": "The calm became work once it needed an audience.",
+    "category": "environment",
+    "status": "unused"
+  },
+  {
+    "id": "062",
+    "mode": "structure",
+    "source": "Self-improvement has evolved from a hobby into a survival strategy. The shared fear is technological and existential obsolescence, while the shared desire is sovereignty over time and mental bandwidth.",
+    "hook": "Self-improvement became survival.",
+    "angles": [
+      "Diagnosis: People are not optimizing for fun. They are trying to stay employable, sane, and self-owned.",
+      "Content angle: Show the same habit as lifestyle content and then as survival infrastructure.",
+      "Video use: Reframe journaling, walking, learning AI, and budgeting as tools for staying sovereign."
+    ],
+    "presentation": [
+      "Open with a habit that looks optional.",
+      "Show the pressure that made it necessary.",
+      "Name the survival function clearly."
+    ],
+    "bigIdea": {
+      "truth": "The modern professional improves because the ground keeps moving.",
+      "idea": "Self-improvement is now survival infrastructure.",
+      "bridge": "This gives the app a stronger frame for professional content than generic betterment.",
+      "names": [
+        "Survival Infrastructure",
+        "Sovereignty Stack",
+        "Professional Survival"
+      ]
+    },
+    "close": "The habit looked optional until the ground moved.",
+    "category": "system",
+    "status": "unused"
   }
 ]
