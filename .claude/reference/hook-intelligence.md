@@ -388,3 +388,161 @@ provoke questions rather than questions that can be deflected.
 **Pattern: Paradox Pivot**
 - Spoken: "You have to stop trying to get better before you can get better."
 - Text: "The effort is the evidence that the wrong thing is being worked on."
+
+---
+
+## Format selection intelligence (owenmeetsworld)
+
+Each content format has a different relationship with the viewer's attention.
+Matching the diagnosis to the right format determines whether the idea lands or
+disappears. Use this when assigning `formats` to a card.
+
+---
+
+### green-screen
+
+The creator talks over a visual background. Viewer reads the text while
+listening. Works at any attention level — the visual carries the idea even with
+sound off.
+
+**Best for:** Idea breakdowns, causal inversions, frameworks, anything that
+benefits from a second layer of information running simultaneously.
+
+**Hook implication:** The spoken hook is the primary entry. The visual
+reinforces it. Write the spoken hook to work completely standalone — the
+visual is support, not the load-bearing element.
+
+**This format suits diagnoses that:** require a small amount of context before
+the idea lands, benefit from a visual example or reference, or need the creator's
+voice to carry conviction.
+
+---
+
+### yap
+
+Straight-to-camera. No visual overlay. Just the person and what they're saying.
+
+**Best for:** Raw takes, personal observations, short confessions, single-sentence
+diagnoses that do not need explanation — they need presence.
+
+**Hook implication:** The spoken hook is everything. There is no safety net. The
+first 3 seconds of delivery determine whether anyone stays. Write the spoken
+hook as a statement that sounds like it came from lived experience, not from
+research.
+
+**This format suits diagnoses that:** are direct, personal, short, and
+self-contained. If the idea requires more than 90 seconds, yap is probably
+the wrong format.
+
+---
+
+### quick-hits
+
+Clips and text overlay. No face required. The idea is delivered through
+on-screen text over relevant footage or b-roll.
+
+**Best for:** Concept distillations, single-mechanism ideas, hook-led content
+where the viewer reads before they commit to watching.
+
+**Hook implication:** The text hook becomes the visual anchor. It must land in
+under 5 words of on-screen reading. Write the text hook for maximum compression —
+the viewer is reading at scroll speed.
+
+**This format suits diagnoses that:** can be stated in a short declarative line,
+do not require the creator's face to establish trust, and benefit from visual
+proof running alongside the claim.
+
+---
+
+### vlog
+
+Longer format with voiceover and scene cuts. Tells a real story. The viewer
+commits more time than any short format.
+
+**Best for:** Narrative arcs, comeback stories, process documentation, the
+before/after of a belief change.
+
+**Hook implication:** The spoken hook opens the story, not the idea. The hook
+creates narrative tension ("I was wrong about something I'd believed for 5
+years") rather than concept tension. The diagnosis arrives later — earned by the
+story.
+
+**This format suits diagnoses that:** have a personal story attached, unfold
+over time, or require the viewer to feel the problem before they can receive
+the reframe.
+
+---
+
+### carousel-dump
+
+Casual photos or screenshots stacked into a post. Low production. Feels like
+access rather than content.
+
+**Best for:** Documenting milestones, behind-the-scenes moments, real-life
+proof of an idea in action. Not a primary vehicle for complex diagnoses.
+
+**Hook implication:** The first slide is the hook. It should create a reason
+to swipe — not explain what follows. Curiosity gap or social proof ("what
+happened when I tried this") works better than a thesis statement.
+
+**This format suits diagnoses that:** have a visual proof component, benefit
+from "I did this and here's what happened" framing, or are better shown
+than argued.
+
+---
+
+### produced-carousel
+
+Designed slides. Template-based or custom. The visual quality signals that the
+content is worth reading.
+
+**Best for:** Distilled insights, comparisons, frameworks broken into steps,
+opinion pieces that benefit from a scannable structure.
+
+**Hook implication:** Slide 1 is the hook. It must work as a standalone image
+that stops the scroll. The text hook from the angle is the first-slide copy.
+Write it to work at a glance — 8 words on screen, high contrast, one clear
+claim.
+
+**This format suits diagnoses that:** can be broken into a short sequence of
+supporting points, benefit from a clean visual hierarchy, or pair well with
+a "here are the X things" structure without becoming generic.
+
+---
+
+### text-post
+
+Written post on LinkedIn or X. No visual. The words carry everything.
+
+**Best for:** Opinion-driven takes, diagnostic observations, threads that build
+an argument line by line.
+
+**Hook implication:** The first line is the hook. On LinkedIn, it is the line
+before "see more." On X, it is the first tweet. It must earn the click or the
+scroll in under 10 words. Write it as the sharpest possible statement of the
+diagnosis — then let the post unpack it.
+
+**This format suits diagnoses that:** are intellectually surprising, challenge
+a widely held belief, or work as a single declarative statement that the post
+then proves. Strong for the causal inversion and false elimination patterns.
+
+---
+
+## Format-to-pattern matching
+
+Use this as a quick reference when deciding which angle to lead with for each
+format.
+
+| Format | Strongest hook patterns |
+|--------|------------------------|
+| green-screen | Causal Inversion, Pacing Triple + Lead, Specificity Anchor |
+| yap | Identity Threat, Paradox Pivot, Violated Expectation |
+| quick-hits | Disruptive Reframe, False Elimination, Anti-Vision Frame |
+| vlog | Pacing Triple + Lead, Confirmation + Extension, Specificity Anchor |
+| carousel-dump | Anti-Vision Frame, Pacing Triple + Lead |
+| produced-carousel | False Elimination, Causal Inversion, Confirmation + Extension |
+| text-post | Disruptive Reframe, Identity Threat, Causal Inversion |
+
+The same card can be produced in multiple formats. When it is, write a separate
+angle for each format where the hook approach differs. Do not force one angle
+to serve formats with incompatible hook mechanics.

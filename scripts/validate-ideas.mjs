@@ -50,12 +50,6 @@ const vagueTerms = [
   "it's possible that",
 ]
 
-const wordCount = (value) =>
-  value
-    .replace(/[.?!]/g, '')
-    .split(/\s+/)
-    .filter(Boolean).length
-
 const parseUnion = (source, name) => {
   const match = source.match(new RegExp(`export type ${name} = ([^\\n]+)`))
   if (!match) return []
@@ -69,11 +63,18 @@ const parseUnion = (source, name) => {
 const hasTerm = (text, term) =>
   new RegExp(`(^|[^a-z])${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([^a-z]|$)`).test(text)
 
+const wordCount = (value) =>
+  value
+    .replace(/[.?!]/g, '')
+    .split(/\s+/)
+    .filter(Boolean).length
+
 const errors = []
 const typeSource = fs.readFileSync(typePath, 'utf8')
 const validCategories = new Set(parseUnion(typeSource, 'Category'))
 const validStatuses = new Set(parseUnion(typeSource, 'Status'))
 const validModes = new Set(parseUnion(typeSource, 'IdeaMode'))
+const validFormats = new Set(parseUnion(typeSource, 'Format'))
 const ideas = JSON.parse(fs.readFileSync(ideasPath, 'utf8'))
 
 if (!Array.isArray(ideas)) {
@@ -100,49 +101,21 @@ ideas.forEach((idea, index) => {
     errors.push(`${label}: mode must be "raw" or "structure".`)
   }
 
-  if (typeof idea.hook !== 'string' || !idea.hook.trim()) {
-    errors.push(`${label}: hook is required.`)
-  } else if (wordCount(idea.hook) > 12) {
-    errors.push(`${label}: hook must be 12 words or fewer.`)
+  if (typeof idea.title !== 'string' || !idea.title.trim()) {
+    errors.push(`${label}: title is required.`)
   }
 
-  if (idea.mode === 'raw' && (typeof idea.raw !== 'string' || !idea.raw.trim())) {
-    errors.push(`${label}: raw mode requires raw.`)
-  }
-
-  if (idea.mode === 'structure' && (typeof idea.source !== 'string' || !idea.source.trim())) {
-    errors.push(`${label}: structure mode requires source.`)
-  }
-
-  if ('raw' in idea && (typeof idea.raw !== 'string' || !idea.raw.trim())) {
-    errors.push(`${label}: raw must be a non-empty string when present.`)
-  } else if (idea.mode === 'raw' && idea.angles?.[0] !== `Raw idea: ${idea.raw}`) {
-    errors.push(`${label}: angle 1 must preserve raw exactly as "Raw idea: ${idea.raw}".`)
-  }
-
-  if ('source' in idea && (typeof idea.source !== 'string' || !idea.source.trim())) {
-    errors.push(`${label}: source must be a non-empty string when present.`)
-  }
-
-  if (!Array.isArray(idea.angles) || idea.angles.length !== 3) {
-    errors.push(`${label}: exactly 3 angles are required.`)
-  }
-
-  idea.angles?.forEach((angle, angleIndex) => {
-    if (typeof angle !== 'string' || !angle.trim()) {
-      errors.push(`${label}: angle ${angleIndex + 1} is empty.`)
+  if (idea.mode === 'raw') {
+    if (typeof idea.raw !== 'string' || !idea.raw.trim()) {
+      errors.push(`${label}: raw mode requires raw.`)
     }
-  })
-
-  if (!Array.isArray(idea.presentation) || idea.presentation.length === 0) {
-    errors.push(`${label}: presentation must contain at least 1 item.`)
   }
 
-  idea.presentation?.forEach((item, presentationIndex) => {
-    if (typeof item !== 'string' || !item.trim()) {
-      errors.push(`${label}: presentation ${presentationIndex + 1} is empty.`)
+  if (idea.mode === 'structure') {
+    if (typeof idea.overview !== 'string' || !idea.overview.trim()) {
+      errors.push(`${label}: structure mode requires overview.`)
     }
-  })
+  }
 
   if (!idea.bigIdea || typeof idea.bigIdea !== 'object') {
     errors.push(`${label}: bigIdea is required.`)
@@ -158,10 +131,37 @@ ideas.forEach((idea, index) => {
     }
   }
 
-  if (typeof idea.close !== 'string' || !idea.close.trim()) {
-    errors.push(`${label}: close is required.`)
-  } else if (wordCount(idea.close) > 20) {
-    errors.push(`${label}: close must be 20 words or fewer.`)
+  if (!Array.isArray(idea.angles) || idea.angles.length === 0) {
+    errors.push(`${label}: at least one angle is required.`)
+  } else {
+    idea.angles.forEach((angle, angleIndex) => {
+      if (typeof angle !== 'object' || angle === null) {
+        errors.push(`${label}: angle ${angleIndex + 1} must be an object.`)
+        return
+      }
+
+      if (typeof angle.spoken !== 'string' || !angle.spoken.trim()) {
+        errors.push(`${label}: angle ${angleIndex + 1} requires spoken.`)
+      } else if (wordCount(angle.spoken) > 15) {
+        errors.push(`${label}: angle ${angleIndex + 1} spoken must be 15 words or fewer.`)
+      }
+
+      if (typeof angle.text !== 'string' || !angle.text.trim()) {
+        errors.push(`${label}: angle ${angleIndex + 1} requires text.`)
+      } else if (wordCount(angle.text) > 25) {
+        errors.push(`${label}: angle ${angleIndex + 1} text must be 25 words or fewer.`)
+      }
+    })
+  }
+
+  if (!Array.isArray(idea.formats) || idea.formats.length === 0) {
+    errors.push(`${label}: at least one format is required.`)
+  } else {
+    idea.formats.forEach((format) => {
+      if (!validFormats.has(format)) {
+        errors.push(`${label}: invalid format "${format}".`)
+      }
+    })
   }
 
   if (!validCategories.has(idea.category)) {
@@ -172,16 +172,14 @@ ideas.forEach((idea, index) => {
     errors.push(`${label}: invalid status "${idea.status}".`)
   }
 
-  const generatedAngles = idea.mode === 'raw' ? idea.angles?.slice(1) : idea.angles
   const generatedText = [
-    idea.hook,
-    ...(generatedAngles ?? []),
-    idea.close,
-    ...(idea.presentation ?? []),
+    idea.title,
+    idea.overview,
     idea.bigIdea?.truth,
     idea.bigIdea?.idea,
     idea.bigIdea?.bridge,
     ...(idea.bigIdea?.names ?? []),
+    ...(idea.angles ?? []).flatMap((a) => [a?.spoken, a?.text]),
   ]
     .filter(Boolean)
     .join(' ')
