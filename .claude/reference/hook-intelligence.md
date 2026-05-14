@@ -6,6 +6,46 @@ and a text hook. Read this before writing either.
 
 ---
 
+## The single most important rule
+
+**A hook is a question the idea answers. Not the idea itself.**
+
+If someone reads the spoken hook and already knows the answer — rewrite it.
+That is a thesis statement wearing a hook's clothes. It closes the loop instead
+of opening it. It gives the content away before the content starts.
+
+### Closed loop vs open loop — before/after pairs
+
+The left column is what bad hook generation produces. The right column is what
+the hook should be.
+
+| Closed (wrong) | Open (right) |
+|---|---|
+| "You don't build discipline. Obsession builds it for you." | "The reason your discipline keeps failing isn't what you think." |
+| "Transformation is subtractive, not additive." | "Every habit you've ever built on top of a broken identity collapsed for the same reason." |
+| "Vision boards don't move people. The anti-vision does." | "There's a reason your vision board has never moved you. It's not because you lack ambition." |
+| "Lock-in is a comeback protocol, not maintenance." | "The most locked-in people I've seen didn't push harder after they fell." |
+| "Niche down is industrial-age programming." | "The advice holding your personal brand back came from an era before you could be your own distribution channel." |
+| "The identity layer is the prerequisite for any habit change." | "The system isn't the problem. Something underneath the system keeps breaking it." |
+| "Obsession creates discipline. Discipline cannot create obsession." | "You've been trying to build the output before the input exists." |
+
+**Pattern in every good hook above:** it names the problem or contradiction
+without naming the answer. The reader feels a gap. They need to keep going.
+
+**Pattern in every bad hook above:** it delivers the insight in one line. The
+card has nothing left to say that the hook hasn't already said. The reader
+has no reason to continue.
+
+### The fastest diagnostic
+
+After writing a spoken hook, ask: "Can a reasonably intelligent person guess
+what the card is about to say?"
+
+If yes — the hook is closed. Rewrite.
+If no — the hook is open. Proceed.
+
+---
+
 ## What a hook pair is
 
 Each angle produces two hooks that are designed to work together:

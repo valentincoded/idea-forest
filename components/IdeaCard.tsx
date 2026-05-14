@@ -93,8 +93,8 @@ export default function IdeaCard({ idea, total, current }: IdeaCardProps) {
         <ul className="grid min-w-0 gap-3.5 sm:gap-4">
           {idea.angles.map((angle, i) => (
             <li key={i} className="group flex min-w-0 gap-3.5 rounded-cloud-panel border border-cloud-line bg-white/62 p-4 text-sm leading-relaxed text-cloud-charcoal transition-all hover:border-[#c8e8f6] hover:bg-white/78 sm:gap-5 sm:p-5 md:text-[15px]">
-              <span className="ui-label mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft text-[13px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb] sm:h-9 sm:w-9">
-                {String(i + 1).padStart(2, '0')}
+              <span className="ui-label mt-0.5 flex shrink-0 items-center justify-center rounded-full bg-cloud-paper-soft px-3 py-1.5 text-[12px] text-cloud-accent-strong shadow-[inset_0_0_0_1px_rgba(0,129,192,0.12)] transition-colors group-hover:bg-[#e8f5fb]">
+                angle {String(i + 1).padStart(2, '0')}
               </span>
               <span className="grid min-w-0 flex-1 gap-3 overflow-hidden break-words [overflow-wrap:anywhere]">
                 <span className="grid gap-1.5 sm:grid-cols-[9.5rem_1fr] sm:items-baseline sm:gap-4">
