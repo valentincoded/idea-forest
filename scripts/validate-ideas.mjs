@@ -172,9 +172,10 @@ ideas.forEach((idea, index) => {
     errors.push(`${label}: invalid status "${idea.status}".`)
   }
 
+  const generatedAngles = idea.mode === 'raw' ? idea.angles?.slice(1) : idea.angles
   const generatedText = [
     idea.hook,
-    ...(idea.angles ?? []),
+    ...(generatedAngles ?? []),
     idea.close,
     ...(idea.presentation ?? []),
     idea.bigIdea?.truth,

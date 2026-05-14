@@ -1796,5 +1796,324 @@
     "close": "The habit looked optional until the ground moved.",
     "category": "system",
     "status": "unused"
+  },
+  {
+    "id": "063",
+    "mode": "raw",
+    "raw": "get addicted to thinking positively. believe that things can suddenly change for you. do not worry about how an d when. just deeply believe in the possibility of a new outcome. it can all be so different than what you are currently experiencing. nothing ever is final. allow that to bring you peace and give you hope.",
+    "hook": "Nothing ever is final.",
+    "angles": [
+      "Raw idea: get addicted to thinking positively. believe that things can suddenly change for you. do not worry about how an d when. just deeply believe in the possibility of a new outcome. it can all be so different than what you are currently experiencing. nothing ever is final. allow that to bring you peace and give you hope.",
+      "Video idea: Start on the current situation, then let the frame slowly brighten without explaining the change.",
+      "Presentation idea: Keep the raw text as the main card and let the final sentence land alone."
+    ],
+    "presentation": [
+      "Use slow sky movement behind the text.",
+      "Split the long paragraph into breath-sized lines on video.",
+      "Let the last line hold for longer than the rest."
+    ],
+    "bigIdea": {
+      "truth": "Hope gets stronger when the current situation stops being treated as final.",
+      "idea": "The possibility of a new outcome can calm the body before the evidence arrives.",
+      "bridge": "Use this as a soft reset card for moments where someone needs room to believe again.",
+      "names": [
+        "Nothing Final",
+        "New Outcome",
+        "Sudden Change"
+      ]
+    },
+    "close": "Nothing final means there is still room.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "064",
+    "mode": "raw",
+    "raw": "focus on your state. not the result. your emotions attract faster than your plans. stay calm. stay certain. stay open.",
+    "hook": "Focus on your state.",
+    "angles": [
+      "Raw idea: focus on your state. not the result. your emotions attract faster than your plans. stay calm. stay certain. stay open.",
+      "Video idea: Show someone stopping mid-scroll, breathing, and returning to the room before taking action.",
+      "Presentation idea: Make the short commands feel like steps down a staircase."
+    ],
+    "presentation": [
+      "Use one line at a time.",
+      "Let calm, certain, and open appear as three separate beats.",
+      "Keep the card spacious."
+    ],
+    "bigIdea": {
+      "truth": "The state comes before the strategy.",
+      "idea": "Calm changes the way a person meets the result.",
+      "bridge": "Use this when the content needs to move someone out of outcome panic.",
+      "names": [
+        "State First",
+        "Calm Certain Open",
+        "Before The Result"
+      ]
+    },
+    "close": "The result is not the first place to look.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "065",
+    "mode": "raw",
+    "raw": "reality isn't created. it's selected. you shift into the version that matches your belief and frequency.",
+    "hook": "Reality is selected.",
+    "angles": [
+      "Raw idea: reality isn't created. it's selected. you shift into the version that matches your belief and frequency.",
+      "Video idea: Show two versions of the same room, then let attention choose which one becomes visible.",
+      "Presentation idea: Keep it minimal and let selected carry the weight."
+    ],
+    "presentation": [
+      "Use two light states on the same background.",
+      "Make selected the visual anchor.",
+      "Avoid overexplaining the metaphysics."
+    ],
+    "bigIdea": {
+      "truth": "People move toward the reality their belief keeps rehearsing.",
+      "idea": "Selection is a cleaner frame than force.",
+      "bridge": "Use this as a belief card with a simple visual contrast.",
+      "names": [
+        "Reality Selected",
+        "The Chosen Version",
+        "Belief Match"
+      ]
+    },
+    "close": "The version you feed gets louder.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "066",
+    "mode": "raw",
+    "raw": "when a bad thought arrives, remember you are the observer.",
+    "hook": "You are the observer.",
+    "angles": [
+      "Raw idea: when a bad thought arrives, remember you are the observer.",
+      "Video idea: Show the thought passing like weather while the person stays still.",
+      "Presentation idea: Make the sentence tiny, quiet, and centered."
+    ],
+    "presentation": [
+      "Use a single-card format.",
+      "Let the background move while the text stays still.",
+      "Hold silence after the line."
+    ],
+    "bigIdea": {
+      "truth": "A thought loses power when it stops being mistaken for the whole self.",
+      "idea": "Observation creates distance without needing a fight.",
+      "bridge": "Use this for short calming videos where the point is separation, not analysis.",
+      "names": [
+        "The Observer",
+        "Thought Weather",
+        "Distance From Thought"
+      ]
+    },
+    "close": "The thought arrived. It did not become you.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "067",
+    "mode": "raw",
+    "raw": "today is a good day to be proud of all the silent battles you've won.",
+    "hook": "Be proud today.",
+    "angles": [
+      "Raw idea: today is a good day to be proud of all the silent battles you've won.",
+      "Video idea: Show ordinary actions that carry invisible effort.",
+      "Presentation idea: Let silent battles sit as the emotional center."
+    ],
+    "presentation": [
+      "Use small daily footage.",
+      "Avoid heroic visuals.",
+      "Make the card feel like recognition, not motivation."
+    ],
+    "bigIdea": {
+      "truth": "Some wins are real even when nobody saw the fight.",
+      "idea": "Private endurance deserves public tenderness.",
+      "bridge": "Use this as a recognition card for invisible effort.",
+      "names": [
+        "Silent Battles",
+        "Private Wins",
+        "Unseen Victory"
+      ]
+    },
+    "close": "The quiet win still counts.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "068",
+    "mode": "raw",
+    "raw": "some periods of our growth are so confusing that we don't even recognize that growth is happening. we may feel hostile or angry or weepy and hysterical or we may feel depressed. it would never occur to us that we were in fact in the process of change.",
+    "hook": "Growth can feel confusing.",
+    "angles": [
+      "Raw idea: some periods of our growth are so confusing that we don't even recognize that growth is happening. we may feel hostile or angry or weepy and hysterical or we may feel depressed. it would never occur to us that we were in fact in the process of change.",
+      "Video idea: Show emotional weather changing without making any one state the villain.",
+      "Presentation idea: Break the paragraph into three movements: confusion, feeling, change."
+    ],
+    "presentation": [
+      "Use a slower reading pace.",
+      "Let the difficult emotions stay in the text.",
+      "End on process of change with visual softness."
+    ],
+    "bigIdea": {
+      "truth": "Change does not always feel like progress while it is happening.",
+      "idea": "Confusing growth is still growth.",
+      "bridge": "Use this when a card needs to validate the messy middle of becoming.",
+      "names": [
+        "Confusing Growth",
+        "Process Of Change",
+        "Messy Becoming"
+      ]
+    },
+    "close": "You can be changing before you understand it.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "069",
+    "mode": "raw",
+    "raw": "you're safe. it's just your thoughts trying to scare you again. you'll be fine.",
+    "hook": "You are safe.",
+    "angles": [
+      "Raw idea: you're safe. it's just your thoughts trying to scare you again. you'll be fine.",
+      "Video idea: Show a nervous moment resolving into one steady breath.",
+      "Presentation idea: Keep it direct and almost parental."
+    ],
+    "presentation": [
+      "Use very little motion.",
+      "Put you're safe on its own line.",
+      "Let you'll be fine feel like the exhale."
+    ],
+    "bigIdea": {
+      "truth": "Fear can sound like truth when the body is activated.",
+      "idea": "Safety starts by naming the scare as thought.",
+      "bridge": "Use this as a nervous-system card for anxious spirals.",
+      "names": [
+        "You're Safe",
+        "Thoughts Scaring You",
+        "The Exhale Card"
+      ]
+    },
+    "close": "The scare was loud. It was still a thought.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "070",
+    "mode": "raw",
+    "raw": "there is nothing more powerful than presence. its why a child can truly have fun. it s why an animal can truly rest. its why we crave an escape from reality, but the true escape is sittin long enough with it. the true freedom is right there.",
+    "hook": "Presence is the escape.",
+    "angles": [
+      "Raw idea: there is nothing more powerful than presence. its why a child can truly have fun. it s why an animal can truly rest. its why we crave an escape from reality, but the true escape is sittin long enough with it. the true freedom is right there.",
+      "Video idea: Show someone trying to leave the moment, then slowly returning to it.",
+      "Presentation idea: Let true escape and true freedom mirror each other visually."
+    ],
+    "presentation": [
+      "Use long, soft shots.",
+      "Keep the original typos and rhythm.",
+      "Let the final sentence land without commentary."
+    ],
+    "bigIdea": {
+      "truth": "The escape people crave can be the moment they keep trying to avoid.",
+      "idea": "Presence turns reality from a thing to flee into a place to rest.",
+      "bridge": "Use this as a deeper presence card with calm visual pacing.",
+      "names": [
+        "Presence Is Escape",
+        "True Freedom",
+        "Sitting With Reality"
+      ]
+    },
+    "close": "The freedom was inside the moment.",
+    "category": "time",
+    "status": "unused"
+  },
+  {
+    "id": "071",
+    "mode": "raw",
+    "raw": "let whoever think whatever. life is so peak when you just don't care.",
+    "hook": "Let them think whatever.",
+    "angles": [
+      "Raw idea: let whoever think whatever. life is so peak when you just don't care.",
+      "Video idea: Show the person leaving the imagined audience behind.",
+      "Presentation idea: Make the card quick, light, and slightly blunt."
+    ],
+    "presentation": [
+      "Use a fast cut from tension to freedom.",
+      "Let whoever think whatever should appear first.",
+      "Make so peak feel casual, not polished."
+    ],
+    "bigIdea": {
+      "truth": "Freedom starts when the imagined audience stops getting a vote.",
+      "idea": "Not caring can be a clean act of self-return.",
+      "bridge": "Use this as a punchy identity card for social pressure.",
+      "names": [
+        "Let Them Think",
+        "No Vote",
+        "Peak Freedom"
+      ]
+    },
+    "close": "The room got lighter when they lost the vote.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "072",
+    "mode": "raw",
+    "raw": "be yourself, so that the people looking for you, can find you.",
+    "hook": "Be yourself to be found.",
+    "angles": [
+      "Raw idea: be yourself, so that the people looking for you, can find you.",
+      "Video idea: Show someone removing small acts of disguise until the right people appear.",
+      "Presentation idea: Keep it clean and centered like a note to self."
+    ],
+    "presentation": [
+      "Use a gentle reveal.",
+      "Let people looking for you be the emotional phrase.",
+      "Keep the comma rhythm exactly as sent."
+    ],
+    "bigIdea": {
+      "truth": "Hiding protects you from rejection and also blocks recognition.",
+      "idea": "Being findable requires being visible as yourself.",
+      "bridge": "Use this as an identity card about belonging without performance.",
+      "names": [
+        "Be Findable",
+        "People Looking For You",
+        "Visible As Yourself"
+      ]
+    },
+    "close": "The right people need the real signal.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "073",
+    "mode": "raw",
+    "raw": "with a pure heart - you'll always win.",
+    "hook": "Pure heart wins.",
+    "angles": [
+      "Raw idea: with a pure heart - you'll always win.",
+      "Video idea: Show a quiet choice that costs ego but protects the heart.",
+      "Presentation idea: Make the line feel like a blessing, not a slogan."
+    ],
+    "presentation": [
+      "Use a simple card with lots of air.",
+      "Let pure heart hold visually.",
+      "Avoid competitive imagery."
+    ],
+    "bigIdea": {
+      "truth": "Winning can mean staying clean inside what tries to harden you.",
+      "idea": "A pure heart is a form of victory before the outcome arrives.",
+      "bridge": "Use this as a closing card for faith, integrity, or self-trust.",
+      "names": [
+        "Pure Heart",
+        "Clean Victory",
+        "Win Inside First"
+      ]
+    },
+    "close": "The first win is staying clean inside.",
+    "category": "identity",
+    "status": "unused"
   }
 ]
