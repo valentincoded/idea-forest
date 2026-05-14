@@ -10,11 +10,12 @@ Apply every rule below before writing a single word.
 ```json
 {
   "id": "NNN",
+  "raw": "The user's original idea, preserved verbatim.",
   "hook": "The opening line. ≤12 words.",
   "angles": [
-    "Angle 01: contrarian snapback — context lean + scroll stop + snap to opposite. State question planted.",
-    "Angle 02: pain or benefit lead — open with what they want or fear, then reveal.",
-    "Angle 03: staccato take, story, or observation — concrete, short sentences, visual direction."
+    "Angle 01: Raw idea — preserve the user's exact wording.",
+    "Angle 02: Keep — what must remain untouched if this becomes a post, video, or draft.",
+    "Angle 03: Add on — optional light context, visual direction, or expansion that does not overwrite the raw idea."
   ],
   "close": "1-sentence payoff that resolves the curiosity loop opened by the hook. Only earned at the end of the video.",
   "category": "time | identity | system | money | fear | design | creativity | environment",
@@ -25,6 +26,19 @@ Apply every rule below before writing a single word.
 ---
 
 ## Energy and tone
+
+The user's raw idea comes first. Do not improve it by default. Do not translate
+it into polished self-help language. Do not replace strange phrasing, typos,
+casual slang, spiritual phrasing, or emotional directness unless the user asks.
+Those details are often the whole point.
+
+The job is preservation plus optional scaffolding:
+- `raw` stores the original idea verbatim.
+- `hook` is a short handle for browsing. It can be an exact excerpt.
+- `angles[0]` starts with `Raw idea:` and repeats the original wording.
+- `angles[1]` starts with `Keep:` and names what energy must not be lost.
+- `angles[2]` starts with `Add on:` and suggests only light context or visuals.
+- `close` should prefer an exact line from the raw idea when possible.
 
 This content library is for a life design creator. The energy is expansive, permission-giving, and curious. Not trapped.
 
@@ -52,7 +66,29 @@ This content library is for a life design creator. The energy is expansive, perm
 
 ---
 
-## Curiosity loop (Zeigarnik Effect)
+## Default raw-input mode
+
+Use this mode whenever the user gives notes, quotes, fragments, affirmations, or
+ideas to add.
+
+1. Split the input on separators such as `__`.
+2. Preserve each idea exactly in `raw`.
+3. Use a short hook that is either an exact excerpt or the lightest possible
+   browsing handle.
+4. Set `angles[0]` to `Raw idea: ${raw}` exactly.
+5. Use `angles[1]` as a `Keep:` note that protects the phrasing, rhythm, slang,
+   typos, or emotional signal.
+6. Use `angles[2]` as an `Add on:` note only when helpful for visuals, context,
+   or future expansion.
+7. Prefer an exact line from the raw idea as `close`.
+
+Do not use the hook psychology framework for raw-input mode unless the user
+explicitly asks to turn the idea into video angles, scripts, or hooks.
+
+## Expansion mode: curiosity loop (Zeigarnik Effect)
+
+Use the sections below only when expanding a preserved raw idea into video
+concepts, scripts, or hooks.
 
 Every card opens a loop in the hook that only closes at the end of the video.
 
@@ -141,9 +177,9 @@ Always ask: what does the viewer want, or what are they afraid of? Start there.
 
 ---
 
-## Angle rules
+## Expansion mode angle rules
 
-Each card has 3 angles. An angle is a 2-3 sentence direction for HOW to record the video. Each should produce a meaningfully different video.
+Each expanded card has 3 angles. An angle is a 2-3 sentence direction for HOW to record the video. Each should produce a meaningfully different video.
 
 **Angle 01: Contrarian snapback**
 Use the three-step formula. Context lean + scroll stop + snap to opposite direction. Always state the question planted at the end.
@@ -243,9 +279,12 @@ Before finalizing any card, scan against these patterns:
 - [ ] Hook passes the single subject test (no ambiguity about what the video is about)
 - [ ] Hook passes the single question test (one clear, shock-inducing question is planted)
 - [ ] Hook uses staccato structure (short sentences, high density)
-- [ ] Angle 01 uses the three-step formula and states the question planted
-- [ ] Angle 02 leads with pain or benefit, not feature
-- [ ] Angle 03 gives a concrete staccato, story, or observation direction
+- [ ] Raw-input mode: `raw` preserves the user's exact wording
+- [ ] Raw-input mode: angle 1 is exactly `Raw idea: ${raw}`
+- [ ] Raw-input mode: Keep and Add on notes protect the original, not replace it
+- [ ] Expansion mode: Angle 01 uses the three-step formula and states the question planted
+- [ ] Expansion mode: Angle 02 leads with pain or benefit, not feature
+- [ ] Expansion mode: Angle 03 gives a concrete staccato, story, or observation direction
 - [ ] Angles include a visual direction hint where relevant
 - [ ] Angles do NOT repeat the same approach with different words
 - [ ] Each angle would produce a meaningfully different video

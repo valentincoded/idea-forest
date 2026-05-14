@@ -3,6 +3,7 @@ export type Status = 'unused' | 'recorded' | 'published'
 
 export interface Idea {
   id: string
+  raw?: string
   hook: string
   angles: string[]
   close?: string

@@ -12,10 +12,17 @@ idea cards to `data/ideas.json` using the existing card logic.
 When the user gives raw ideas, quotes, notes, fragments, or inspiration, treat
 the request as: "Add new idea cards to `data/ideas.json`."
 
+The raw idea is sacred. Preserve the user's wording, punctuation, casing, typos,
+rhythm, and emotional temperature in the card's `raw` field. The card may add
+light structure around the idea, but it must never rewrite the idea into generic
+motivational language or replace the user's original phrasing with a polished
+summary.
+
 Always:
 
 1. Read `.claude/reference/idea-extraction-guide.md` before writing cards.
-2. Convert each raw idea into one complete idea card.
+2. Convert each raw idea into one complete idea card while preserving the
+   original text in `raw`.
 3. Append new cards to `data/ideas.json` with the next three-digit ID.
 4. Use the existing schema from `types/idea.ts`.
 5. Use only existing categories.

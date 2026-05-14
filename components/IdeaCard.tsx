@@ -21,6 +21,9 @@ interface IdeaCardProps {
 }
 
 const segmentLabels = [
+  'Raw idea',
+  'Keep',
+  'Add on',
   'Contrarian snapback',
   'Benefit lead',
   'Pain lead',
@@ -72,6 +75,16 @@ export default function IdeaCard({ idea, onMarkUsed, total, current }: IdeaCardP
         <p className={`pixel-font max-w-2xl text-[2.15rem] font-medium leading-[0.9] text-cloud-ink break-words sm:text-5xl md:text-6xl ${isUsed ? 'line-through opacity-40' : ''}`}>
           {idea.hook}
         </p>
+        {idea.raw && (
+          <div className="rounded-cloud-panel border border-cloud-line bg-white/66 p-3.5 shadow-[inset_0_0_0_1px_rgba(255,255,255,0.45)] sm:p-4">
+            <p className="pixel-font mb-2 text-xs uppercase leading-none text-cloud-accent-strong sm:text-sm">
+              raw
+            </p>
+            <p className="text-sm leading-relaxed text-cloud-charcoal [overflow-wrap:anywhere] sm:text-base">
+              {idea.raw}
+            </p>
+          </div>
+        )}
         <ul className="grid min-w-0 gap-2.5 sm:gap-3">
           {idea.angles.map((angle, i) => (
             <li key={i} className="group flex min-w-0 gap-3 rounded-cloud-panel border border-cloud-line bg-white/58 p-3 text-xs leading-relaxed text-cloud-charcoal/78 transition-all hover:-translate-y-0.5 hover:border-[#c8e8f6] hover:bg-white/76 sm:gap-4 sm:p-4 sm:text-sm md:text-[15px]">

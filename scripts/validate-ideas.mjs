@@ -85,6 +85,12 @@ ideas.forEach((idea, index) => {
     errors.push(`${label}: hook must be 12 words or fewer.`)
   }
 
+  if ('raw' in idea && (typeof idea.raw !== 'string' || !idea.raw.trim())) {
+    errors.push(`${label}: raw must be a non-empty string when present.`)
+  } else if ('raw' in idea && idea.angles?.[0] !== `Raw idea: ${idea.raw}`) {
+    errors.push(`${label}: angle 1 must preserve raw exactly as "Raw idea: ${idea.raw}".`)
+  }
+
   if (!Array.isArray(idea.angles) || idea.angles.length !== 3) {
     errors.push(`${label}: exactly 3 angles are required.`)
   }
