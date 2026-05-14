@@ -1071,5 +1071,353 @@
     "close": "The view only matters if something survives it.",
     "category": "system",
     "status": "unused"
+  },
+  {
+    "id": "038",
+    "mode": "structure",
+    "source": "Virality is often decided within the first 400 milliseconds of a video. Creators use visual disruption, such as an unexpected visual environment, to bypass the brain's efficiency filters before delivering a conceptual reframe.",
+    "hook": "The first frame does the ambush.",
+    "angles": [
+      "Diagnosis: The viewer decides before the idea arrives. The frame has to break the scroll trance first.",
+      "Content angle: Start with a visual that does not belong in the expected room.",
+      "Video use: Place a strange overlay, object, or setting in frame before the first sentence."
+    ],
+    "presentation": [
+      "Open with visual tension before explanation.",
+      "Make the first frame feel wrong in a clean way.",
+      "Let the concept arrive after the eye has already stopped."
+    ],
+    "bigIdea": {
+      "truth": "The idea does not get heard until the frame earns the right to exist in the feed.",
+      "idea": "The zero-second hook is visual before it is verbal.",
+      "bridge": "This turns the opening frame into a thinking device, not decoration.",
+      "names": [
+        "Zero-Second Hook",
+        "First Frame Ambush",
+        "Visual Disruption"
+      ]
+    },
+    "close": "The frame stops them before the line explains why.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "039",
+    "mode": "structure",
+    "source": "The 3-S Rule for 2026 virality is Surprise, Simplicity, and Significance. Surprise breaks expectation, simplicity creates cognitive ease, and significance gives the viewer a better identity to attach to.",
+    "hook": "Surprise is not enough.",
+    "angles": [
+      "Diagnosis: A strange opening gets attention, but the viewer only shares when the idea feels clean and meaningful.",
+      "Content angle: Build the piece in three beats. Break expectation, simplify the claim, then give it personal weight.",
+      "Video use: Use one visual surprise, one short line, and one consequence the viewer can feel."
+    ],
+    "presentation": [
+      "Start with the surprise.",
+      "Strip the sentence until it is easy to repeat.",
+      "End with why it matters to the viewer's life."
+    ],
+    "bigIdea": {
+      "truth": "Attention begins with surprise, but sharing comes from a clean idea that makes the viewer feel sharper.",
+      "idea": "The 3-S Rule turns a reframe into something people can carry.",
+      "bridge": "This gives every perspective shift a structure beyond shock.",
+      "names": [
+        "The 3-S Rule",
+        "Surprise Simplicity Significance",
+        "Clean Weight"
+      ]
+    },
+    "close": "Shock opens it. Meaning makes it travel.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "040",
+    "mode": "structure",
+    "source": "Underconsumption core and de-influencing inverted haul culture by framing overconsumption as a lack of identity and self-control. The impressive act became using what you already own.",
+    "hook": "Not buying became status.",
+    "angles": [
+      "Diagnosis: Buying used to signal identity. Now restraint can signal a stronger one.",
+      "Content angle: Show the old purchase impulse, then show the quiet confidence of using what is already there.",
+      "Video use: Film worn objects, repeated outfits, empty carts, and the same item surviving real use."
+    ],
+    "presentation": [
+      "Open with the item the feed says you need.",
+      "Cut to the thing you already own doing the job.",
+      "Make restraint feel calm, not moralizing."
+    ],
+    "bigIdea": {
+      "truth": "Overconsumption starts to look weak when everyone can see the insecurity underneath it.",
+      "idea": "Underconsumption turns restraint into identity.",
+      "bridge": "This supports content that makes self-control feel desirable without scolding the viewer.",
+      "names": [
+        "Underconsumption Core",
+        "Restraint Status",
+        "The Empty Cart"
+      ]
+    },
+    "close": "The strongest flex was leaving the cart empty.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "041",
+    "mode": "structure",
+    "source": "The 12-Item Extreme No-Buy Challenge restricts participants to only 12 non-essential purchases per year, reframing the mindset from what is missing to what is already owned.",
+    "hook": "The limit reveals the life.",
+    "angles": [
+      "Diagnosis: The rule works because it interrupts the feeling that every gap deserves a purchase.",
+      "Content angle: Make the constraint visible, then show what the person notices once buying is no longer the answer.",
+      "Video use: Use a counter from 1 to 12, then cut to repaired, reused, and rediscovered objects."
+    ],
+    "presentation": [
+      "Open with the yearly limit.",
+      "Show one purchase you did not make.",
+      "Make the found alternative the emotional turn."
+    ],
+    "bigIdea": {
+      "truth": "A limit can expose how often buying was being used to avoid attention.",
+      "idea": "The no-buy challenge turns ownership into a place to look again.",
+      "bridge": "This gives minimalism content a concrete container instead of a vague aesthetic.",
+      "names": [
+        "12-Item No-Buy",
+        "The Purchase Limit",
+        "Look Again Living"
+      ]
+    },
+    "close": "The limit made the old life visible again.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "042",
+    "mode": "structure",
+    "source": "The Sincerity Filter describes audiences reading messy rooms, uncurated backgrounds, and the Messy Middle as trust signals instead of flaws.",
+    "hook": "Mess proves the person is real.",
+    "angles": [
+      "Diagnosis: Perfect rooms now feel suspicious because the feed trained people to associate polish with selling.",
+      "Content angle: Show the middle of the process, not only the final clean surface.",
+      "Video use: Leave the real desk, laundry, notes, or half-finished setup in frame."
+    ],
+    "presentation": [
+      "Open with an honest working scene.",
+      "Do not apologize for the room.",
+      "Let one imperfect detail carry trust."
+    ],
+    "bigIdea": {
+      "truth": "The audience trusts evidence that the person exists outside the performance.",
+      "idea": "The Sincerity Filter turns small imperfections into proof of life.",
+      "bridge": "This supports cleaner human content without turning mess into a fake tactic.",
+      "names": [
+        "Sincerity Filter",
+        "The Messy Middle",
+        "Unpolished Trust"
+      ]
+    },
+    "close": "The mess tells them someone actually lives there.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "043",
+    "mode": "structure",
+    "source": "Anti-hustle creators reframed productivity as nervous system regulation. Burnout became a design problem, not a lack of discipline.",
+    "hook": "Burnout is a design problem.",
+    "angles": [
+      "Diagnosis: People blame their character when the system they built keeps draining them.",
+      "Content angle: Show the same person in two systems, one that extracts and one that protects intensity.",
+      "Video use: Use calendar blocks, rest windows, and phone boundaries as the visual proof."
+    ],
+    "presentation": [
+      "Open with the person trying harder inside a broken setup.",
+      "Name the system that creates the crash.",
+      "Show one design change that protects energy."
+    ],
+    "bigIdea": {
+      "truth": "Discipline fails when the nervous system is asked to pay a debt the system keeps creating.",
+      "idea": "Productivity starts with designing intensity the body can survive.",
+      "bridge": "This gives anti-hustle content a sharp operational frame instead of soft permission.",
+      "names": [
+        "Nervous System Productivity",
+        "Regulated Intensity",
+        "Burnout By Design"
+      ]
+    },
+    "close": "The system was spending energy faster than you could earn it.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "044",
+    "mode": "structure",
+    "source": "Rest was reframed from a reward for finishing work into a prerequisite for effective creativity.",
+    "hook": "Rest comes before the work.",
+    "angles": [
+      "Diagnosis: People treat rest like dessert, then wonder why the work comes from an empty body.",
+      "Content angle: Reverse the order. Show rest as the condition that makes the good work possible.",
+      "Video use: Begin with the rested morning, then show the quality of output after it."
+    ],
+    "presentation": [
+      "Open with rest as preparation.",
+      "Avoid spa visuals that make it feel indulgent.",
+      "Show the work improving because the body is available."
+    ],
+    "bigIdea": {
+      "truth": "Rest is not what you earn after the work. It is part of how the work gets its quality.",
+      "idea": "Rest is the input, not the reward.",
+      "bridge": "This supports content that treats recovery as a creative requirement.",
+      "names": [
+        "Rest Before Work",
+        "Recovery As Input",
+        "The Available Body"
+      ]
+    },
+    "close": "The work changed when the body was included.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "045",
+    "mode": "structure",
+    "source": "Oliver Burkeman's Four Thousand Weeks reframed time management by arguing that you will never get everything done and that greater efficiency often attracts more work.",
+    "hook": "Efficiency creates more work.",
+    "angles": [
+      "Diagnosis: The fantasy is that the right system ends the pile. The trap is that the pile grows when you get faster.",
+      "Content angle: Show the person clearing tasks and being rewarded with more tasks.",
+      "Video use: Use an inbox or task list that refills the second it empties."
+    ],
+    "presentation": [
+      "Open with the dream of being done.",
+      "Show the list refilling.",
+      "End with choosing what deserves to remain unfinished."
+    ],
+    "bigIdea": {
+      "truth": "The goal is not to finish everything. The goal is to choose what your limited life will refuse.",
+      "idea": "The efficiency trap turns speed into a larger cage.",
+      "bridge": "This supports time content that gives relief through limits, not control fantasies.",
+      "names": [
+        "The Efficiency Trap",
+        "Refill Work",
+        "Strategic Unfinished"
+      ]
+    },
+    "close": "The faster you got, the bigger the pile became.",
+    "category": "time",
+    "status": "unused"
+  },
+  {
+    "id": "046",
+    "mode": "structure",
+    "source": "Zack Arnold and related creators frame quitting as a strategic move rather than a failure, helping viewers let go of sunk costs and reallocate limited time.",
+    "hook": "Quitting can be strategy.",
+    "angles": [
+      "Diagnosis: People stay because the past investment feels like a command.",
+      "Content angle: Show the difference between abandoning yourself and abandoning a bad allocation.",
+      "Video use: Use two timelines. One keeps paying the old cost. One reclaims the next year."
+    ],
+    "presentation": [
+      "Open with the thing already paid for.",
+      "Name the future cost of continuing.",
+      "Make quitting feel precise, not dramatic."
+    ],
+    "bigIdea": {
+      "truth": "The past does not get to keep spending the future.",
+      "idea": "Strategic quitting protects the time that has not been wasted yet.",
+      "bridge": "This creates content about sunk cost without making the viewer feel weak for leaving.",
+      "names": [
+        "Strategic Quitting",
+        "Future Cost",
+        "The Sunk Cost Exit"
+      ]
+    },
+    "close": "The past was already spent. The future was not.",
+    "category": "time",
+    "status": "unused"
+  },
+  {
+    "id": "047",
+    "mode": "structure",
+    "source": "The Glitch Premium describes minor stumbles in speech or slightly unpolished visuals becoming trust signals in an AI-saturated feed.",
+    "hook": "The glitch builds trust.",
+    "angles": [
+      "Diagnosis: When everything can be polished, the small human error becomes evidence.",
+      "Content angle: Keep the stumble that proves the person is thinking in real time.",
+      "Video use: Leave one breath, pause, or imperfect sentence when it makes the moment feel alive."
+    ],
+    "presentation": [
+      "Open with human voice, not synthetic smoothness.",
+      "Do not cut out every small imperfection.",
+      "Keep errors that add presence, cut errors that create confusion."
+    ],
+    "bigIdea": {
+      "truth": "Perfect polish has lost trust because machines can imitate polish faster than humans can earn it.",
+      "idea": "The Glitch Premium makes small human errors valuable again.",
+      "bridge": "This supports editing choices that protect presence instead of sterilizing the creator.",
+      "names": [
+        "Glitch Premium",
+        "Human Error Signal",
+        "Presence Over Polish"
+      ]
+    },
+    "close": "The stumble proved a person was still inside it.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "048",
+    "mode": "structure",
+    "source": "Series-based content frames perspective shifts as Part 1 or Part 2, using the Zeigarnik Effect on a larger scale so viewers return to see the habit change or challenge conclude.",
+    "hook": "A series creates return.",
+    "angles": [
+      "Diagnosis: One-off clips force every post to start from zero. A series lets curiosity compound.",
+      "Content angle: Turn a reframe into an unfolding experiment with a visible end point.",
+      "Video use: Label the part number, repeat the core question, and show progress across episodes."
+    ],
+    "presentation": [
+      "Open each part with the same recognizable question.",
+      "Show progress, not only advice.",
+      "Leave a specific unresolved piece for the next entry."
+    ],
+    "bigIdea": {
+      "truth": "People return when the idea has a future they can track.",
+      "idea": "Series-based content turns a perspective shift into an ongoing relationship.",
+      "bridge": "This supports repeatable formats without forcing every card to become a new concept.",
+      "names": [
+        "Series-Based Content",
+        "Return Loop",
+        "Compounding Curiosity"
+      ]
+    },
+    "close": "The idea got a future, so people came back.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "049",
+    "mode": "structure",
+    "source": "In 2026, TikTok functions as a search engine. Videos around specific search terms, such as how to clear your mind in 60 seconds, continue pulling views weeks or months after posting.",
+    "hook": "Search gives clips a second life.",
+    "angles": [
+      "Diagnosis: A clip built only for the feed dies fast. A clip built for search keeps being found.",
+      "Content angle: Make the opening line match the question people actually type.",
+      "Video use: Say the search phrase clearly, put it on screen, then answer it without wandering."
+    ],
+    "presentation": [
+      "Open with the exact problem phrase.",
+      "Answer in clean steps.",
+      "Make the title, spoken line, and overlay say the same thing."
+    ],
+    "bigIdea": {
+      "truth": "The best short video can work like a tiny search result that keeps earning attention.",
+      "idea": "Search-optimized education gives short-form a longer shelf life.",
+      "bridge": "This turns clips into searchable assets instead of disposable bursts.",
+      "names": [
+        "Search-Optimized Education",
+        "Second-Life Clips",
+        "Tiny Search Result"
+      ]
+    },
+    "close": "The feed moves on. Search keeps working.",
+    "category": "system",
+    "status": "unused"
   }
 ]
