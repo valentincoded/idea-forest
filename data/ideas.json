@@ -636,5 +636,440 @@
     "close": "The life starts before it becomes full time.",
     "category": "system",
     "status": "unused"
+  },
+  {
+    "id": "023",
+    "mode": "structure",
+    "source": "Dan Koe advocates for a creator-as-niche model, where the creator's personal evolution serves as the primary value proposition.",
+    "hook": "You become the niche.",
+    "angles": [
+      "Diagnosis: People hide behind topics because it feels safer than letting their actual evolution become the signal.",
+      "Content angle: Show the person changing, then show the topic as the proof of that change.",
+      "Video use: Use old notes, old footage, and the current claim side by side."
+    ],
+    "presentation": [
+      "Open with the old version of the creator.",
+      "Show the transformation before explaining the advice.",
+      "Make the topic feel earned by the life."
+    ],
+    "bigIdea": {
+      "truth": "A topic is easy to copy. A lived transformation is not.",
+      "idea": "The creator becomes the niche when the audience follows the change, not only the information.",
+      "bridge": "This turns personal history into content strategy without making the self feel like a costume.",
+      "names": [
+        "Creator As Niche",
+        "Lived Proof",
+        "The Transformation Niche"
+      ]
+    },
+    "close": "The niche is the change people can trace.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "024",
+    "mode": "structure",
+    "source": "Koe argues that a brand is not a collection of colors or taglines, but an environment into which an audience is invited.",
+    "hook": "A brand is a room.",
+    "angles": [
+      "Diagnosis: People reduce brand to surface choices because a real environment demands a stronger point of view.",
+      "Content angle: Ask what the audience feels allowed to think, want, and build inside the brand.",
+      "Video use: Show brand details as room details. Desk, notes, phrases, rituals, recurring beliefs."
+    ],
+    "presentation": [
+      "Open with a plain room or workspace.",
+      "Name what the room permits.",
+      "Use recurring objects as brand memory."
+    ],
+    "bigIdea": {
+      "truth": "People do not only follow a brand. They enter a state that the brand keeps creating.",
+      "idea": "Brand is the environment that makes a certain version of the audience feel possible.",
+      "bridge": "This supports content systems built from atmosphere, rituals, and repeated beliefs.",
+      "names": [
+        "Brand As Room",
+        "The Permission Environment",
+        "Audience Atmosphere"
+      ]
+    },
+    "close": "The room tells people who they can become.",
+    "category": "environment",
+    "status": "unused"
+  },
+  {
+    "id": "025",
+    "mode": "structure",
+    "source": "The 2-Hour Content Ecosystem begins with a weekly newsletter, then turns it into YouTube, X, LinkedIn, short-form clips, blog posts, and products.",
+    "hook": "One idea should feed the week.",
+    "angles": [
+      "Diagnosis: Creators burn out when every platform demands a new thought instead of a new shape for the same thought.",
+      "Content angle: Show one source idea becoming five platform-native pieces.",
+      "Video use: Screen record the idea moving from newsletter outline to post, clip, script, and product note."
+    ],
+    "presentation": [
+      "Open with one sentence in a draft.",
+      "Map each platform to a different job.",
+      "Make the system feel calm, not mechanical."
+    ],
+    "bigIdea": {
+      "truth": "The pressure drops when the idea stays central and only the container changes.",
+      "idea": "A good content system gives one idea several useful lives.",
+      "bridge": "This turns content planning into idea logistics instead of daily invention panic.",
+      "names": [
+        "The 2-Hour Ecosystem",
+        "One Idea Week",
+        "Container Switching"
+      ]
+    },
+    "close": "The idea stays. The container changes.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "026",
+    "mode": "structure",
+    "source": "Koe's ecosystem is recursive. Data from short-form posts informs future long-form pieces. A resonant X post becomes a newsletter, then a YouTube video.",
+    "hook": "The audience votes before the essay.",
+    "angles": [
+      "Diagnosis: The feed can become a research lab when the creator treats response as signal, not approval.",
+      "Content angle: Show a small post earning attention, then becoming the deeper piece.",
+      "Video use: Use analytics screenshots as the turning point, then cut to the longer draft."
+    ],
+    "presentation": [
+      "Start with the short post.",
+      "Show the audience signal without worshiping metrics.",
+      "Turn the winning thought into a deeper argument."
+    ],
+    "bigIdea": {
+      "truth": "Short-form attention can reveal which thought deserves more depth.",
+      "idea": "Recursive repurposing makes the audience part of the research loop.",
+      "bridge": "This helps creators test ideas without letting the algorithm decide their taste.",
+      "names": [
+        "Recursive Repurposing",
+        "Audience Signal Loop",
+        "The Essay Vote"
+      ]
+    },
+    "close": "The small post tells you where to dig.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "027",
+    "mode": "structure",
+    "source": "Koe critiques the obsession with finding a fixed calling or passion. He argues that purpose is a byproduct of action and should be built through solving real-world problems.",
+    "hook": "Purpose comes after movement.",
+    "angles": [
+      "Diagnosis: People wait for a calling because waiting feels cleaner than choosing a problem and becoming useful.",
+      "Content angle: Contrast the person searching for purpose with the person solving one concrete problem every week.",
+      "Video use: Use a blank journal against a messy workbench. The workbench wins."
+    ],
+    "presentation": [
+      "Open with someone trying to think their way into purpose.",
+      "Move into action that creates feedback.",
+      "Let usefulness replace self-interrogation."
+    ],
+    "bigIdea": {
+      "truth": "Purpose is not found by staring inward forever. It shows up through contact with real problems.",
+      "idea": "Action creates the evidence that purpose uses.",
+      "bridge": "This supports content that gets people moving without pretending clarity arrives first.",
+      "names": [
+        "Purpose After Action",
+        "Usefulness First",
+        "The Workbench Wins"
+      ]
+    },
+    "close": "The work tells you what the journal cannot.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "028",
+    "mode": "structure",
+    "source": "Koe identifies four levels of purpose: survival, status, creativity, and contribution.",
+    "hook": "Purpose changes levels.",
+    "angles": [
+      "Diagnosis: People shame their current motive because they compare survival problems to contribution language.",
+      "Content angle: Show the same creator moving from escape, to reputation, to original work, to helping others.",
+      "Video use: Use a four-part visual ladder with one real behavior at each level."
+    ],
+    "presentation": [
+      "Do not make survival look lower in worth.",
+      "Show the cost and gift of each level.",
+      "End with contribution as overflow, not performance."
+    ],
+    "bigIdea": {
+      "truth": "The motive changes as the person gets free enough to want better problems.",
+      "idea": "Purpose has stages, and each stage asks for different content.",
+      "bridge": "This helps creators speak to the correct pressure instead of forcing noble language too early.",
+      "names": [
+        "Purpose Levels",
+        "The Motive Ladder",
+        "From Escape To Contribution"
+      ]
+    },
+    "close": "You cannot shame survival into contribution.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "029",
+    "mode": "structure",
+    "source": "By 2026, the decline in engagement on X has forced Koe to prioritize traffic over community on the platform, directing followers to owned platforms like beehiiv.",
+    "hook": "X is traffic, not home.",
+    "angles": [
+      "Diagnosis: Creators keep trying to build a living room on a highway.",
+      "Content angle: Show the difference between discovery on the feed and trust inside an owned list.",
+      "Video use: Use a road sign for X, then cut to an inbox or private community."
+    ],
+    "presentation": [
+      "Open with declining engagement as the false panic.",
+      "Reframe the platform by job.",
+      "Make owned distribution feel like shelter, not a boring backend."
+    ],
+    "bigIdea": {
+      "truth": "Some platforms are built to pass strangers by, not hold a relationship.",
+      "idea": "Use the highway for discovery and build the home somewhere you control.",
+      "bridge": "This supports creator strategy that separates reach from belonging.",
+      "names": [
+        "Traffic Not Home",
+        "The Platform Job",
+        "Owned Shelter"
+      ]
+    },
+    "close": "Stop decorating the highway.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "030",
+    "mode": "structure",
+    "source": "Nathaniel Drew's recurring concept is The Mental Game, used to explore money, hunting, sports, anxiety, and specialized activities through the same psychological lens.",
+    "hook": "Everything becomes the mental game.",
+    "angles": [
+      "Diagnosis: The subject changes, but the real conflict is still the person meeting pressure, fear, and meaning.",
+      "Content angle: Take a practical topic and reveal the psychological game underneath it.",
+      "Video use: Start with the visible activity, then cut to the inner question driving it."
+    ],
+    "presentation": [
+      "Open with a concrete scene, not a thesis.",
+      "Name the hidden pressure inside the activity.",
+      "Use the activity as evidence for the inner pattern."
+    ],
+    "bigIdea": {
+      "truth": "Most external goals become interesting when the hidden inner contest is visible.",
+      "idea": "The mental game turns any topic into a human story.",
+      "bridge": "This lets content connect unrelated subjects without sounding random.",
+      "names": [
+        "The Mental Game",
+        "Hidden Contest",
+        "Pressure Under The Topic"
+      ]
+    },
+    "close": "The topic is the doorway. The pressure is the story.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "031",
+    "mode": "structure",
+    "source": "Drew balances retention editing with breathing space, using slower pacing so the viewer can process the narrative without being overwhelmed by over-editing.",
+    "hook": "Breathing space holds attention too.",
+    "angles": [
+      "Diagnosis: Over-editing treats the viewer like attention must be dragged every second. Slower moments create trust.",
+      "Content angle: Show a cut that keeps attention by giving the idea room.",
+      "Video use: Compare a frantic edit with a slower version where ambient sound carries the scene."
+    ],
+    "presentation": [
+      "Open with a quiet shot that still has tension.",
+      "Use ambient sound as glue.",
+      "Let one thought land before the next reset."
+    ],
+    "bigIdea": {
+      "truth": "Attention is not only captured by speed. It is also earned by rhythm.",
+      "idea": "Breathing space makes depth watchable.",
+      "bridge": "This supports slower intellectual content that still respects retention.",
+      "names": [
+        "Breathing Space",
+        "Slow Retention",
+        "Rhythm Over Panic"
+      ]
+    },
+    "close": "Speed is not the only way to keep someone.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "032",
+    "mode": "structure",
+    "source": "Drew treats TikTok as a discovery engine while focusing his deepest content on Substack and YouTube. Short clips act as hooks that lead toward cinematic long-form videos and paid communities.",
+    "hook": "Short clips are doors.",
+    "angles": [
+      "Diagnosis: Short-form fails when it tries to be the whole house. Its best job is to open the right door.",
+      "Content angle: Make each clip answer one search, then point toward the deeper world.",
+      "Video use: End the clip with a specific next step into the longer video or letter."
+    ],
+    "presentation": [
+      "Open with one concrete problem.",
+      "Solve enough to earn trust.",
+      "Leave a clean path into the deeper piece."
+    ],
+    "bigIdea": {
+      "truth": "Discovery content works when it sends the right person to the deeper room.",
+      "idea": "Short clips are entry points, not the full relationship.",
+      "bridge": "This helps creators use short-form without flattening the whole brand into clips.",
+      "names": [
+        "Short Clips Are Doors",
+        "Discovery Doorway",
+        "The Deeper Room"
+      ]
+    },
+    "close": "The clip opens the door. It is not the house.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "033",
+    "mode": "structure",
+    "source": "Pursuit of Wonder represents faceless storytelling, using animated visuals and professional narration to explore complex history and psychology topics without relying on a personal face-on-camera presence.",
+    "hook": "The face is optional.",
+    "angles": [
+      "Diagnosis: Some creators delay because they think trust requires their face, when the story can carry the authority.",
+      "Content angle: Show how narration, structure, and visual metaphor can replace face-to-camera presence.",
+      "Video use: Use a faceless opening with a strong question, then let animation hold the abstract idea."
+    ],
+    "presentation": [
+      "Open with a thought experiment.",
+      "Use visual metaphor instead of talking-head proof.",
+      "Make the narration precise enough to carry trust."
+    ],
+    "bigIdea": {
+      "truth": "Authority can come from the quality of the thinking, not only the visibility of the person.",
+      "idea": "Faceless storytelling lets the idea take the lead.",
+      "bridge": "This gives camera-resistant creators a serious format without hiding behind weak anonymity.",
+      "names": [
+        "Faceless Storytelling",
+        "Idea-First Authority",
+        "The Invisible Host"
+      ]
+    },
+    "close": "The story can carry the face.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "034",
+    "mode": "structure",
+    "source": "Joubert remixes ancient philosophical ideas to solve modern psychological problems, framing historical thinkers as consultants for modern life.",
+    "hook": "Dead thinkers become consultants.",
+    "angles": [
+      "Diagnosis: Philosophy becomes useful when the old idea is brought into a current pressure without museum language.",
+      "Content angle: Put a modern problem in front of an old thinker and let the tension create the episode.",
+      "Video use: Open with the modern problem, then introduce the philosopher as the person who already saw the pattern."
+    ],
+    "presentation": [
+      "Start with the current pain, not the biography.",
+      "Use the philosopher as a working tool.",
+      "End with a decision the viewer can actually feel."
+    ],
+    "bigIdea": {
+      "truth": "Old ideas stay alive when they answer a pressure people still feel.",
+      "idea": "Historical thinkers become useful when they are treated like consultants, not statues.",
+      "bridge": "This supports intellectual content that feels practical without flattening the depth.",
+      "names": [
+        "Philosopher As Consultant",
+        "Old Thought New Pressure",
+        "The Living Archive"
+      ]
+    },
+    "close": "The old idea lives when the pressure is current.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "035",
+    "mode": "structure",
+    "source": "By 2026, algorithms listen to audio and read every frame of a video, making keywords in narration and on-screen text essential for visibility.",
+    "hook": "The algorithm reads the room.",
+    "angles": [
+      "Diagnosis: Search no longer waits for captions. The words, visuals, and spoken phrases all teach the platform what the piece is.",
+      "Content angle: Build the keyword into the natural sentence, the text overlay, and the visible object.",
+      "Video use: Say the search phrase, show it on screen, and frame the visual around the same idea."
+    ],
+    "presentation": [
+      "Open with the searchable phrase in human language.",
+      "Put the phrase on screen without making it feel stuffed.",
+      "Use visuals that confirm the topic."
+    ],
+    "bigIdea": {
+      "truth": "Discovery now comes from every layer of the video, not only the caption.",
+      "idea": "Social SEO means the platform reads the whole scene.",
+      "bridge": "This turns scripting, captions, and visuals into one search signal.",
+      "names": [
+        "Social SEO",
+        "The Readable Scene",
+        "Search In The Frame"
+      ]
+    },
+    "close": "The whole video teaches the platform what it is.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "036",
+    "mode": "structure",
+    "source": "All three creators use an anti-vision to hook their audience, defining exactly what they do not want, such as 12 simple steps to be miserable or the survival level of working a hated job.",
+    "hook": "The anti-vision hits first.",
+    "angles": [
+      "Diagnosis: People often know the life they refuse before they can describe the one they want.",
+      "Content angle: Start with the future the viewer is scared of repeating.",
+      "Video use: Show the unwanted routine in specific details, then cut to the first refusal."
+    ],
+    "presentation": [
+      "Open with the life they do not want.",
+      "Use concrete details, not generic misery.",
+      "Turn refusal into the first act of agency."
+    ],
+    "bigIdea": {
+      "truth": "A clear no can move people before a clear dream exists.",
+      "idea": "The anti-vision gives desire a hard edge.",
+      "bridge": "This supports hooks that begin with refusal instead of empty aspiration.",
+      "names": [
+        "Anti-Vision",
+        "The Refusal Hook",
+        "Clear No First"
+      ]
+    },
+    "close": "The no arrives before the dream gets language.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "037",
+    "mode": "structure",
+    "source": "The value flywheel moves from discovery in short-form, to engagement in long-form, to transformation through paid products, books, courses, and communities.",
+    "hook": "Views are not the destination.",
+    "angles": [
+      "Diagnosis: Creators mistake attention for the business when attention is only the first door.",
+      "Content angle: Show the path from stranger, to reader, to buyer, to person who changes because of the work.",
+      "Video use: Use a simple three-stage diagram with one real asset at each stage."
+    ],
+    "presentation": [
+      "Open with the vanity metric.",
+      "Follow one person through the whole path.",
+      "End on transformation, not revenue."
+    ],
+    "bigIdea": {
+      "truth": "The real asset is not the view. It is the relationship that survives after the view ends.",
+      "idea": "A value flywheel turns attention into trust, then trust into change.",
+      "bridge": "This helps creators design a brand beyond posting more content.",
+      "names": [
+        "Value Flywheel",
+        "Attention To Trust",
+        "The Relationship After The View"
+      ]
+    },
+    "close": "The view only matters if something survives it.",
+    "category": "system",
+    "status": "unused"
   }
 ]
