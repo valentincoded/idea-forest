@@ -1,1 +1,640 @@
-[]
+[
+  {
+    "id": "001",
+    "mode": "structure",
+    "source": "Within the first 1.7 to 3 seconds of a video, a viewer determines if a creator \"sees\" them. This immediate self-identification is the prerequisite for engagement in a crowded market.",
+    "hook": "People stop when the video sees them.",
+    "angles": [
+      "Diagnosis: People do not stay for information first. They stay when the first seconds prove the creator can name their private state.",
+      "Content angle: Open with the feeling before the topic. Recognition comes before teaching.",
+      "Video use: Start with one still frame and one line of text. Let the viewer feel caught before you speak."
+    ],
+    "presentation": [
+      "Use a calm first frame, not a loud pattern interrupt.",
+      "Put the private feeling on screen before any explanation.",
+      "Keep the first sentence under seven words."
+    ],
+    "bigIdea": {
+      "truth": "The first seconds do not sell the topic. They prove the creator can see the viewer.",
+      "idea": "Recognition is the hook before the hook.",
+      "bridge": "Use this to audit every video opening. If the first line does not name a real inner state, the idea starts late.",
+      "names": [
+        "The Recognition Hook",
+        "Seen Before Taught",
+        "First Frame Proof"
+      ]
+    },
+    "close": "Recognition is the hook before the hook.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "002",
+    "mode": "structure",
+    "source": "The most potent felt truth driving the current self-improvement market is the acute anxiety surrounding \"wasted time.\" This is not merely a concern for productivity but an existential fear of temporal loss and the irreversible nature of the \"unlived life\".",
+    "hook": "Wasted time is not a productivity problem.",
+    "angles": [
+      "Diagnosis: The fear is not a messy calendar. The fear is life passing while the person keeps acting normal.",
+      "Content angle: Show an ordinary Tuesday and make the cost visible. Do not give tips yet.",
+      "Video use: Film routine footage that feels too familiar. Let the text say what the routine hides."
+    ],
+    "presentation": [
+      "Open on a normal Tuesday, not a dramatic failure.",
+      "Use clocks, commutes, tabs, and late-night scrolling as proof.",
+      "End with the question the viewer has avoided."
+    ],
+    "bigIdea": {
+      "truth": "People call it procrastination because that sounds easier than admitting time is moving.",
+      "idea": "The fear underneath wasted time is the unlived life.",
+      "bridge": "This points to life design as a time audit, not another productivity system.",
+      "names": [
+        "The Unlived Tuesday",
+        "The Time Leak",
+        "Normal Life Drift"
+      ]
+    },
+    "close": "The calendar is not the fear. The life behind it is.",
+    "category": "time",
+    "status": "unused"
+  },
+  {
+    "id": "003",
+    "mode": "structure",
+    "source": "A significant emerging theme in 2025 is the \"Competence Inversion,\" where AI's ability to outperform humans in execution tasks leads to a crisis of professional identity. The felt truth here is that traditional job titles have become \"meaningless,\" and one's value lies solely in \"agency\" and \"vision\" rather than specific technical skills.",
+    "hook": "Your job title stopped describing you.",
+    "angles": [
+      "Diagnosis: The identity crisis starts when the skill that made someone valuable becomes easy for a machine to copy.",
+      "Content angle: Show the old identity badge first. Then show the part of the person the badge never measured.",
+      "Video use: Use a split screen. Left side is the job title. Right side is taste, judgment, and direction."
+    ],
+    "presentation": [
+      "Open with a profession that used to feel stable.",
+      "Avoid doom language. Make the loss of status visible without panic.",
+      "End on the question of what still belongs to the human."
+    ],
+    "bigIdea": {
+      "truth": "A title feels safe until the market stops needing the task behind it.",
+      "idea": "The title was never the whole person.",
+      "bridge": "This leads into content about agency, taste, judgment, and self-direction as the real work.",
+      "names": [
+        "Title Collapse",
+        "The Badge Problem",
+        "Beyond The Title"
+      ]
+    },
+    "close": "The title was smaller than the person wearing it.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "004",
+    "mode": "structure",
+    "source": "The \"Spotlight Effect\" drives a profound engagement with content that offers permission to be \"different\". The felt truth is that \"no one really cares,\" yet most individuals live in a state of self-imposed isolation or fake their identity to belong.",
+    "hook": "People fake normal because they feel watched.",
+    "angles": [
+      "Diagnosis: The person is not trapped by the crowd. The person is trapped by the imagined crowd.",
+      "Content angle: Show the difference between being judged and rehearsing judgment alone in your head.",
+      "Video use: Film someone editing themselves before leaving the house. The text names the invisible audience."
+    ],
+    "presentation": [
+      "Use a mirror shot or a phone camera preview.",
+      "Make the invisible audience feel physical.",
+      "Keep the ending quiet. The point is relief, not rebellion."
+    ],
+    "bigIdea": {
+      "truth": "Most conformity happens before anyone says anything.",
+      "idea": "The imagined audience edits the person before the world gets a vote.",
+      "bridge": "This creates content about self-expression as an editing problem, not a confidence problem.",
+      "names": [
+        "The Imagined Crowd",
+        "Private Conformity",
+        "The Invisible Audience"
+      ]
+    },
+    "close": "Most conformity happens before anyone says anything.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "005",
+    "mode": "structure",
+    "source": "There is a growing shift toward a gentler, more soul-nourishing approach to ambition. The felt truth here is that \"speed dominates, but slowness is a form of care\". Substack has become the year of the newsletter, offering space for vulnerable, searching, opinionated communication that is not shaped by algorithms.",
+    "hook": "Fast content made people tired.",
+    "angles": [
+      "Diagnosis: The exhaustion comes from being trained to perform clarity before the thought has finished forming.",
+      "Content angle: Contrast a fast feed with a slower note that gives the idea room to breathe.",
+      "Video use: Use typing, paper, a walk, or a quiet desktop. Make pace the visual argument."
+    ],
+    "presentation": [
+      "Open with fast cuts, then remove them.",
+      "Let silence become the pattern interrupt.",
+      "Use one sentence per frame so the viewer slows down with you."
+    ],
+    "bigIdea": {
+      "truth": "People are tired because the feed asks every thought to perform before it matures.",
+      "idea": "Slowness is not lack of ambition. Slowness protects the thought.",
+      "bridge": "This supports slower content formats, newsletters, and reflective videos as a deliberate choice.",
+      "names": [
+        "Slow Proof",
+        "Thought Before Performance",
+        "The Quiet Format"
+      ]
+    },
+    "close": "The thought needs air before it becomes content.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "006",
+    "mode": "structure",
+    "source": "The final core felt truth is that \"success is the sum of small, repeated actions\". The engagement with habit trackers and 30-day challenges stems from the brain's commitment and consistency bias. This focus on the habitual self represents a shift toward \"Agency Design\".",
+    "hook": "Willpower fails when the system is wrong.",
+    "angles": [
+      "Diagnosis: People blame themselves for patterns that their daily setup keeps reinstalling.",
+      "Content angle: Show the same person in two rooms. Same intention. Different default.",
+      "Video use: Film one small environmental change and show how it removes a decision."
+    ],
+    "presentation": [
+      "Open with the repeated failure, not the solution.",
+      "Show the default that creates the behavior.",
+      "Make the system visible before giving any advice."
+    ],
+    "bigIdea": {
+      "truth": "The repeated pattern is not random. The setup keeps reinstalling it.",
+      "idea": "Agency starts when the default changes.",
+      "bridge": "This turns life design into system design without blaming the person for the loop.",
+      "names": [
+        "Default Design",
+        "The Reinstall Loop",
+        "Agency Design"
+      ]
+    },
+    "close": "The setup keeps reinstalling the pattern.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "007",
+    "mode": "structure",
+    "source": "The primary drivers of engagement are no longer the objective utility of information or the credentials of the speaker, but the degree to which content resonates as a \"felt truth.\" These felt truths are claims grounded in lived experience and affective judgment rather than rational consensus.",
+    "hook": "The viewer trusts the feeling first.",
+    "angles": [
+      "Diagnosis: People accept the claim when it matches the state they already live in.",
+      "Content angle: Start with the private feeling, then show the idea sitting underneath it.",
+      "Video use: Put the felt line on screen first. Use the explanation only after the viewer recognizes themselves."
+    ],
+    "presentation": [
+      "Open with the line the viewer already feels but has not named.",
+      "Avoid proving too early. Let recognition do the first job.",
+      "Use the source as a filter for hooks. If it does not name a felt state, cut it."
+    ],
+    "bigIdea": {
+      "truth": "People do not need the creator to sound correct first. They need the creator to name the thing they already feel.",
+      "idea": "Felt truth beats useful information at the opening.",
+      "bridge": "This turns content research into emotional diagnosis before education.",
+      "names": [
+        "Felt Truth First",
+        "The Feeling Test",
+        "Recognition Before Proof"
+      ]
+    },
+    "close": "The feeling opens the door before the argument arrives.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "008",
+    "mode": "structure",
+    "source": "Mark Manson's \"Backwards Law\" suggests that the pursuit of positive experiences is itself a negative experience, whereas the acceptance of negative experiences is a positive experience. This resonates because it matches the \"feeling brain's\" subjective reality over the \"thinking brain's\" logical optimism.",
+    "hook": "Pain content works when it stops lying.",
+    "angles": [
+      "Diagnosis: People are tired of content that treats discomfort like a bug. The relief comes when pain gets named as part of the system.",
+      "Content angle: Contrast fake positivity with the exact feeling people actually wake up with.",
+      "Video use: Open on the uncomfortable state. Do not resolve it too quickly."
+    ],
+    "presentation": [
+      "Use plain footage of an unglamorous moment.",
+      "Let the first line disagree with forced optimism.",
+      "End with acceptance, not a motivational lift."
+    ],
+    "bigIdea": {
+      "truth": "The audience trusts the creator who stops pretending pain means something went wrong.",
+      "idea": "Pain is not a glitch in the design.",
+      "bridge": "This supports content that diagnoses emotional reality before offering any direction.",
+      "names": [
+        "No Fake Bright Side",
+        "Pain Without Theater",
+        "The Broken Optimism Loop"
+      ]
+    },
+    "close": "Pain is not proof the system failed.",
+    "category": "fear",
+    "status": "unused"
+  },
+  {
+    "id": "009",
+    "mode": "structure",
+    "source": "The minimalism movement, led by Matt D'Avella, addresses the felt truth that \"having more won't make you happier\". The 30-day experiment acts as a narrative device where the creator becomes the test subject for a lifestyle change.",
+    "hook": "More stuff stops working fast.",
+    "angles": [
+      "Diagnosis: The purchase solves the feeling for a minute. Then the same person returns in a fuller room.",
+      "Content angle: Show the moment after the object arrives, not the purchase itself.",
+      "Video use: Use a clean before and after, then make the second after visible when the emotional high fades."
+    ],
+    "presentation": [
+      "Open with the object that was supposed to fix the feeling.",
+      "Use the room as evidence.",
+      "Make the experiment personal instead of preachy."
+    ],
+    "bigIdea": {
+      "truth": "People buy relief and mistake it for change.",
+      "idea": "The room fills up before the life changes.",
+      "bridge": "This turns minimalism into an emotional audit, not an aesthetic performance.",
+      "names": [
+        "The Fuller Room",
+        "Relief Purchases",
+        "The After After"
+      ]
+    },
+    "close": "The room changed. The loop stayed.",
+    "category": "design",
+    "status": "unused"
+  },
+  {
+    "id": "010",
+    "mode": "structure",
+    "source": "The highest engagement in deep psychological content comes from the recognition of \"Schemas\". These are deeply held emotional beliefs that are not conscious thoughts but \"felt truths\" that shape perception. Themes like \"I don't matter\" or \"People will leave me\" explain why people stay in bad relationships or feel like imposter syndrome is a literal part of their identity.",
+    "hook": "Old beliefs live below logic.",
+    "angles": [
+      "Diagnosis: Some beliefs do not feel like thoughts. They feel like the room you are standing in.",
+      "Content angle: Show a person reacting to the present from an old emotional rule.",
+      "Video use: Use two layers of text. One names what happened. The second names what the body heard."
+    ],
+    "presentation": [
+      "Open with a small event that creates a huge reaction.",
+      "Do not blame the person for the reaction.",
+      "Show the old rule running under the new moment."
+    ],
+    "bigIdea": {
+      "truth": "People repeat patterns because old beliefs feel like reality, not opinion.",
+      "idea": "The old rule keeps interpreting the new room.",
+      "bridge": "This creates content about identity loops without making the viewer feel broken.",
+      "names": [
+        "The Old Rule",
+        "Below Logic",
+        "The Room Belief"
+      ]
+    },
+    "close": "The old rule keeps reading the new room.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "011",
+    "mode": "structure",
+    "source": "Financial advice in the self-improvement space has shifted from \"wealth building\" to \"escaping the 9-5.\" This is a felt truth that \"jobs aren't secure\" and that \"golden handcuffs\" are a real form of incarceration.",
+    "hook": "Money content is escape content.",
+    "angles": [
+      "Diagnosis: The money obsession is not only about wanting more. It is about wanting the right to leave.",
+      "Content angle: Show the difference between wanting wealth and wanting control over a Tuesday.",
+      "Video use: Use a paycheck, a calendar, and one blocked-off morning as the visual contrast."
+    ],
+    "presentation": [
+      "Open with the moment money stops feeling like numbers.",
+      "Avoid luxury visuals. Show trapped time instead.",
+      "End on autonomy, not income."
+    ],
+    "bigIdea": {
+      "truth": "People talk about money when the real subject is control over time.",
+      "idea": "The paycheck matters because the calendar belongs to someone else.",
+      "bridge": "This turns money content into life design content without pretending money is the final goal.",
+      "names": [
+        "Calendar Money",
+        "The Owned Tuesday",
+        "Paycheck Permission"
+      ]
+    },
+    "close": "The money mattered because the calendar was not yours.",
+    "category": "money",
+    "status": "unused"
+  },
+  {
+    "id": "012",
+    "mode": "structure",
+    "source": "In an era of ubiquitous AI-generated imagery, there is a need for a little imperfection. The felt truth is that \"flawless is fake,\" and engagement is moving toward content that is tangible, raw, and edgy.",
+    "hook": "Perfect content feels dead now.",
+    "angles": [
+      "Diagnosis: The feed got too clean. People now read small imperfections as proof that a human is still there.",
+      "Content angle: Compare a polished setup with a real one that has texture, noise, and a visible hand.",
+      "Video use: Leave one imperfect detail in frame. Let it do trust work."
+    ],
+    "presentation": [
+      "Open with something too polished, then break the surface.",
+      "Use real texture, room noise, hands, paper, or a car shot.",
+      "Do not overproduce the moment that proves it is human."
+    ],
+    "bigIdea": {
+      "truth": "People trust the crack because the perfect surface now belongs to machines.",
+      "idea": "Imperfection has become proof of life.",
+      "bridge": "This supports rawer visual choices without turning mess into a brand costume.",
+      "names": [
+        "Proof Of Life",
+        "The Human Crack",
+        "Imperfect Trust"
+      ]
+    },
+    "close": "The crack tells people a human is still there.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "013",
+    "mode": "structure",
+    "source": "Lifemaxxing is the flagship trend of 2026, representing a commitment to living life deeply and authentically. It represents a shift away from maximizing output toward living life to the fullest.",
+    "hook": "Life became the thing to optimize.",
+    "angles": [
+      "Diagnosis: People got tired of treating life like a performance report. The new proof is that they are actually living.",
+      "Content angle: Show the difference between a productive day and a day that makes someone want their life back.",
+      "Video use: Use real daily footage. Let ordinary moments carry more status than achievement clips."
+    ],
+    "presentation": [
+      "Open with a normal moment that feels more alive than a win.",
+      "Use fewer metrics and more texture.",
+      "Make the viewer feel the difference between output and aliveness."
+    ],
+    "bigIdea": {
+      "truth": "People stopped wanting a better scorecard. They want proof that life is happening while they are here.",
+      "idea": "Lifemaxxing turns living itself into the main project.",
+      "bridge": "This supports content about designing days that feel worth being inside, not days that only look productive.",
+      "names": [
+        "Lifemaxxing",
+        "Proof Of Life",
+        "The Aliveness Test"
+      ]
+    },
+    "close": "The day worked if you wanted to be inside it.",
+    "category": "design",
+    "status": "unused"
+  },
+  {
+    "id": "014",
+    "mode": "structure",
+    "source": "Freedommaxxing focuses on reclaiming personal agency and making unconventional choices. The \"Maybe in another life\" trend uses the response \"No, this one\" to reject delayed hope and choose the current life.",
+    "hook": "No, this one.",
+    "angles": [
+      "Diagnosis: The line works because it kills the fantasy that the real life comes later.",
+      "Content angle: Show the exact moment someone stops outsourcing desire to a future version of themselves.",
+      "Video use: Start with aspirational footage and the delayed-life text from the source. Cut to \"No, this one.\""
+    ],
+    "presentation": [
+      "Use one clear action that looks like a life choice.",
+      "Make the first text feel like resignation.",
+      "Make the second text feel final."
+    ],
+    "bigIdea": {
+      "truth": "People delay desire by pretending the right life belongs to another timeline.",
+      "idea": "Freedommaxxing is the refusal to postpone the life you keep imagining.",
+      "bridge": "This becomes content about choosing the current life as the place where agency happens.",
+      "names": [
+        "No This One",
+        "Current Life Agency",
+        "The Timeline Refusal"
+      ]
+    },
+    "close": "The other life was a delay tactic.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "015",
+    "mode": "structure",
+    "source": "Whimsymaxxing is a reaction against digital sterility and aesthetic conformity. It fills spaces with vibrant colors, quirky furniture, and items that spark joy. Dopamine decor reframes aesthetic choices as an act of autonomy.",
+    "hook": "Whimsymaxxing makes taste disobey.",
+    "angles": [
+      "Diagnosis: The strange object is not childish. It is proof that the person stopped asking the correct room for permission.",
+      "Content angle: Use one playful object as the whole argument. The banana lamp carries the philosophy.",
+      "Video use: Open on the weird detail before showing the room. Let the object explain the person."
+    ],
+    "presentation": [
+      "Use one object with strong shape or color.",
+      "Do not explain the aesthetic too much.",
+      "Let the room feel personal before it feels designed."
+    ],
+    "bigIdea": {
+      "truth": "The correct room became another place to hide.",
+      "idea": "Whimsymaxxing gives taste permission to be personal again.",
+      "bridge": "This supports content about environment as identity, not decoration.",
+      "names": [
+        "Whimsymaxxing",
+        "The Disobedient Room",
+        "Personal Taste Proof"
+      ]
+    },
+    "close": "The room stopped asking to be correct.",
+    "category": "environment",
+    "status": "unused"
+  },
+  {
+    "id": "016",
+    "mode": "structure",
+    "source": "Sleepmaxxing uses cozy, textured bedrooms and the hook \"Rest as a revolutionary act.\" The trend treats rest as part of power rather than a break from it.",
+    "hook": "Rest became status.",
+    "angles": [
+      "Diagnosis: The flex changed because exhaustion stopped looking impressive.",
+      "Content angle: Show the bedroom as a decision, not a lifestyle prop.",
+      "Video use: Use texture, low light, clean sheets, and a phone placed away from the bed."
+    ],
+    "presentation": [
+      "Open with a room that looks protected.",
+      "Avoid sleepy luxury language.",
+      "Frame rest as control over the system, not escape from work."
+    ],
+    "bigIdea": {
+      "truth": "People trust the person who protects their nervous system more than the person performing exhaustion.",
+      "idea": "Sleepmaxxing turns rest into visible self-command.",
+      "bridge": "This supports content about energy design without making rest sound passive.",
+      "names": [
+        "Sleepmaxxing",
+        "Protected Rest",
+        "The Rest Signal"
+      ]
+    },
+    "close": "Exhaustion stopped looking impressive.",
+    "category": "system",
+    "status": "unused"
+  },
+  {
+    "id": "017",
+    "mode": "structure",
+    "source": "Pattern interrupts in philosophical content are often subtle and sensory rather than loud. ASMR hooks use typing sounds, page flipping, or mouse clicks. The Silence Hook opens with stillness or a steady gaze to signal a break from the noise.",
+    "hook": "Silence is the pattern interrupt now.",
+    "angles": [
+      "Diagnosis: Loud hooks blend into a loud feed. Quiet works because it breaks the expected noise pattern.",
+      "Content angle: Make the absence of motion feel intentional instead of empty.",
+      "Video use: Open with silence, a page turn, a cursor click, or a steady look before the first line appears."
+    ],
+    "presentation": [
+      "Use one sensory sound before speech.",
+      "Let the first second feel slower than the feed around it.",
+      "Do not stack too many effects."
+    ],
+    "bigIdea": {
+      "truth": "The feed trained people to expect noise, so quiet now feels like a signal.",
+      "idea": "Stillness can stop the scroll without shouting.",
+      "bridge": "This gives life design content a calmer way to hold attention.",
+      "names": [
+        "The Silence Hook",
+        "Quiet Interrupt",
+        "Sensory Stop"
+      ]
+    },
+    "close": "Quiet works because the feed got loud.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "018",
+    "mode": "structure",
+    "source": "The Everything Hallelujah pattern celebrates tiny productivity wins through 6 to 10 short lifestyle clips cut to a rhythmic sound. It reframes winning from large-scale success to small joyful moments of autonomy.",
+    "hook": "Small wins became the proof.",
+    "angles": [
+      "Diagnosis: People stopped trusting huge transformations. Tiny visible wins feel more believable because they already know that scale of life.",
+      "Content angle: Show six small moments that prove the day belongs to the person again.",
+      "Video use: Cut short clips to rhythm. Use captions like calendar empty, fresh sheets, clean desk, walk outside."
+    ],
+    "presentation": [
+      "Use 6 to 10 clips with clear sensory detail.",
+      "Keep the captions concrete.",
+      "Make the sequence feel like a life returning, not a productivity montage."
+    ],
+    "bigIdea": {
+      "truth": "People believe a life changed when they can see the small parts working again.",
+      "idea": "Tiny autonomy beats dramatic transformation on camera.",
+      "bridge": "This supports short videos built from small proof instead of big claims.",
+      "names": [
+        "Tiny Autonomy",
+        "Small Proof Sequence",
+        "The Day Comes Back"
+      ]
+    },
+    "close": "The small parts prove the life is coming back.",
+    "category": "design",
+    "status": "unused"
+  },
+  {
+    "id": "019",
+    "mode": "structure",
+    "source": "The Wabi-sabi imperfection contrast shows \"This one's perfect\" versus \"I like this one,\" then reveals the crooked, real, and more loved version. It challenges perfection culture.",
+    "hook": "Perfect lost to loved.",
+    "angles": [
+      "Diagnosis: People do not always want the flawless version. They want the one that feels lived with.",
+      "Content angle: Show two versions of the same thing. One is correct. One has a pulse.",
+      "Video use: Use the text \"This one's perfect\" on the staged version and \"I like this one\" on the real version."
+    ],
+    "presentation": [
+      "Use a clean side-by-side contrast.",
+      "Let the imperfect version win visually.",
+      "Keep the caption short so the viewer feels the preference before explaining it."
+    ],
+    "bigIdea": {
+      "truth": "Perfect asks for approval. Loved asks for recognition.",
+      "idea": "The crooked version carries more life.",
+      "bridge": "This creates content about taste, identity, and self-acceptance through visible contrast.",
+      "names": [
+        "Perfect Versus Loved",
+        "The Crooked Choice",
+        "Loved Over Flawless"
+      ]
+    },
+    "close": "The real version has a pulse.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "020",
+    "mode": "structure",
+    "source": "The Sunshine Boy trend captures the transition from internal winter to summer. It reframes personal growth as a cyclical, seasonal process rather than a linear grind.",
+    "hook": "Growth has seasons.",
+    "angles": [
+      "Diagnosis: People panic when growth goes quiet because they expect change to move in a straight line.",
+      "Content angle: Show winter footage as part of the change, not the failure before it.",
+      "Video use: Use a cold-to-warm transition. Let the same person appear in both seasons."
+    ],
+    "presentation": [
+      "Start with stillness, low energy, or repetition.",
+      "Move into sunlight without forcing a victory scene.",
+      "Let the contrast show timing, not personal failure."
+    ],
+    "bigIdea": {
+      "truth": "Quiet periods look like nothing from the outside while the system is resetting underneath.",
+      "idea": "Internal winter is still part of growth.",
+      "bridge": "This supports content that gives people language for slow seasons without calling them stuck.",
+      "names": [
+        "Internal Winter",
+        "Seasonal Growth",
+        "The Sunshine Shift"
+      ]
+    },
+    "close": "Winter was not proof nothing was happening.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "021",
+    "mode": "structure",
+    "source": "A viral reframe in the creative autonomy niche describes a business or partnership as front of house and back of house. One person is the charismatic host, and the other is the exacting chef.",
+    "hook": "Not everyone belongs on stage.",
+    "angles": [
+      "Diagnosis: Some creators feel broken because they confuse visibility with value.",
+      "Content angle: Show two roles that both create the outcome. The host is visible. The chef makes the room work.",
+      "Video use: Use restaurant footage or a simple split between face work and hand work."
+    ],
+    "presentation": [
+      "Open with the pressure to be the face.",
+      "Show the invisible role as valuable, not secondary.",
+      "Make the metaphor physical with front room and kitchen visuals."
+    ],
+    "bigIdea": {
+      "truth": "Visibility is only one role in the machine.",
+      "idea": "Some people create value from the back of house.",
+      "bridge": "This helps creators choose a role that fits their actual strengths instead of copying the loudest format.",
+      "names": [
+        "Front Of House",
+        "Back Of House Creator",
+        "The Kitchen Role"
+      ]
+    },
+    "close": "The invisible role still feeds the room.",
+    "category": "creativity",
+    "status": "unused"
+  },
+  {
+    "id": "022",
+    "mode": "structure",
+    "source": "The Full-Time Habit, Not Full-Time Job reframe addresses finite time. It argues that the answer is not less work, but better work that builds community and authority.",
+    "hook": "The habit matters more than the job.",
+    "angles": [
+      "Diagnosis: People treat the dream like a future job when it first needs to become a repeated behavior.",
+      "Content angle: Show the same daily act compounding before it becomes a business, audience, or identity.",
+      "Video use: Use a calendar or repeated desk shot. Let repetition become the proof."
+    ],
+    "presentation": [
+      "Open with the gap between wanting the life and repeating the behavior.",
+      "Show one small habit across several days.",
+      "End before the big result. The point is the install."
+    ],
+    "bigIdea": {
+      "truth": "The new life starts as a repeated behavior before it becomes a full-time thing.",
+      "idea": "A full-time habit comes before a full-time job.",
+      "bridge": "This turns ambition into a daily install without reducing it to a list of tasks.",
+      "names": [
+        "Full-Time Habit",
+        "The Daily Install",
+        "Behavior Before Business"
+      ]
+    },
+    "close": "The life starts before it becomes full time.",
+    "category": "system",
+    "status": "unused"
+  }
+]

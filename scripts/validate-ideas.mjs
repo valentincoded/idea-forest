@@ -66,6 +66,9 @@ const parseUnion = (source, name) => {
     .filter(Boolean)
 }
 
+const hasTerm = (text, term) =>
+  new RegExp(`(^|[^a-z])${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([^a-z]|$)`).test(text)
+
 const errors = []
 const typeSource = fs.readFileSync(typePath, 'utf8')
 const validCategories = new Set(parseUnion(typeSource, 'Category'))
@@ -169,23 +172,6 @@ ideas.forEach((idea, index) => {
     errors.push(`${label}: invalid status "${idea.status}".`)
   }
 
-  const serialized = JSON.stringify(idea)
-
-  if (serialized.includes('—')) {
-    errors.push(`${label}: em dash is not allowed.`)
-  }
-
-  if (serialized.includes(';')) {
-    errors.push(`${label}: semicolon is not allowed.`)
-  }
-
-  const lower = serialized.toLowerCase()
-  const bannedHit = bannedTerms.find((term) => lower.includes(term))
-
-  if (bannedHit) {
-    errors.push(`${label}: banned term found: "${bannedHit}".`)
-  }
-
   const generatedText = [
     idea.hook,
     ...(idea.angles ?? []),
@@ -200,9 +186,21 @@ ideas.forEach((idea, index) => {
     .join(' ')
     .toLowerCase()
 
-  const vagueHit = vagueTerms.find((term) =>
-    new RegExp(`(^|[^a-z])${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([^a-z]|$)`).test(generatedText),
-  )
+  if (generatedText.includes('—')) {
+    errors.push(`${label}: em dash is not allowed in generated fields.`)
+  }
+
+  if (generatedText.includes(';')) {
+    errors.push(`${label}: semicolon is not allowed in generated fields.`)
+  }
+
+  const bannedHit = bannedTerms.find((term) => hasTerm(generatedText, term))
+
+  if (bannedHit) {
+    errors.push(`${label}: banned generated term found: "${bannedHit}".`)
+  }
+
+  const vagueHit = vagueTerms.find((term) => hasTerm(generatedText, term))
 
   if (vagueHit) {
     errors.push(`${label}: vague generated language found: "${vagueHit}".`)
