@@ -1,14 +1,7 @@
 export type Category = 'time' | 'identity' | 'system' | 'money' | 'fear' | 'design' | 'creativity' | 'environment'
 export type Status = 'unused' | 'recorded' | 'published'
 export type IdeaMode = 'raw' | 'structure'
-export type Format =
-  | 'green-screen'
-  | 'yap'
-  | 'quick-hits'
-  | 'vlog'
-  | 'carousel-dump'
-  | 'produced-carousel'
-  | 'text-post'
+export type Format = 'green-screen' | 'yap' | 'quick-hits' | 'vlog' | 'carousel-dump' | 'produced-carousel' | 'text-post'
 
 export interface BigIdea {
   truth: string

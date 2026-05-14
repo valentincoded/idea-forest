@@ -2,18 +2,8 @@
   {
     "id": "001",
     "mode": "structure",
-    "source": "Within the first 1.7 to 3 seconds of a video, a viewer determines if a creator \"sees\" them. This immediate self-identification is the prerequisite for engagement in a crowded market.",
-    "hook": "People stop when the video sees them.",
-    "angles": [
-      "Diagnosis: People do not stay for information first. They stay when the first seconds prove the creator can name their private state.",
-      "Content angle: Open with the feeling before the topic. Recognition comes before teaching.",
-      "Video use: Start with one still frame and one line of text. Let the viewer feel caught before you speak."
-    ],
-    "presentation": [
-      "Use a calm first frame, not a loud pattern interrupt.",
-      "Put the private feeling on screen before any explanation.",
-      "Keep the first sentence under seven words."
-    ],
+    "title": "recognition before teaching",
+    "overview": "Within the first few seconds of a video, a viewer decides whether the creator can see them. This is not about information quality or production value. The prerequisite for engagement is the feeling of being recognized before being taught.",
     "bigIdea": {
       "truth": "The first seconds do not sell the topic. They prove the creator can see the viewer.",
       "idea": "Recognition is the hook before the hook.",
@@ -24,25 +14,25 @@
         "First Frame Proof"
       ]
     },
-    "close": "Recognition is the hook before the hook.",
+    "angles": [
+      {
+        "spoken": "People don't stay for information. They stay when you name what they already feel.",
+        "text": "The first line of your video has one job: prove you can see the person watching."
+      },
+      {
+        "spoken": "You're teaching before they've recognized themselves in you.",
+        "text": "Recognition comes before the lesson. If the opening proves nothing, the idea starts too late."
+      }
+    ],
+    "formats": ["green-screen", "quick-hits"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "002",
     "mode": "structure",
-    "source": "The most potent felt truth driving the current self-improvement market is the acute anxiety surrounding \"wasted time.\" This is not merely a concern for productivity but an existential fear of temporal loss and the irreversible nature of the \"unlived life\".",
-    "hook": "Wasted time is not a productivity problem.",
-    "angles": [
-      "Diagnosis: The fear is not a messy calendar. The fear is life passing while the person keeps acting normal.",
-      "Content angle: Show an ordinary Tuesday and make the cost visible. Do not give tips yet.",
-      "Video use: Film routine footage that feels too familiar. Let the text say what the routine hides."
-    ],
-    "presentation": [
-      "Open on a normal Tuesday, not a dramatic failure.",
-      "Use clocks, commutes, tabs, and late-night scrolling as proof.",
-      "End with the question the viewer has avoided."
-    ],
+    "title": "wasted time as existential fear",
+    "overview": "The anxiety underneath productivity content is not about calendars or efficiency. People fear that time is passing while they remain unchanged, and that the life they intended to live is becoming the life they did not.",
     "bigIdea": {
       "truth": "People call it procrastination because that sounds easier than admitting time is moving.",
       "idea": "The fear underneath wasted time is the unlived life.",
@@ -53,25 +43,25 @@
         "Normal Life Drift"
       ]
     },
-    "close": "The calendar is not the fear. The life behind it is.",
+    "angles": [
+      {
+        "spoken": "It's not a productivity problem. It's fear that your actual life is passing.",
+        "text": "Wasted time doesn't feel like a missed task. It feels like a version of yourself you'll never meet."
+      },
+      {
+        "spoken": "The calendar looks full. The life behind it is the part they're not counting.",
+        "text": "Busy is not the problem. The real fear is ordinary days becoming the whole story."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "003",
     "mode": "structure",
-    "source": "A significant emerging theme in 2025 is the \"Competence Inversion,\" where AI's ability to outperform humans in execution tasks leads to a crisis of professional identity. The felt truth here is that traditional job titles have become \"meaningless,\" and one's value lies solely in \"agency\" and \"vision\" rather than specific technical skills.",
-    "hook": "Your job title stopped describing you.",
-    "angles": [
-      "Diagnosis: The identity crisis starts when the skill that made someone valuable becomes easy for a machine to copy.",
-      "Content angle: Show the old identity badge first. Then show the part of the person the badge never measured.",
-      "Video use: Use a split screen. Left side is the job title. Right side is taste, judgment, and direction."
-    ],
-    "presentation": [
-      "Open with a profession that used to feel stable.",
-      "Avoid doom language. Make the loss of status visible without panic.",
-      "End on the question of what still belongs to the human."
-    ],
+    "title": "job title identity collapse",
+    "overview": "As AI handles execution tasks, the skills that once made people professionally valuable become automatable. The crisis is not just about employment. It is about identity: the title that once described the person no longer does.",
     "bigIdea": {
       "truth": "A title feels safe until the market stops needing the task behind it.",
       "idea": "The title was never the whole person.",
@@ -82,25 +72,25 @@
         "Beyond The Title"
       ]
     },
-    "close": "The title was smaller than the person wearing it.",
+    "angles": [
+      {
+        "spoken": "Your job title describes what you did. Not what you are.",
+        "text": "When the task becomes automatable, the badge stops being proof of anything."
+      },
+      {
+        "spoken": "AI didn't steal your identity. Your title was just too small to hold it.",
+        "text": "The person was always more than the role. The role just had distribution."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "004",
     "mode": "structure",
-    "source": "The \"Spotlight Effect\" drives a profound engagement with content that offers permission to be \"different\". The felt truth is that \"no one really cares,\" yet most individuals live in a state of self-imposed isolation or fake their identity to belong.",
-    "hook": "People fake normal because they feel watched.",
-    "angles": [
-      "Diagnosis: The person is not trapped by the crowd. The person is trapped by the imagined crowd.",
-      "Content angle: Show the difference between being judged and rehearsing judgment alone in your head.",
-      "Video use: Film someone editing themselves before leaving the house. The text names the invisible audience."
-    ],
-    "presentation": [
-      "Use a mirror shot or a phone camera preview.",
-      "Make the invisible audience feel physical.",
-      "Keep the ending quiet. The point is relief, not rebellion."
-    ],
+    "title": "imagined audience edits first",
+    "overview": "The Spotlight Effect describes people modifying their behavior not in response to actual judgment but in response to an imagined crowd. Most conformity happens in private, before anyone external has said anything.",
     "bigIdea": {
       "truth": "Most conformity happens before anyone says anything.",
       "idea": "The imagined audience edits the person before the world gets a vote.",
@@ -111,25 +101,25 @@
         "The Invisible Audience"
       ]
     },
-    "close": "Most conformity happens before anyone says anything.",
+    "angles": [
+      {
+        "spoken": "You're not performing for people. You're performing for people you invented.",
+        "text": "The audience you're afraid of has never said a word. You cast them and gave them the script."
+      },
+      {
+        "spoken": "The editing happens before you leave the room.",
+        "text": "Conformity doesn't require a crowd. The imagined one is enough to do the job."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "005",
     "mode": "structure",
-    "source": "There is a growing shift toward a gentler, more soul-nourishing approach to ambition. The felt truth here is that \"speed dominates, but slowness is a form of care\". Substack has become the year of the newsletter, offering space for vulnerable, searching, opinionated communication that is not shaped by algorithms.",
-    "hook": "Fast content made people tired.",
-    "angles": [
-      "Diagnosis: The exhaustion comes from being trained to perform clarity before the thought has finished forming.",
-      "Content angle: Contrast a fast feed with a slower note that gives the idea room to breathe.",
-      "Video use: Use typing, paper, a walk, or a quiet desktop. Make pace the visual argument."
-    ],
-    "presentation": [
-      "Open with fast cuts, then remove them.",
-      "Let silence become the pattern interrupt.",
-      "Use one sentence per frame so the viewer slows down with you."
-    ],
+    "title": "fast content exhaustion",
+    "overview": "The demand for constant visible clarity has trained creators to perform conclusions before their thinking finishes forming. The exhaustion comes not from volume but from being forced to perform a finished thought before the thought is ready.",
     "bigIdea": {
       "truth": "People are tired because the feed asks every thought to perform before it matures.",
       "idea": "Slowness is not lack of ambition. Slowness protects the thought.",
@@ -140,25 +130,25 @@
         "The Quiet Format"
       ]
     },
-    "close": "The thought needs air before it becomes content.",
+    "angles": [
+      {
+        "spoken": "Fast content made people tired. Not because of the pace. Because of the performance.",
+        "text": "You can't think and perform thinking at the same time. The feed demands the second before you've done the first."
+      },
+      {
+        "spoken": "Slowness is not low ambition. It's the condition for an actual thought.",
+        "text": "The content that takes longer to write is usually the one that lands. The feed punishes the process."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "006",
     "mode": "structure",
-    "source": "The final core felt truth is that \"success is the sum of small, repeated actions\". The engagement with habit trackers and 30-day challenges stems from the brain's commitment and consistency bias. This focus on the habitual self represents a shift toward \"Agency Design\".",
-    "hook": "Willpower fails when the system is wrong.",
-    "angles": [
-      "Diagnosis: People blame themselves for patterns that their daily setup keeps reinstalling.",
-      "Content angle: Show the same person in two rooms. Same intention. Different default.",
-      "Video use: Film one small environmental change and show how it removes a decision."
-    ],
-    "presentation": [
-      "Open with the repeated failure, not the solution.",
-      "Show the default that creates the behavior.",
-      "Make the system visible before giving any advice."
-    ],
+    "title": "default reinstalls the pattern",
+    "overview": "People blame themselves for recurring behaviors when the daily environment keeps reinstalling those behaviors. The pattern is not a character flaw. It is a design output. Change the default and the behavior follows.",
     "bigIdea": {
       "truth": "The repeated pattern is not random. The setup keeps reinstalling it.",
       "idea": "Agency starts when the default changes.",
@@ -169,25 +159,25 @@
         "Agency Design"
       ]
     },
-    "close": "The setup keeps reinstalling the pattern.",
+    "angles": [
+      {
+        "spoken": "You keep failing the same way because the setup keeps producing that failure.",
+        "text": "Willpower fights the setup and loses. The setup wins every time until you change the setup."
+      },
+      {
+        "spoken": "The pattern isn't a character flaw. It's the default running.",
+        "text": "Same room, same triggers, same result. The person isn't broken. The design is producing the expected output."
+      }
+    ],
+    "formats": ["green-screen", "produced-carousel"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "007",
     "mode": "structure",
-    "source": "The primary drivers of engagement are no longer the objective utility of information or the credentials of the speaker, but the degree to which content resonates as a \"felt truth.\" These felt truths are claims grounded in lived experience and affective judgment rather than rational consensus.",
-    "hook": "The viewer trusts the feeling first.",
-    "angles": [
-      "Diagnosis: People accept the claim when it matches the state they already live in.",
-      "Content angle: Start with the private feeling, then show the idea sitting underneath it.",
-      "Video use: Put the felt line on screen first. Use the explanation only after the viewer recognizes themselves."
-    ],
-    "presentation": [
-      "Open with the line the viewer already feels but has not named.",
-      "Avoid proving too early. Let recognition do the first job.",
-      "Use the source as a filter for hooks. If it does not name a felt state, cut it."
-    ],
+    "title": "felt truth beats useful information",
+    "overview": "Engagement is driven not by information quality or credentials but by whether content matches a state the viewer already lives in. People accept the claim when it names something they have been feeling but could not articulate.",
     "bigIdea": {
       "truth": "People do not need the creator to sound correct first. They need the creator to name the thing they already feel.",
       "idea": "Felt truth beats useful information at the opening.",
@@ -198,25 +188,25 @@
         "Recognition Before Proof"
       ]
     },
-    "close": "The feeling opens the door before the argument arrives.",
+    "angles": [
+      {
+        "spoken": "Credentials don't open people. Naming what they already feel does.",
+        "text": "The creator who teaches first loses to the creator who recognizes first. The feeling opens the door."
+      },
+      {
+        "spoken": "Stop proving you're right. Start proving you can see them.",
+        "text": "The felt truth lands before the argument. If the opening doesn't name a real state, the content starts at a deficit."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "008",
     "mode": "structure",
-    "source": "Mark Manson's \"Backwards Law\" suggests that the pursuit of positive experiences is itself a negative experience, whereas the acceptance of negative experiences is a positive experience. This resonates because it matches the \"feeling brain's\" subjective reality over the \"thinking brain's\" logical optimism.",
-    "hook": "Pain content works when it stops lying.",
-    "angles": [
-      "Diagnosis: People are tired of content that treats discomfort like a bug. The relief comes when pain gets named as part of the system.",
-      "Content angle: Contrast fake positivity with the exact feeling people actually wake up with.",
-      "Video use: Open on the uncomfortable state. Do not resolve it too quickly."
-    ],
-    "presentation": [
-      "Use plain footage of an unglamorous moment.",
-      "Let the first line disagree with forced optimism.",
-      "End with acceptance, not a motivational lift."
-    ],
+    "title": "pain is not proof of failure",
+    "overview": "Mark Manson's Backwards Law argues that the pursuit of positive experience is itself a negative experience. Content that acknowledges discomfort as part of the system earns trust that forced optimism cannot. The audience recognizes the creator who stops pretending pain is a bug.",
     "bigIdea": {
       "truth": "The audience trusts the creator who stops pretending pain means something went wrong.",
       "idea": "Pain is not a glitch in the design.",
@@ -227,25 +217,25 @@
         "The Broken Optimism Loop"
       ]
     },
-    "close": "Pain is not proof the system failed.",
+    "angles": [
+      {
+        "spoken": "You don't trust the people who seem fine all the time. Neither does your audience.",
+        "text": "Forced optimism is readable. The person who names the discomfort as real gets the trust the positive poster never does."
+      },
+      {
+        "spoken": "Pain doesn't mean the system failed. It means the system is real.",
+        "text": "Content that treats discomfort as a detour loses everyone who already knows better."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "009",
     "mode": "structure",
-    "source": "The minimalism movement, led by Matt D'Avella, addresses the felt truth that \"having more won't make you happier\". The 30-day experiment acts as a narrative device where the creator becomes the test subject for a lifestyle change.",
-    "hook": "More stuff stops working fast.",
-    "angles": [
-      "Diagnosis: The purchase solves the feeling for a minute. Then the same person returns in a fuller room.",
-      "Content angle: Show the moment after the object arrives, not the purchase itself.",
-      "Video use: Use a clean before and after, then make the second after visible when the emotional high fades."
-    ],
-    "presentation": [
-      "Open with the object that was supposed to fix the feeling.",
-      "Use the room as evidence.",
-      "Make the experiment personal instead of preachy."
-    ],
+    "title": "purchase solves feeling not problem",
+    "overview": "Matt D'Avella's minimalism content diagnoses the purchase cycle: people buy relief and interpret it as change. The room fills up. The emotional state returns. The purchase was never addressing the actual discomfort.",
     "bigIdea": {
       "truth": "People buy relief and mistake it for change.",
       "idea": "The room fills up before the life changes.",
@@ -256,25 +246,25 @@
         "The After After"
       ]
     },
-    "close": "The room changed. The loop stayed.",
+    "angles": [
+      {
+        "spoken": "The object arrived. The feeling it was supposed to fix came back two days later.",
+        "text": "You didn't buy the thing. You bought the feeling the thing was supposed to produce. The room has proof that it didn't work."
+      },
+      {
+        "spoken": "More stuff is not a solution. It's evidence of what the real problem is.",
+        "text": "The purchase addresses the symptom for a few hours. Then the person is back. In a fuller room."
+      }
+    ],
+    "formats": ["quick-hits", "green-screen"],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "010",
     "mode": "structure",
-    "source": "The highest engagement in deep psychological content comes from the recognition of \"Schemas\". These are deeply held emotional beliefs that are not conscious thoughts but \"felt truths\" that shape perception. Themes like \"I don't matter\" or \"People will leave me\" explain why people stay in bad relationships or feel like imposter syndrome is a literal part of their identity.",
-    "hook": "Old beliefs live below logic.",
-    "angles": [
-      "Diagnosis: Some beliefs do not feel like thoughts. They feel like the room you are standing in.",
-      "Content angle: Show a person reacting to the present from an old emotional rule.",
-      "Video use: Use two layers of text. One names what happened. The second names what the body heard."
-    ],
-    "presentation": [
-      "Open with a small event that creates a huge reaction.",
-      "Do not blame the person for the reaction.",
-      "Show the old rule running under the new moment."
-    ],
+    "title": "old beliefs run the new room",
+    "overview": "Schemas are not conscious thoughts. They are emotional rules laid down early that continue interpreting present events as if the old context is still true. People stay in broken patterns not from irrationality but because the rule running the pattern feels like reality itself.",
     "bigIdea": {
       "truth": "People repeat patterns because old beliefs feel like reality, not opinion.",
       "idea": "The old rule keeps interpreting the new room.",
@@ -285,25 +275,25 @@
         "The Room Belief"
       ]
     },
-    "close": "The old rule keeps reading the new room.",
+    "angles": [
+      {
+        "spoken": "The reaction isn't about what just happened. It's about something much older.",
+        "text": "Old beliefs don't feel like beliefs. They feel like the room you're standing in. That's why logic doesn't reach them."
+      },
+      {
+        "spoken": "You're not responding to the present. You're responding to the pattern.",
+        "text": "The same rule that ran in the past is still interpreting the new situation. It's not a character flaw. It's a loop."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "011",
     "mode": "structure",
-    "source": "Financial advice in the self-improvement space has shifted from \"wealth building\" to \"escaping the 9-5.\" This is a felt truth that \"jobs aren't secure\" and that \"golden handcuffs\" are a real form of incarceration.",
-    "hook": "Money content is escape content.",
-    "angles": [
-      "Diagnosis: The money obsession is not only about wanting more. It is about wanting the right to leave.",
-      "Content angle: Show the difference between wanting wealth and wanting control over a Tuesday.",
-      "Video use: Use a paycheck, a calendar, and one blocked-off morning as the visual contrast."
-    ],
-    "presentation": [
-      "Open with the moment money stops feeling like numbers.",
-      "Avoid luxury visuals. Show trapped time instead.",
-      "End on autonomy, not income."
-    ],
+    "title": "money content is escape content",
+    "overview": "The financial self-improvement market is not primarily about wealth accumulation. The felt truth underneath it is about control over time. People pursue financial freedom because the calendar belongs to someone else, and the real subject is getting it back.",
     "bigIdea": {
       "truth": "People talk about money when the real subject is control over time.",
       "idea": "The paycheck matters because the calendar belongs to someone else.",
@@ -314,54 +304,54 @@
         "Paycheck Permission"
       ]
     },
-    "close": "The money mattered because the calendar was not yours.",
+    "angles": [
+      {
+        "spoken": "Nobody actually wants the money. They want the Tuesday.",
+        "text": "Financial freedom is not about the number. It's about the first morning you don't need permission to use your own time."
+      },
+      {
+        "spoken": "The income goal is a time goal in disguise.",
+        "text": "Show the calendar, not the account balance. The real fear is who owns the next ten years."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "012",
     "mode": "structure",
-    "source": "In an era of ubiquitous AI-generated imagery, there is a need for a little imperfection. The felt truth is that \"flawless is fake,\" and engagement is moving toward content that is tangible, raw, and edgy.",
-    "hook": "Perfect content feels dead now.",
-    "angles": [
-      "Diagnosis: The feed got too clean. People now read small imperfections as proof that a human is still there.",
-      "Content angle: Compare a polished setup with a real one that has texture, noise, and a visible hand.",
-      "Video use: Leave one imperfect detail in frame. Let it do trust work."
-    ],
-    "presentation": [
-      "Open with something too polished, then break the surface.",
-      "Use real texture, room noise, hands, paper, or a car shot.",
-      "Do not overproduce the moment that proves it is human."
-    ],
+    "title": "imperfection as proof of life",
+    "overview": "In a feed saturated with AI-generated polish, small visual or human imperfections now function as trust signals. The crack in the perfect surface tells the viewer a human is still present. This is not aesthetics. It is an authenticity mechanism.",
     "bigIdea": {
       "truth": "People trust the crack because the perfect surface now belongs to machines.",
       "idea": "Imperfection has become proof of life.",
-      "bridge": "This supports rawer visual choices without turning mess into a brand costume.",
+      "bridge": "This supports rawer visual choices without turning mess into a fake tactic.",
       "names": [
         "Proof Of Life",
         "The Human Crack",
         "Imperfect Trust"
       ]
     },
-    "close": "The crack tells people a human is still there.",
+    "angles": [
+      {
+        "spoken": "Perfect content doesn't feel human anymore. The crack is where trust lives.",
+        "text": "When machines can produce flawless output on demand, small human errors become the only signal that differentiates."
+      },
+      {
+        "spoken": "The stumble, the pause, the real background. That's what they're looking for.",
+        "text": "Polished is now suspicious. One visible imperfection tells the viewer something that an hour of production cannot."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "013",
     "mode": "structure",
-    "source": "Lifemaxxing is the flagship trend of 2026, representing a commitment to living life deeply and authentically. It represents a shift away from maximizing output toward living life to the fullest.",
-    "hook": "Life became the thing to optimize.",
-    "angles": [
-      "Diagnosis: People got tired of treating life like a performance report. The new proof is that they are actually living.",
-      "Content angle: Show the difference between a productive day and a day that makes someone want their life back.",
-      "Video use: Use real daily footage. Let ordinary moments carry more status than achievement clips."
-    ],
-    "presentation": [
-      "Open with a normal moment that feels more alive than a win.",
-      "Use fewer metrics and more texture.",
-      "Make the viewer feel the difference between output and aliveness."
-    ],
+    "title": "lifemaxxing as the main project",
+    "overview": "Lifemaxxing is the shift from optimizing output to optimizing experience. People stopped wanting a better scorecard. They want proof that life is happening while they are inside it. The metric is aliveness, not productivity.",
     "bigIdea": {
       "truth": "People stopped wanting a better scorecard. They want proof that life is happening while they are here.",
       "idea": "Lifemaxxing turns living itself into the main project.",
@@ -372,25 +362,25 @@
         "The Aliveness Test"
       ]
     },
-    "close": "The day worked if you wanted to be inside it.",
+    "angles": [
+      {
+        "spoken": "A productive day and a day worth living are not the same thing.",
+        "text": "Lifemaxxing is not anti-ambition. It's the refusal to keep treating your own life as a performance report."
+      },
+      {
+        "spoken": "You optimized your output. You forgot to optimize being there for it.",
+        "text": "The question shifted from 'how much did I get done' to 'did I want to be inside today.' Most people can't say yes."
+      }
+    ],
+    "formats": ["vlog", "text-post"],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "014",
     "mode": "structure",
-    "source": "Freedommaxxing focuses on reclaiming personal agency and making unconventional choices. The \"Maybe in another life\" trend uses the response \"No, this one\" to reject delayed hope and choose the current life.",
-    "hook": "No, this one.",
-    "angles": [
-      "Diagnosis: The line works because it kills the fantasy that the real life comes later.",
-      "Content angle: Show the exact moment someone stops outsourcing desire to a future version of themselves.",
-      "Video use: Start with aspirational footage and the delayed-life text from the source. Cut to \"No, this one.\""
-    ],
-    "presentation": [
-      "Use one clear action that looks like a life choice.",
-      "Make the first text feel like resignation.",
-      "Make the second text feel final."
-    ],
+    "title": "no this one",
+    "overview": "Freedommaxxing describes the refusal to keep postponing desire to another version of yourself in a different timeline. The phrase 'No, this one' is a response to delayed life and a claim that the current life is where agency happens.",
     "bigIdea": {
       "truth": "People delay desire by pretending the right life belongs to another timeline.",
       "idea": "Freedommaxxing is the refusal to postpone the life you keep imagining.",
@@ -401,25 +391,25 @@
         "The Timeline Refusal"
       ]
     },
-    "close": "The other life was a delay tactic.",
+    "angles": [
+      {
+        "spoken": "The other life isn't coming. You're building it or you're not.",
+        "text": "People delay agency by placing it in a future self who will finally be ready. That self is a fiction used to avoid this one."
+      },
+      {
+        "spoken": "Stop saving the real version of yourself for later.",
+        "text": "The fantasy of a better timeline is not a plan. It is the thing you do instead of choosing this one."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "015",
     "mode": "structure",
-    "source": "Whimsymaxxing is a reaction against digital sterility and aesthetic conformity. It fills spaces with vibrant colors, quirky furniture, and items that spark joy. Dopamine decor reframes aesthetic choices as an act of autonomy.",
-    "hook": "Whimsymaxxing makes taste disobey.",
-    "angles": [
-      "Diagnosis: The strange object is not childish. It is proof that the person stopped asking the correct room for permission.",
-      "Content angle: Use one playful object as the whole argument. The banana lamp carries the philosophy.",
-      "Video use: Open on the weird detail before showing the room. Let the object explain the person."
-    ],
-    "presentation": [
-      "Use one object with strong shape or color.",
-      "Do not explain the aesthetic too much.",
-      "Let the room feel personal before it feels designed."
-    ],
+    "title": "taste as disobedience",
+    "overview": "Whimsymaxxing is the aesthetic refusal to decorate for an imagined correct audience. The strange object, the odd color choice, the room that does not fit the expected template is not childishness. It is proof that the person stopped asking for permission from a standard they did not choose.",
     "bigIdea": {
       "truth": "The correct room became another place to hide.",
       "idea": "Whimsymaxxing gives taste permission to be personal again.",
@@ -430,25 +420,25 @@
         "Personal Taste Proof"
       ]
     },
-    "close": "The room stopped asking to be correct.",
+    "angles": [
+      {
+        "spoken": "The weird object in your space is not a design mistake. It's a decision.",
+        "text": "Choosing what doesn't match means you stopped asking the room to approve of you."
+      },
+      {
+        "spoken": "Your taste is either yours or it's borrowed. The room shows which.",
+        "text": "A space that looks 'correct' is a space designed for someone else's approval. Whimsymaxxing is the refusal."
+      }
+    ],
+    "formats": ["quick-hits", "carousel-dump"],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "016",
     "mode": "structure",
-    "source": "Sleepmaxxing uses cozy, textured bedrooms and the hook \"Rest as a revolutionary act.\" The trend treats rest as part of power rather than a break from it.",
-    "hook": "Rest became status.",
-    "angles": [
-      "Diagnosis: The flex changed because exhaustion stopped looking impressive.",
-      "Content angle: Show the bedroom as a decision, not a lifestyle prop.",
-      "Video use: Use texture, low light, clean sheets, and a phone placed away from the bed."
-    ],
-    "presentation": [
-      "Open with a room that looks protected.",
-      "Avoid sleepy luxury language.",
-      "Frame rest as control over the system, not escape from work."
-    ],
+    "title": "rest as self-command",
+    "overview": "Sleepmaxxing repositions rest as visible self-command rather than a break from productivity. The person who protects their nervous system signals something that the person performing exhaustion cannot: they are in control of their own energy.",
     "bigIdea": {
       "truth": "People trust the person who protects their nervous system more than the person performing exhaustion.",
       "idea": "Sleepmaxxing turns rest into visible self-command.",
@@ -459,25 +449,25 @@
         "The Rest Signal"
       ]
     },
-    "close": "Exhaustion stopped looking impressive.",
+    "angles": [
+      {
+        "spoken": "Exhaustion stopped being impressive. Rest became the flex.",
+        "text": "The person who protects their sleep is signaling something the grinder cannot: they decide how their energy gets spent."
+      },
+      {
+        "spoken": "Rest is not earned at the end. It's part of what makes the work possible.",
+        "text": "Treating rest as something you earn keeps the body in a debt cycle. The body can't perform from deficit forever."
+      }
+    ],
+    "formats": ["quick-hits", "text-post"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "017",
     "mode": "structure",
-    "source": "Pattern interrupts in philosophical content are often subtle and sensory rather than loud. ASMR hooks use typing sounds, page flipping, or mouse clicks. The Silence Hook opens with stillness or a steady gaze to signal a break from the noise.",
-    "hook": "Silence is the pattern interrupt now.",
-    "angles": [
-      "Diagnosis: Loud hooks blend into a loud feed. Quiet works because it breaks the expected noise pattern.",
-      "Content angle: Make the absence of motion feel intentional instead of empty.",
-      "Video use: Open with silence, a page turn, a cursor click, or a steady look before the first line appears."
-    ],
-    "presentation": [
-      "Use one sensory sound before speech.",
-      "Let the first second feel slower than the feed around it.",
-      "Do not stack too many effects."
-    ],
+    "title": "quiet as pattern interrupt",
+    "overview": "In a feed trained to expect aggressive attention capture, stillness and quiet function as pattern interrupts. A silent opening, a typing sound, or a steady gaze before the first line breaks the expected noise pattern more effectively than another loud hook.",
     "bigIdea": {
       "truth": "The feed trained people to expect noise, so quiet now feels like a signal.",
       "idea": "Stillness can stop the scroll without shouting.",
@@ -488,25 +478,25 @@
         "Sensory Stop"
       ]
     },
-    "close": "Quiet works because the feed got loud.",
+    "angles": [
+      {
+        "spoken": "The loudest thing in the feed right now is silence.",
+        "text": "When every creator is shouting to interrupt, the one who opens with nothing becomes the actual interruption."
+      },
+      {
+        "spoken": "Stop competing with the noise. Become the thing that breaks it.",
+        "text": "A still frame, one ambient sound, no text for two seconds. That's enough to make a scroll stop."
+      }
+    ],
+    "formats": ["green-screen", "quick-hits"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "018",
     "mode": "structure",
-    "source": "The Everything Hallelujah pattern celebrates tiny productivity wins through 6 to 10 short lifestyle clips cut to a rhythmic sound. It reframes winning from large-scale success to small joyful moments of autonomy.",
-    "hook": "Small wins became the proof.",
-    "angles": [
-      "Diagnosis: People stopped trusting huge transformations. Tiny visible wins feel more believable because they already know that scale of life.",
-      "Content angle: Show six small moments that prove the day belongs to the person again.",
-      "Video use: Cut short clips to rhythm. Use captions like calendar empty, fresh sheets, clean desk, walk outside."
-    ],
-    "presentation": [
-      "Use 6 to 10 clips with clear sensory detail.",
-      "Keep the captions concrete.",
-      "Make the sequence feel like a life returning, not a productivity montage."
-    ],
+    "title": "small wins as proof of return",
+    "overview": "The Everything Hallelujah pattern reframes winning from large transformation to small visible moments of daily autonomy. People believe in change when they can see it at the scale of the day, not the scale of the year.",
     "bigIdea": {
       "truth": "People believe a life changed when they can see the small parts working again.",
       "idea": "Tiny autonomy beats dramatic transformation on camera.",
@@ -517,25 +507,25 @@
         "The Day Comes Back"
       ]
     },
-    "close": "The small parts prove the life is coming back.",
+    "angles": [
+      {
+        "spoken": "Nobody believes the dramatic transformation. They believe the clean desk and the walk.",
+        "text": "Small wins are credible because the viewer already knows what that scale of life feels like. Big wins ask them to imagine."
+      },
+      {
+        "spoken": "The day came back in small pieces. That's what the proof looks like.",
+        "text": "Six specific moments that feel like ownership. Not a before and after. Just the ordinary day finally going right."
+      }
+    ],
+    "formats": ["quick-hits", "carousel-dump"],
     "category": "design",
     "status": "unused"
   },
   {
     "id": "019",
     "mode": "structure",
-    "source": "The Wabi-sabi imperfection contrast shows \"This one's perfect\" versus \"I like this one,\" then reveals the crooked, real, and more loved version. It challenges perfection culture.",
-    "hook": "Perfect lost to loved.",
-    "angles": [
-      "Diagnosis: People do not always want the flawless version. They want the one that feels lived with.",
-      "Content angle: Show two versions of the same thing. One is correct. One has a pulse.",
-      "Video use: Use the text \"This one's perfect\" on the staged version and \"I like this one\" on the real version."
-    ],
-    "presentation": [
-      "Use a clean side-by-side contrast.",
-      "Let the imperfect version win visually.",
-      "Keep the caption short so the viewer feels the preference before explaining it."
-    ],
+    "title": "perfect versus loved",
+    "overview": "The Wabi-sabi contrast reveals that people often prefer the version that has been lived with over the version that performs correctness. Perfect asks for approval. The crooked, real version asks for recognition.",
     "bigIdea": {
       "truth": "Perfect asks for approval. Loved asks for recognition.",
       "idea": "The crooked version carries more life.",
@@ -546,25 +536,25 @@
         "Loved Over Flawless"
       ]
     },
-    "close": "The real version has a pulse.",
+    "angles": [
+      {
+        "spoken": "The one with the chip in it is the one you actually reach for.",
+        "text": "Perfect performs for an imagined audience. Loved just exists. They are not competing for the same thing."
+      },
+      {
+        "spoken": "One was made for approval. The other was made for you.",
+        "text": "The flawless version is for the imagined audience. The worn one is for the person actually living here."
+      }
+    ],
+    "formats": ["quick-hits", "produced-carousel"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "020",
     "mode": "structure",
-    "source": "The Sunshine Boy trend captures the transition from internal winter to summer. It reframes personal growth as a cyclical, seasonal process rather than a linear grind.",
-    "hook": "Growth has seasons.",
-    "angles": [
-      "Diagnosis: People panic when growth goes quiet because they expect change to move in a straight line.",
-      "Content angle: Show winter footage as part of the change, not the failure before it.",
-      "Video use: Use a cold-to-warm transition. Let the same person appear in both seasons."
-    ],
-    "presentation": [
-      "Start with stillness, low energy, or repetition.",
-      "Move into sunlight without forcing a victory scene.",
-      "Let the contrast show timing, not personal failure."
-    ],
+    "title": "internal winter as growth",
+    "overview": "The Sunshine Boy trend reframes quiet or low-energy periods as part of the change cycle, not as failure. People panic when growth goes quiet because they expect it to move in a straight visible line. The silent period is the system resetting.",
     "bigIdea": {
       "truth": "Quiet periods look like nothing from the outside while the system is resetting underneath.",
       "idea": "Internal winter is still part of growth.",
@@ -575,25 +565,25 @@
         "The Sunshine Shift"
       ]
     },
-    "close": "Winter was not proof nothing was happening.",
+    "angles": [
+      {
+        "spoken": "The quiet period isn't stagnation. You just can't see what's happening from outside.",
+        "text": "Growth doesn't always produce visible evidence. The reset underneath looks like nothing, and that's exactly what it's supposed to look like."
+      },
+      {
+        "spoken": "Winter is part of the sequence. Not proof the sequence stopped.",
+        "text": "People interpret low-output seasons as failure because progress culture only recognizes the visible kind."
+      }
+    ],
+    "formats": ["vlog", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "021",
     "mode": "structure",
-    "source": "A viral reframe in the creative autonomy niche describes a business or partnership as front of house and back of house. One person is the charismatic host, and the other is the exacting chef.",
-    "hook": "Not everyone belongs on stage.",
-    "angles": [
-      "Diagnosis: Some creators feel broken because they confuse visibility with value.",
-      "Content angle: Show two roles that both create the outcome. The host is visible. The chef makes the room work.",
-      "Video use: Use restaurant footage or a simple split between face work and hand work."
-    ],
-    "presentation": [
-      "Open with the pressure to be the face.",
-      "Show the invisible role as valuable, not secondary.",
-      "Make the metaphor physical with front room and kitchen visuals."
-    ],
+    "title": "back of house creator",
+    "overview": "Not all valuable roles in a creative operation require being on stage. The front-of-house and back-of-house model shows that the invisible role creates the outcome just as much as the visible one, and some people create more value from behind the frame.",
     "bigIdea": {
       "truth": "Visibility is only one role in the machine.",
       "idea": "Some people create value from the back of house.",
@@ -604,25 +594,25 @@
         "The Kitchen Role"
       ]
     },
-    "close": "The invisible role still feeds the room.",
+    "angles": [
+      {
+        "spoken": "Not everyone who builds the thing should be the face of it.",
+        "text": "Confusing visibility with value keeps skilled people stuck performing a role that isn't where their actual strength is."
+      },
+      {
+        "spoken": "The chef doesn't work the room. The room doesn't eat without the chef.",
+        "text": "Some creators delay for years because they assume the front is the only place where the work counts."
+      }
+    ],
+    "formats": ["text-post", "produced-carousel"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "022",
     "mode": "structure",
-    "source": "The Full-Time Habit, Not Full-Time Job reframe addresses finite time. It argues that the answer is not less work, but better work that builds community and authority.",
-    "hook": "The habit matters more than the job.",
-    "angles": [
-      "Diagnosis: People treat the dream like a future job when it first needs to become a repeated behavior.",
-      "Content angle: Show the same daily act compounding before it becomes a business, audience, or identity.",
-      "Video use: Use a calendar or repeated desk shot. Let repetition become the proof."
-    ],
-    "presentation": [
-      "Open with the gap between wanting the life and repeating the behavior.",
-      "Show one small habit across several days.",
-      "End before the big result. The point is the install."
-    ],
+    "title": "full-time habit before full-time job",
+    "overview": "The dream life does not begin as a business. It begins as a repeated behavior installed before the identity catches up. A full-time habit is the precondition for a full-time thing.",
     "bigIdea": {
       "truth": "The new life starts as a repeated behavior before it becomes a full-time thing.",
       "idea": "A full-time habit comes before a full-time job.",
@@ -633,25 +623,25 @@
         "Behavior Before Business"
       ]
     },
-    "close": "The life starts before it becomes full time.",
+    "angles": [
+      {
+        "spoken": "The business comes after the behavior is already installed.",
+        "text": "People wait for permission to start the life. The life starts in a repeated daily act before anyone notices."
+      },
+      {
+        "spoken": "You can't have the full-time thing without the full-time habit first.",
+        "text": "The dream is a downstream result. What it actually runs on is what you do every day before it matters."
+      }
+    ],
+    "formats": ["text-post", "vlog"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "023",
     "mode": "structure",
-    "source": "Dan Koe advocates for a creator-as-niche model, where the creator's personal evolution serves as the primary value proposition.",
-    "hook": "You become the niche.",
-    "angles": [
-      "Diagnosis: People hide behind topics because it feels safer than letting their actual evolution become the signal.",
-      "Content angle: Show the person changing, then show the topic as the proof of that change.",
-      "Video use: Use old notes, old footage, and the current claim side by side."
-    ],
-    "presentation": [
-      "Open with the old version of the creator.",
-      "Show the transformation before explaining the advice.",
-      "Make the topic feel earned by the life."
-    ],
+    "title": "creator becomes the niche",
+    "overview": "Dan Koe's creator-as-niche model argues that the creator's personal evolution is the actual value proposition. A topic can be copied. A lived transformation cannot be replicated by someone who hasn't lived it.",
     "bigIdea": {
       "truth": "A topic is easy to copy. A lived transformation is not.",
       "idea": "The creator becomes the niche when the audience follows the change, not only the information.",
@@ -662,25 +652,25 @@
         "The Transformation Niche"
       ]
     },
-    "close": "The niche is the change people can trace.",
+    "angles": [
+      {
+        "spoken": "Any topic is replaceable. The person who lived through it isn't.",
+        "text": "Niching down into a topic makes you one of hundreds. Niching into your own change makes you the only version of that path."
+      },
+      {
+        "spoken": "They're not following the content. They're following the transformation.",
+        "text": "The topic is what they search for. But the reason they stay is to watch the person change in real time."
+      }
+    ],
+    "formats": ["text-post", "vlog"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "024",
     "mode": "structure",
-    "source": "Koe argues that a brand is not a collection of colors or taglines, but an environment into which an audience is invited.",
-    "hook": "A brand is a room.",
-    "angles": [
-      "Diagnosis: People reduce brand to surface choices because a real environment demands a stronger point of view.",
-      "Content angle: Ask what the audience feels allowed to think, want, and build inside the brand.",
-      "Video use: Show brand details as room details. Desk, notes, phrases, rituals, recurring beliefs."
-    ],
-    "presentation": [
-      "Open with a plain room or workspace.",
-      "Name what the room permits.",
-      "Use recurring objects as brand memory."
-    ],
+    "title": "brand as permission environment",
+    "overview": "Dan Koe's brand framework describes brand not as visual identity or taglines but as an environment that creates a specific state in the audience. The brand defines what the audience feels allowed to think, want, and build inside it.",
     "bigIdea": {
       "truth": "People do not only follow a brand. They enter a state that the brand keeps creating.",
       "idea": "Brand is the environment that makes a certain version of the audience feel possible.",
@@ -691,25 +681,25 @@
         "Audience Atmosphere"
       ]
     },
-    "close": "The room tells people who they can become.",
+    "angles": [
+      {
+        "spoken": "A brand is not a logo. It's the state your audience enters.",
+        "text": "What does your audience feel allowed to want inside your world? That's the real question behind every brand decision."
+      },
+      {
+        "spoken": "You're not building a following. You're building a room with a specific atmosphere.",
+        "text": "The audience doesn't just consume the content. They enter the environment the content keeps creating."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "025",
     "mode": "structure",
-    "source": "The 2-Hour Content Ecosystem begins with a weekly newsletter, then turns it into YouTube, X, LinkedIn, short-form clips, blog posts, and products.",
-    "hook": "One idea should feed the week.",
-    "angles": [
-      "Diagnosis: Creators burn out when every platform demands a new thought instead of a new shape for the same thought.",
-      "Content angle: Show one source idea becoming five platform-native pieces.",
-      "Video use: Screen record the idea moving from newsletter outline to post, clip, script, and product note."
-    ],
-    "presentation": [
-      "Open with one sentence in a draft.",
-      "Map each platform to a different job.",
-      "Make the system feel calm, not mechanical."
-    ],
+    "title": "one idea feeds the week",
+    "overview": "The 2-Hour Content Ecosystem begins with a single strong idea and reshapes it for every platform without inventing new thinking each time. The pressure drops when the idea stays central and only the container changes.",
     "bigIdea": {
       "truth": "The pressure drops when the idea stays central and only the container changes.",
       "idea": "A good content system gives one idea several useful lives.",
@@ -720,25 +710,25 @@
         "Container Switching"
       ]
     },
-    "close": "The idea stays. The container changes.",
+    "angles": [
+      {
+        "spoken": "You don't need a new idea every day. One idea, five shapes.",
+        "text": "Content burnout is not from posting too much. It's from treating every platform as if it requires a separate thought."
+      },
+      {
+        "spoken": "The idea stays the same. The format changes. That's the system.",
+        "text": "One strong diagnosis, one newsletter, one short, one thread, one long piece. The pressure disappears when nothing has to be invented twice."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "026",
     "mode": "structure",
-    "source": "Koe's ecosystem is recursive. Data from short-form posts informs future long-form pieces. A resonant X post becomes a newsletter, then a YouTube video.",
-    "hook": "The audience votes before the essay.",
-    "angles": [
-      "Diagnosis: The feed can become a research lab when the creator treats response as signal, not approval.",
-      "Content angle: Show a small post earning attention, then becoming the deeper piece.",
-      "Video use: Use analytics screenshots as the turning point, then cut to the longer draft."
-    ],
-    "presentation": [
-      "Start with the short post.",
-      "Show the audience signal without worshiping metrics.",
-      "Turn the winning thought into a deeper argument."
-    ],
+    "title": "audience votes before the essay",
+    "overview": "Koe's content ecosystem is recursive: short-form posts function as research tools that reveal which ideas deserve more depth. A resonant post tells the creator where to dig before committing to the longer piece.",
     "bigIdea": {
       "truth": "Short-form attention can reveal which thought deserves more depth.",
       "idea": "Recursive repurposing makes the audience part of the research loop.",
@@ -749,25 +739,25 @@
         "The Essay Vote"
       ]
     },
-    "close": "The small post tells you where to dig.",
+    "angles": [
+      {
+        "spoken": "Post the short version first. The audience tells you what deserves depth.",
+        "text": "You don't have to guess what's worth a deep piece. A single post can tell you before you write the essay."
+      },
+      {
+        "spoken": "The small post isn't the product. It's the market research.",
+        "text": "When the short idea gets attention, it's the audience marking the spot where a bigger idea should be dug."
+      }
+    ],
+    "formats": ["text-post", "produced-carousel"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "027",
     "mode": "structure",
-    "source": "Koe critiques the obsession with finding a fixed calling or passion. He argues that purpose is a byproduct of action and should be built through solving real-world problems.",
-    "hook": "Purpose comes after movement.",
-    "angles": [
-      "Diagnosis: People wait for a calling because waiting feels cleaner than choosing a problem and becoming useful.",
-      "Content angle: Contrast the person searching for purpose with the person solving one concrete problem every week.",
-      "Video use: Use a blank journal against a messy workbench. The workbench wins."
-    ],
-    "presentation": [
-      "Open with someone trying to think their way into purpose.",
-      "Move into action that creates feedback.",
-      "Let usefulness replace self-interrogation."
-    ],
+    "title": "purpose comes after movement",
+    "overview": "Dan Koe argues against waiting for a calling or fixed passion. Purpose is a byproduct of action, not the precondition for it. Solving a real-world problem creates the evidence purpose uses, while waiting for clarity produces none.",
     "bigIdea": {
       "truth": "Purpose is not found by staring inward forever. It shows up through contact with real problems.",
       "idea": "Action creates the evidence that purpose uses.",
@@ -778,25 +768,25 @@
         "The Workbench Wins"
       ]
     },
-    "close": "The work tells you what the journal cannot.",
+    "angles": [
+      {
+        "spoken": "You won't find purpose by thinking harder. You'll find it by being useful.",
+        "text": "The search for a calling is a thought experiment with no answer. Contact with a real problem gives you something to build toward."
+      },
+      {
+        "spoken": "Stop looking inward. The journal doesn't have the answer.",
+        "text": "Purpose doesn't arrive before the work. It shows up in the work after you've been at it long enough to notice the pattern."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "028",
     "mode": "structure",
-    "source": "Koe identifies four levels of purpose: survival, status, creativity, and contribution.",
-    "hook": "Purpose changes levels.",
-    "angles": [
-      "Diagnosis: People shame their current motive because they compare survival problems to contribution language.",
-      "Content angle: Show the same creator moving from escape, to reputation, to original work, to helping others.",
-      "Video use: Use a four-part visual ladder with one real behavior at each level."
-    ],
-    "presentation": [
-      "Do not make survival look lower in worth.",
-      "Show the cost and gift of each level.",
-      "End with contribution as overflow, not performance."
-    ],
+    "title": "purpose has stages not a single calling",
+    "overview": "Koe identifies four levels of purpose: survival, status, creativity, and contribution. People shame their current motive because they compare a survival-level pressure against contribution-level language. Each level asks for different content and different problems.",
     "bigIdea": {
       "truth": "The motive changes as the person gets free enough to want better problems.",
       "idea": "Purpose has stages, and each stage asks for different content.",
@@ -807,25 +797,25 @@
         "From Escape To Contribution"
       ]
     },
-    "close": "You cannot shame survival into contribution.",
+    "angles": [
+      {
+        "spoken": "You can't shame survival into contribution. They're not the same problem.",
+        "text": "Comparing your current motive to a higher stage doesn't move you up. It just makes you feel broken at the stage you're actually at."
+      },
+      {
+        "spoken": "Where you are in purpose is not where you'll always be.",
+        "text": "The person trying to escape a job they hate is not thinking about legacy. That's the right problem for where they are."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "029",
     "mode": "structure",
-    "source": "By 2026, the decline in engagement on X has forced Koe to prioritize traffic over community on the platform, directing followers to owned platforms like beehiiv.",
-    "hook": "X is traffic, not home.",
-    "angles": [
-      "Diagnosis: Creators keep trying to build a living room on a highway.",
-      "Content angle: Show the difference between discovery on the feed and trust inside an owned list.",
-      "Video use: Use a road sign for X, then cut to an inbox or private community."
-    ],
-    "presentation": [
-      "Open with declining engagement as the false panic.",
-      "Reframe the platform by job.",
-      "Make owned distribution feel like shelter, not a boring backend."
-    ],
+    "title": "platform job is traffic not home",
+    "overview": "Not every platform is designed to hold a relationship. X functions as a discovery highway. Building a living room on a highway does not work. Owned platforms like newsletters are where the relationship and trust actually live.",
     "bigIdea": {
       "truth": "Some platforms are built to pass strangers by, not hold a relationship.",
       "idea": "Use the highway for discovery and build the home somewhere you control.",
@@ -836,25 +826,25 @@
         "Owned Shelter"
       ]
     },
-    "close": "Stop decorating the highway.",
+    "angles": [
+      {
+        "spoken": "You built a living room on a highway. That's why nobody stays.",
+        "text": "The platform that found you the audience was never built to hold it. Discovery and relationship are two different infrastructure problems."
+      },
+      {
+        "spoken": "Stop decorating a road. Build something people can actually enter.",
+        "text": "Every follower gained on a platform you don't control is a relationship that depends on someone else's algorithm staying stable."
+      }
+    ],
+    "formats": ["text-post", "produced-carousel"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "030",
     "mode": "structure",
-    "source": "Nathaniel Drew's recurring concept is The Mental Game, used to explore money, hunting, sports, anxiety, and specialized activities through the same psychological lens.",
-    "hook": "Everything becomes the mental game.",
-    "angles": [
-      "Diagnosis: The subject changes, but the real conflict is still the person meeting pressure, fear, and meaning.",
-      "Content angle: Take a practical topic and reveal the psychological game underneath it.",
-      "Video use: Start with the visible activity, then cut to the inner question driving it."
-    ],
-    "presentation": [
-      "Open with a concrete scene, not a thesis.",
-      "Name the hidden pressure inside the activity.",
-      "Use the activity as evidence for the inner pattern."
-    ],
+    "title": "mental game underneath every topic",
+    "overview": "Nathaniel Drew's recurring lens treats any subject through the same psychological frame. The visible activity is the entry point. The hidden contest between the person and their own pressure is always the real story.",
     "bigIdea": {
       "truth": "Most external goals become interesting when the hidden inner contest is visible.",
       "idea": "The mental game turns any topic into a human story.",
@@ -865,25 +855,25 @@
         "Pressure Under The Topic"
       ]
     },
-    "close": "The topic is the doorway. The pressure is the story.",
+    "angles": [
+      {
+        "spoken": "The topic is the surface. The mental game underneath is what people actually came for.",
+        "text": "When you name the psychological contest inside the external activity, the content becomes about something everyone recognizes."
+      },
+      {
+        "spoken": "Money, hunting, anxiety, sport. The subject changes. The inner fight doesn't.",
+        "text": "Any topic can carry a human story if you know where to look. The visible thing is just the address."
+      }
+    ],
+    "formats": ["vlog", "green-screen"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "031",
     "mode": "structure",
-    "source": "Drew balances retention editing with breathing space, using slower pacing so the viewer can process the narrative without being overwhelmed by over-editing.",
-    "hook": "Breathing space holds attention too.",
-    "angles": [
-      "Diagnosis: Over-editing treats the viewer like attention must be dragged every second. Slower moments create trust.",
-      "Content angle: Show a cut that keeps attention by giving the idea room.",
-      "Video use: Compare a frantic edit with a slower version where ambient sound carries the scene."
-    ],
-    "presentation": [
-      "Open with a quiet shot that still has tension.",
-      "Use ambient sound as glue.",
-      "Let one thought land before the next reset."
-    ],
+    "title": "breathing space earns retention",
+    "overview": "Nathaniel Drew's editing approach uses slower pacing alongside retention cuts. Breathing space is not dead air. It is the room the viewer needs to process the previous idea before accepting the next one. Rhythm earns trust.",
     "bigIdea": {
       "truth": "Attention is not only captured by speed. It is also earned by rhythm.",
       "idea": "Breathing space makes depth watchable.",
@@ -894,25 +884,25 @@
         "Rhythm Over Panic"
       ]
     },
-    "close": "Speed is not the only way to keep someone.",
+    "angles": [
+      {
+        "spoken": "Over-editing doesn't hold attention. It signals that you don't trust the idea.",
+        "text": "When you cut every pause, you cut the moment the viewer was processing what you just said."
+      },
+      {
+        "spoken": "Rhythm keeps people. Speed just exhausts them.",
+        "text": "A slower moment in a well-paced video is not a failure of retention. It is the condition for depth."
+      }
+    ],
+    "formats": ["vlog", "green-screen"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "032",
     "mode": "structure",
-    "source": "Drew treats TikTok as a discovery engine while focusing his deepest content on Substack and YouTube. Short clips act as hooks that lead toward cinematic long-form videos and paid communities.",
-    "hook": "Short clips are doors.",
-    "angles": [
-      "Diagnosis: Short-form fails when it tries to be the whole house. Its best job is to open the right door.",
-      "Content angle: Make each clip answer one search, then point toward the deeper world.",
-      "Video use: End the clip with a specific next step into the longer video or letter."
-    ],
-    "presentation": [
-      "Open with one concrete problem.",
-      "Solve enough to earn trust.",
-      "Leave a clean path into the deeper piece."
-    ],
+    "title": "short clips as entry points",
+    "overview": "Drew uses TikTok as a discovery engine whose best function is sending the right person to a deeper platform. Short-form fails when it tries to be the whole relationship. Its actual job is to open the right door.",
     "bigIdea": {
       "truth": "Discovery content works when it sends the right person to the deeper room.",
       "idea": "Short clips are entry points, not the full relationship.",
@@ -923,25 +913,25 @@
         "The Deeper Room"
       ]
     },
-    "close": "The clip opens the door. It is not the house.",
+    "angles": [
+      {
+        "spoken": "The clip is the door. Not the house.",
+        "text": "Short-form content that tries to do everything builds an audience that expects everything to be short. That's not a business."
+      },
+      {
+        "spoken": "A viral clip that leads nowhere is just noise with reach.",
+        "text": "Discovery is only valuable if it sends someone somewhere deeper. The clip is not the destination."
+      }
+    ],
+    "formats": ["text-post", "produced-carousel"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "033",
     "mode": "structure",
-    "source": "Pursuit of Wonder represents faceless storytelling, using animated visuals and professional narration to explore complex history and psychology topics without relying on a personal face-on-camera presence.",
-    "hook": "The face is optional.",
-    "angles": [
-      "Diagnosis: Some creators delay because they think trust requires their face, when the story can carry the authority.",
-      "Content angle: Show how narration, structure, and visual metaphor can replace face-to-camera presence.",
-      "Video use: Use a faceless opening with a strong question, then let animation hold the abstract idea."
-    ],
-    "presentation": [
-      "Open with a thought experiment.",
-      "Use visual metaphor instead of talking-head proof.",
-      "Make the narration precise enough to carry trust."
-    ],
+    "title": "faceless storytelling authority",
+    "overview": "Pursuit of Wonder demonstrates that authority can come from the quality of the thinking rather than the visibility of the person. Faceless formats with strong narration and precise structure carry trust without face-on-camera presence.",
     "bigIdea": {
       "truth": "Authority can come from the quality of the thinking, not only the visibility of the person.",
       "idea": "Faceless storytelling lets the idea take the lead.",
@@ -952,25 +942,25 @@
         "The Invisible Host"
       ]
     },
-    "close": "The story can carry the face.",
+    "angles": [
+      {
+        "spoken": "The face is optional. The thinking has to be good.",
+        "text": "Trust comes from the precision of the idea, not the visibility of the person delivering it. Not showing up is a choice, not a limitation."
+      },
+      {
+        "spoken": "Some of the most trusted creators never show their face.",
+        "text": "When the narration is exact and the structure holds, the audience attaches authority to the voice before they ask for a face."
+      }
+    ],
+    "formats": ["quick-hits", "vlog"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "034",
     "mode": "structure",
-    "source": "Joubert remixes ancient philosophical ideas to solve modern psychological problems, framing historical thinkers as consultants for modern life.",
-    "hook": "Dead thinkers become consultants.",
-    "angles": [
-      "Diagnosis: Philosophy becomes useful when the old idea is brought into a current pressure without museum language.",
-      "Content angle: Put a modern problem in front of an old thinker and let the tension create the episode.",
-      "Video use: Open with the modern problem, then introduce the philosopher as the person who already saw the pattern."
-    ],
-    "presentation": [
-      "Start with the current pain, not the biography.",
-      "Use the philosopher as a working tool.",
-      "End with a decision the viewer can actually feel."
-    ],
+    "title": "philosophers as working consultants",
+    "overview": "Joubert's approach remixes ancient philosophy by treating historical thinkers as consultants for current psychological problems rather than museum pieces. Old ideas stay alive when they answer a pressure people still feel today.",
     "bigIdea": {
       "truth": "Old ideas stay alive when they answer a pressure people still feel.",
       "idea": "Historical thinkers become useful when they are treated like consultants, not statues.",
@@ -981,25 +971,25 @@
         "The Living Archive"
       ]
     },
-    "close": "The old idea lives when the pressure is current.",
+    "angles": [
+      {
+        "spoken": "They figured out your problem two thousand years ago. Most people just won't look.",
+        "text": "Philosophy feels irrelevant when it's framed as history. It feels urgent when it's framed as a diagnosis for a problem you have right now."
+      },
+      {
+        "spoken": "The old thinker isn't a fact to know. They're a perspective to use.",
+        "text": "Bring the current pressure into the room first. Then introduce the person who already saw it."
+      }
+    ],
+    "formats": ["green-screen", "vlog"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "035",
     "mode": "structure",
-    "source": "By 2026, algorithms listen to audio and read every frame of a video, making keywords in narration and on-screen text essential for visibility.",
-    "hook": "The algorithm reads the room.",
-    "angles": [
-      "Diagnosis: Search no longer waits for captions. The words, visuals, and spoken phrases all teach the platform what the piece is.",
-      "Content angle: Build the keyword into the natural sentence, the text overlay, and the visible object.",
-      "Video use: Say the search phrase, show it on screen, and frame the visual around the same idea."
-    ],
-    "presentation": [
-      "Open with the searchable phrase in human language.",
-      "Put the phrase on screen without making it feel stuffed.",
-      "Use visuals that confirm the topic."
-    ],
+    "title": "social seo reads the whole scene",
+    "overview": "By 2026, algorithms analyze audio, on-screen text, and visual content together. Search no longer relies only on captions. Every element of the video teaches the platform what the piece is and who should find it.",
     "bigIdea": {
       "truth": "Discovery now comes from every layer of the video, not only the caption.",
       "idea": "Social SEO means the platform reads the whole scene.",
@@ -1010,25 +1000,25 @@
         "Search In The Frame"
       ]
     },
-    "close": "The whole video teaches the platform what it is.",
+    "angles": [
+      {
+        "spoken": "The algorithm hears you, reads what you show, and watches what you point at.",
+        "text": "Writing the keyword in the caption is not the system anymore. The spoken phrase, the text overlay, and the visual have to align."
+      },
+      {
+        "spoken": "Your video is a search document. Every frame is a sentence.",
+        "text": "Three channels of information teaching the platform the same thing is triple the signal of one."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "036",
     "mode": "structure",
-    "source": "All three creators use an anti-vision to hook their audience, defining exactly what they do not want, such as 12 simple steps to be miserable or the survival level of working a hated job.",
-    "hook": "The anti-vision hits first.",
-    "angles": [
-      "Diagnosis: People often know the life they refuse before they can describe the one they want.",
-      "Content angle: Start with the future the viewer is scared of repeating.",
-      "Video use: Show the unwanted routine in specific details, then cut to the first refusal."
-    ],
-    "presentation": [
-      "Open with the life they do not want.",
-      "Use concrete details, not generic misery.",
-      "Turn refusal into the first act of agency."
-    ],
+    "title": "anti-vision as sharper fuel",
+    "overview": "All three analyzed creators use the anti-vision as a hook: defining what they refuse rather than what they desire. People often know the life they reject before they can describe the life they want, and refusal produces stronger motivation than aspiration.",
     "bigIdea": {
       "truth": "A clear no can move people before a clear dream exists.",
       "idea": "The anti-vision gives desire a hard edge.",
@@ -1039,25 +1029,25 @@
         "Clear No First"
       ]
     },
-    "close": "The no arrives before the dream gets language.",
+    "angles": [
+      {
+        "spoken": "You don't need a dream yet. You need a clear no.",
+        "text": "People get stuck on vision because it requires imagining something that doesn't exist. The anti-vision is already real. They've already felt it."
+      },
+      {
+        "spoken": "Describe the life you refuse to accept in five years.",
+        "text": "That specific picture of what you won't allow is more motivating than any dream board you've ever made."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "037",
     "mode": "structure",
-    "source": "The value flywheel moves from discovery in short-form, to engagement in long-form, to transformation through paid products, books, courses, and communities.",
-    "hook": "Views are not the destination.",
-    "angles": [
-      "Diagnosis: Creators mistake attention for the business when attention is only the first door.",
-      "Content angle: Show the path from stranger, to reader, to buyer, to person who changes because of the work.",
-      "Video use: Use a simple three-stage diagram with one real asset at each stage."
-    ],
-    "presentation": [
-      "Open with the vanity metric.",
-      "Follow one person through the whole path.",
-      "End on transformation, not revenue."
-    ],
+    "title": "value flywheel beyond the view",
+    "overview": "The value flywheel moves from discovery in short-form to engagement in long-form to transformation through paid products. The view is only the first door. The real asset is the relationship that survives after the view ends.",
     "bigIdea": {
       "truth": "The real asset is not the view. It is the relationship that survives after the view ends.",
       "idea": "A value flywheel turns attention into trust, then trust into change.",
@@ -1068,25 +1058,25 @@
         "The Relationship After The View"
       ]
     },
-    "close": "The view only matters if something survives it.",
+    "angles": [
+      {
+        "spoken": "Views are not the destination. They're the first second of a longer trip.",
+        "text": "Creators who optimize for views build an audience that watches and leaves. The flywheel starts after the view ends."
+      },
+      {
+        "spoken": "Attention that doesn't go anywhere is just traffic.",
+        "text": "The view is only valuable if it moves into something that lasts. Discovery without depth is not a business."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "038",
     "mode": "structure",
-    "source": "Virality is often decided within the first 400 milliseconds of a video. Creators use visual disruption, such as an unexpected visual environment, to bypass the brain's efficiency filters before delivering a conceptual reframe.",
-    "hook": "The first frame does the ambush.",
-    "angles": [
-      "Diagnosis: The viewer decides before the idea arrives. The frame has to break the scroll trance first.",
-      "Content angle: Start with a visual that does not belong in the expected room.",
-      "Video use: Place a strange overlay, object, or setting in frame before the first sentence."
-    ],
-    "presentation": [
-      "Open with visual tension before explanation.",
-      "Make the first frame feel wrong in a clean way.",
-      "Let the concept arrive after the eye has already stopped."
-    ],
+    "title": "zero-second visual hook",
+    "overview": "Virality research shows the decision happens within 400 milliseconds. The viewer decides whether to stay before the idea arrives. The frame has to earn the right to exist in the feed before the spoken line does any work.",
     "bigIdea": {
       "truth": "The idea does not get heard until the frame earns the right to exist in the feed.",
       "idea": "The zero-second hook is visual before it is verbal.",
@@ -1097,25 +1087,25 @@
         "Visual Disruption"
       ]
     },
-    "close": "The frame stops them before the line explains why.",
+    "angles": [
+      {
+        "spoken": "They decided before your first word. What does your first frame say?",
+        "text": "400 milliseconds before you speak, the viewer has already decided whether to stop. The visual earns the right to the idea."
+      },
+      {
+        "spoken": "The frame stops them. Then the line explains why.",
+        "text": "A visually disruptive opening is not aesthetic. It is the mechanism that creates enough pause for the idea to get in."
+      }
+    ],
+    "formats": ["green-screen", "quick-hits"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "039",
     "mode": "structure",
-    "source": "The 3-S Rule for 2026 virality is Surprise, Simplicity, and Significance. Surprise breaks expectation, simplicity creates cognitive ease, and significance gives the viewer a better identity to attach to.",
-    "hook": "Surprise is not enough.",
-    "angles": [
-      "Diagnosis: A strange opening gets attention, but the viewer only shares when the idea feels clean and meaningful.",
-      "Content angle: Build the piece in three beats. Break expectation, simplify the claim, then give it personal weight.",
-      "Video use: Use one visual surprise, one short line, and one consequence the viewer can feel."
-    ],
-    "presentation": [
-      "Start with the surprise.",
-      "Strip the sentence until it is easy to repeat.",
-      "End with why it matters to the viewer's life."
-    ],
+    "title": "3-S rule for shareable ideas",
+    "overview": "The 3-S Rule for virality in 2026 is Surprise, Simplicity, and Significance. Surprise breaks expectation. Simplicity creates cognitive ease. Significance gives the viewer a better identity to attach to. A clip that only surprises does not travel.",
     "bigIdea": {
       "truth": "Attention begins with surprise, but sharing comes from a clean idea that makes the viewer feel sharper.",
       "idea": "The 3-S Rule turns a reframe into something people can carry.",
@@ -1126,25 +1116,25 @@
         "Clean Weight"
       ]
     },
-    "close": "Shock opens it. Meaning makes it travel.",
+    "angles": [
+      {
+        "spoken": "Shock gets the view. A clean, significant idea gets the share.",
+        "text": "The clip that only surprises is memorable for a moment. The clip the viewer can repeat to someone else becomes the one that travels."
+      },
+      {
+        "spoken": "Three things make something viral: it surprises, it simplifies, it changes how you see yourself.",
+        "text": "Strip the idea until a stranger could repeat it in one sentence. Then ask whether it makes them feel something about their own identity."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "040",
     "mode": "structure",
-    "source": "Underconsumption core and de-influencing inverted haul culture by framing overconsumption as a lack of identity and self-control. The impressive act became using what you already own.",
-    "hook": "Not buying became status.",
-    "angles": [
-      "Diagnosis: Buying used to signal identity. Now restraint can signal a stronger one.",
-      "Content angle: Show the old purchase impulse, then show the quiet confidence of using what is already there.",
-      "Video use: Film worn objects, repeated outfits, empty carts, and the same item surviving real use."
-    ],
-    "presentation": [
-      "Open with the item the feed says you need.",
-      "Cut to the thing you already own doing the job.",
-      "Make restraint feel calm, not moralizing."
-    ],
+    "title": "restraint as stronger identity",
+    "overview": "Underconsumption core and de-influencing inverted haul culture by reframing overconsumption as evidence of insecurity rather than status. The impressive act shifted to using what you already own. Restraint became a legible identity signal.",
     "bigIdea": {
       "truth": "Overconsumption starts to look weak when everyone can see the insecurity underneath it.",
       "idea": "Underconsumption turns restraint into identity.",
@@ -1155,25 +1145,25 @@
         "The Empty Cart"
       ]
     },
-    "close": "The strongest flex was leaving the cart empty.",
+    "angles": [
+      {
+        "spoken": "Not buying became the stronger signal. The haul started looking like a need.",
+        "text": "When you can see the insecurity underneath the purchase, the person who didn't buy starts to look like the one with the real identity."
+      },
+      {
+        "spoken": "The worn item, the repaired thing, the unchanged room. That's the new flex.",
+        "text": "Restraint signals a self that doesn't need external proof. The empty cart is not deprivation. It's a statement."
+      }
+    ],
+    "formats": ["quick-hits", "carousel-dump"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "041",
     "mode": "structure",
-    "source": "The 12-Item Extreme No-Buy Challenge restricts participants to only 12 non-essential purchases per year, reframing the mindset from what is missing to what is already owned.",
-    "hook": "The limit reveals the life.",
-    "angles": [
-      "Diagnosis: The rule works because it interrupts the feeling that every gap deserves a purchase.",
-      "Content angle: Make the constraint visible, then show what the person notices once buying is no longer the answer.",
-      "Video use: Use a counter from 1 to 12, then cut to repaired, reused, and rediscovered objects."
-    ],
-    "presentation": [
-      "Open with the yearly limit.",
-      "Show one purchase you did not make.",
-      "Make the found alternative the emotional turn."
-    ],
+    "title": "no-buy limit reveals the life",
+    "overview": "The 12-Item No-Buy Challenge restricts non-essential purchases and interrupts the reflex to buy every gap shut. When buying is removed as an option, people notice what they were avoiding, rediscover what they own, and see the purchase reflex for what it was.",
     "bigIdea": {
       "truth": "A limit can expose how often buying was being used to avoid attention.",
       "idea": "The no-buy challenge turns ownership into a place to look again.",
@@ -1184,25 +1174,25 @@
         "Look Again Living"
       ]
     },
-    "close": "The limit made the old life visible again.",
+    "angles": [
+      {
+        "spoken": "Twelve non-essential purchases for the year. Watch what you notice.",
+        "text": "The constraint reveals what the purchases were doing. Not filling a need. Closing an uncomfortable space."
+      },
+      {
+        "spoken": "You don't know what you own until you stop replacing it.",
+        "text": "The no-buy limit is not a restriction. It's a diagnostic. What you reach for when buying is off tells you what it was covering."
+      }
+    ],
+    "formats": ["vlog", "carousel-dump"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "042",
     "mode": "structure",
-    "source": "The Sincerity Filter describes audiences reading messy rooms, uncurated backgrounds, and the Messy Middle as trust signals instead of flaws.",
-    "hook": "Mess proves the person is real.",
-    "angles": [
-      "Diagnosis: Perfect rooms now feel suspicious because the feed trained people to associate polish with selling.",
-      "Content angle: Show the middle of the process, not only the final clean surface.",
-      "Video use: Leave the real desk, laundry, notes, or half-finished setup in frame."
-    ],
-    "presentation": [
-      "Open with an honest working scene.",
-      "Do not apologize for the room.",
-      "Let one imperfect detail carry trust."
-    ],
+    "title": "messy middle as trust signal",
+    "overview": "The Sincerity Filter describes audiences reading imperfect backgrounds and unfinished processes as proof that a human is present. Perfect rooms are now suspicious because the feed trained people to associate polish with performance.",
     "bigIdea": {
       "truth": "The audience trusts evidence that the person exists outside the performance.",
       "idea": "The Sincerity Filter turns small imperfections into proof of life.",
@@ -1213,25 +1203,25 @@
         "Unpolished Trust"
       ]
     },
-    "close": "The mess tells them someone actually lives there.",
+    "angles": [
+      {
+        "spoken": "The perfect background now reads as a red flag.",
+        "text": "When everything can be staged, the unstaged detail becomes the only credible signal. Leave the real desk."
+      },
+      {
+        "spoken": "Show the middle. Not the finished version.",
+        "text": "The process, the open tabs, the half-finished draft. That's where the audience gets evidence they're talking to a person."
+      }
+    ],
+    "formats": ["yap", "carousel-dump"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "043",
     "mode": "structure",
-    "source": "Anti-hustle creators reframed productivity as nervous system regulation. Burnout became a design problem, not a lack of discipline.",
-    "hook": "Burnout is a design problem.",
-    "angles": [
-      "Diagnosis: People blame their character when the system they built keeps draining them.",
-      "Content angle: Show the same person in two systems, one that extracts and one that protects intensity.",
-      "Video use: Use calendar blocks, rest windows, and phone boundaries as the visual proof."
-    ],
-    "presentation": [
-      "Open with the person trying harder inside a broken setup.",
-      "Name the system that creates the crash.",
-      "Show one design change that protects energy."
-    ],
+    "title": "burnout is a design problem",
+    "overview": "Anti-hustle creators reframed burnout from a character failure to a design output. When the nervous system is asked to sustain output that the system is not built to support, collapse is the predictable result, not a personal shortcoming.",
     "bigIdea": {
       "truth": "Discipline fails when the nervous system is asked to pay a debt the system keeps creating.",
       "idea": "Productivity starts with designing intensity the body can survive.",
@@ -1242,25 +1232,25 @@
         "Burnout By Design"
       ]
     },
-    "close": "The system was spending energy faster than you could earn it.",
+    "angles": [
+      {
+        "spoken": "You didn't burn out from working hard. You burned out from a broken system.",
+        "text": "Blaming the person for the crash protects the system that caused it. The design is the problem."
+      },
+      {
+        "spoken": "Discipline doesn't work when the setup is designed to drain you.",
+        "text": "The same calendar that looks productive from the outside is producing invisible debt on the inside. That debt collects eventually."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "044",
     "mode": "structure",
-    "source": "Rest was reframed from a reward for finishing work into a prerequisite for effective creativity.",
-    "hook": "Rest comes before the work.",
-    "angles": [
-      "Diagnosis: People treat rest like dessert, then wonder why the work comes from an empty body.",
-      "Content angle: Reverse the order. Show rest as the condition that makes the good work possible.",
-      "Video use: Begin with the rested morning, then show the quality of output after it."
-    ],
-    "presentation": [
-      "Open with rest as preparation.",
-      "Avoid spa visuals that make it feel indulgent.",
-      "Show the work improving because the body is available."
-    ],
+    "title": "rest is the input not the reward",
+    "overview": "Rest was reframed from a reward you earn after finishing work to a prerequisite for effective creative output. Treating rest as dessert means the body is always producing from deficit.",
     "bigIdea": {
       "truth": "Rest is not what you earn after the work. It is part of how the work gets its quality.",
       "idea": "Rest is the input, not the reward.",
@@ -1271,25 +1261,25 @@
         "The Available Body"
       ]
     },
-    "close": "The work changed when the body was included.",
+    "angles": [
+      {
+        "spoken": "You treat rest as something you earn. Then wonder why the work is thin.",
+        "text": "Rest placed at the end of productivity is earned with a depleted body. That's not recovery. That's collapse with a better name."
+      },
+      {
+        "spoken": "The body produces from what it has, not from what you demand.",
+        "text": "Put rest at the front and watch what happens to the work. The input determines the quality of the output."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "045",
     "mode": "structure",
-    "source": "Oliver Burkeman's Four Thousand Weeks reframed time management by arguing that you will never get everything done and that greater efficiency often attracts more work.",
-    "hook": "Efficiency creates more work.",
-    "angles": [
-      "Diagnosis: The fantasy is that the right system ends the pile. The trap is that the pile grows when you get faster.",
-      "Content angle: Show the person clearing tasks and being rewarded with more tasks.",
-      "Video use: Use an inbox or task list that refills the second it empties."
-    ],
-    "presentation": [
-      "Open with the dream of being done.",
-      "Show the list refilling.",
-      "End with choosing what deserves to remain unfinished."
-    ],
+    "title": "efficiency creates more work",
+    "overview": "Oliver Burkeman's Four Thousand Weeks argues that the fantasy of getting everything done is a trap. Greater efficiency attracts more work. The task list refills. The goal is not to finish everything but to choose what your limited life will refuse.",
     "bigIdea": {
       "truth": "The goal is not to finish everything. The goal is to choose what your limited life will refuse.",
       "idea": "The efficiency trap turns speed into a larger cage.",
@@ -1300,25 +1290,25 @@
         "Strategic Unfinished"
       ]
     },
-    "close": "The faster you got, the bigger the pile became.",
+    "angles": [
+      {
+        "spoken": "Getting faster just gives the pile more room to grow.",
+        "text": "The dream of being done is the trap. Every cleared task creates the capacity for three more. The list does not end."
+      },
+      {
+        "spoken": "You won't finish everything. The question is what you'll choose to leave undone.",
+        "text": "Efficiency is not a solution to limited time. It is a way to experience that limitation at a higher speed."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "046",
     "mode": "structure",
-    "source": "Zack Arnold and related creators frame quitting as a strategic move rather than a failure, helping viewers let go of sunk costs and reallocate limited time.",
-    "hook": "Quitting can be strategy.",
-    "angles": [
-      "Diagnosis: People stay because the past investment feels like a command.",
-      "Content angle: Show the difference between abandoning yourself and abandoning a bad allocation.",
-      "Video use: Use two timelines. One keeps paying the old cost. One reclaims the next year."
-    ],
-    "presentation": [
-      "Open with the thing already paid for.",
-      "Name the future cost of continuing.",
-      "Make quitting feel precise, not dramatic."
-    ],
+    "title": "quitting as strategic reallocation",
+    "overview": "Zack Arnold and related creators reframe quitting as a precise strategic move rather than a failure. The past investment does not obligate the future. Staying in a bad allocation is the choice that costs more, not quitting it.",
     "bigIdea": {
       "truth": "The past does not get to keep spending the future.",
       "idea": "Strategic quitting protects the time that has not been wasted yet.",
@@ -1329,25 +1319,25 @@
         "The Sunk Cost Exit"
       ]
     },
-    "close": "The past was already spent. The future was not.",
+    "angles": [
+      {
+        "spoken": "Staying because you've already invested is letting the past decide your future.",
+        "text": "The sunk cost is not a reason to continue. It describes what you already spent. The future has nothing to do with it."
+      },
+      {
+        "spoken": "Quitting a bad allocation isn't failure. It's math.",
+        "text": "The past was already gone before you decided to stay. Strategic quitting reclaims the time that still has options."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "047",
     "mode": "structure",
-    "source": "The Glitch Premium describes minor stumbles in speech or slightly unpolished visuals becoming trust signals in an AI-saturated feed.",
-    "hook": "The glitch builds trust.",
-    "angles": [
-      "Diagnosis: When everything can be polished, the small human error becomes evidence.",
-      "Content angle: Keep the stumble that proves the person is thinking in real time.",
-      "Video use: Leave one breath, pause, or imperfect sentence when it makes the moment feel alive."
-    ],
-    "presentation": [
-      "Open with human voice, not synthetic smoothness.",
-      "Do not cut out every small imperfection.",
-      "Keep errors that add presence, cut errors that create confusion."
-    ],
+    "title": "human error as presence signal",
+    "overview": "The Glitch Premium describes a feed-level shift where minor stumbles in speech and slightly unpolished visuals have become trust signals because machines can now produce perfect polish faster than humans can earn it.",
     "bigIdea": {
       "truth": "Perfect polish has lost trust because machines can imitate polish faster than humans can earn it.",
       "idea": "The Glitch Premium makes small human errors valuable again.",
@@ -1358,25 +1348,25 @@
         "Presence Over Polish"
       ]
     },
-    "close": "The stumble proved a person was still inside it.",
+    "angles": [
+      {
+        "spoken": "The stumble proved a person was still inside it.",
+        "text": "When every AI output is flawless, the small human error becomes the only differentiator that's not replicable."
+      },
+      {
+        "spoken": "Don't cut the pause where you were actually thinking.",
+        "text": "The real-time search for the right word is presence. Removing it turns the video into a performance. Keep the evidence of a thinking person."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "creativity",
     "status": "unused"
   },
   {
     "id": "048",
     "mode": "structure",
-    "source": "Series-based content frames perspective shifts as Part 1 or Part 2, using the Zeigarnik Effect on a larger scale so viewers return to see the habit change or challenge conclude.",
-    "hook": "A series creates return.",
-    "angles": [
-      "Diagnosis: One-off clips force every post to start from zero. A series lets curiosity compound.",
-      "Content angle: Turn a reframe into an unfolding experiment with a visible end point.",
-      "Video use: Label the part number, repeat the core question, and show progress across episodes."
-    ],
-    "presentation": [
-      "Open each part with the same recognizable question.",
-      "Show progress, not only advice.",
-      "Leave a specific unresolved piece for the next entry."
-    ],
+    "title": "series format compounds curiosity",
+    "overview": "Series-based content uses the Zeigarnik Effect at scale. One-off clips force every post to restart from zero. A series turns a single reframe into an unfolding experiment that creates a reason to return before the conclusion arrives.",
     "bigIdea": {
       "truth": "People return when the idea has a future they can track.",
       "idea": "Series-based content turns a perspective shift into an ongoing relationship.",
@@ -1387,25 +1377,25 @@
         "Compounding Curiosity"
       ]
     },
-    "close": "The idea got a future, so people came back.",
+    "angles": [
+      {
+        "spoken": "One-off posts start from zero every time. A series starts from where you left off.",
+        "text": "The viewer comes back when the idea has a future they haven't seen yet. That's the only subscription you need."
+      },
+      {
+        "spoken": "Leave something unresolved. That's the reason they return.",
+        "text": "A series gives a single idea momentum that individual posts cannot produce. Each part makes the next one matter."
+      }
+    ],
+    "formats": ["vlog", "quick-hits"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "049",
     "mode": "structure",
-    "source": "In 2026, TikTok functions as a search engine. Videos around specific search terms, such as how to clear your mind in 60 seconds, continue pulling views weeks or months after posting.",
-    "hook": "Search gives clips a second life.",
-    "angles": [
-      "Diagnosis: A clip built only for the feed dies fast. A clip built for search keeps being found.",
-      "Content angle: Make the opening line match the question people actually type.",
-      "Video use: Say the search phrase clearly, put it on screen, then answer it without wandering."
-    ],
-    "presentation": [
-      "Open with the exact problem phrase.",
-      "Answer in clean steps.",
-      "Make the title, spoken line, and overlay say the same thing."
-    ],
+    "title": "search gives clips a long life",
+    "overview": "In 2026, TikTok functions as a search engine. Videos built around specific search terms continue pulling views weeks and months after posting. A clip built for the feed dies fast. A clip built for search keeps being found.",
     "bigIdea": {
       "truth": "The best short video can work like a tiny search result that keeps earning attention.",
       "idea": "Search-optimized education gives short-form a longer shelf life.",
@@ -1416,25 +1406,25 @@
         "Tiny Search Result"
       ]
     },
-    "close": "The feed moves on. Search keeps working.",
+    "angles": [
+      {
+        "spoken": "The feed moves on. A search-built clip keeps working.",
+        "text": "Content built for discovery dies in 48 hours. Content built for a real search query keeps being found indefinitely."
+      },
+      {
+        "spoken": "Build for the person searching, not the algorithm scrolling.",
+        "text": "When your opening line matches what someone types at 11pm, the clip becomes a recurring asset rather than a single post."
+      }
+    ],
+    "formats": ["quick-hits", "produced-carousel"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "050",
     "mode": "structure",
-    "source": "The Professional Paradox describes professionals who desire stability but realize that the only true security comes from adaptability and portability.",
-    "hook": "Stability now means portability.",
-    "angles": [
-      "Diagnosis: The old promise was stay put and become secure. The new reality is become movable or become exposed.",
-      "Content angle: Show someone choosing portable skills over a fragile title.",
-      "Video use: Use a company badge, then cut to a personal system, network, and proof archive."
-    ],
-    "presentation": [
-      "Open with the desire for safety.",
-      "Show why the fixed path no longer protects the person.",
-      "End with the assets they can carry."
-    ],
+    "title": "professional paradox of portable stability",
+    "overview": "The Professional Paradox describes the gap between what professionals want and what the modern market actually provides. The old promise was stability through attachment. The new reality is that security comes from being hard to strand, not from staying put.",
     "bigIdea": {
       "truth": "Security no longer comes from being attached to one path. It comes from being hard to strand.",
       "idea": "The professional paradox is wanting stability in a world that rewards portability.",
@@ -1445,25 +1435,25 @@
         "Hard To Strand"
       ]
     },
-    "close": "The safest person is the one who can move.",
+    "angles": [
+      {
+        "spoken": "You wanted stability. The market redefined stable as movable.",
+        "text": "The person attached to one path is now the exposed one. The safest professional in the room is the one who could leave tomorrow."
+      },
+      {
+        "spoken": "Stability is not being planted. It's having options when the ground shifts.",
+        "text": "The old security was depth in one place. The new security is having assets that work anywhere."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "051",
     "mode": "structure",
-    "source": "Job descriptions become outdated within months of hiring, and median job tenure for workers aged 25 to 34 has stabilized at just 2.7 years.",
-    "hook": "The job changes before you settle.",
-    "angles": [
-      "Diagnosis: People are not failing to adjust. The role itself keeps mutating under their feet.",
-      "Content angle: Show the job someone accepted, then the job it became six months later.",
-      "Video use: Use an original job description, then overlay the new hidden tasks added by reality."
-    ],
-    "presentation": [
-      "Open with the clean job listing.",
-      "Add the invisible responsibilities one by one.",
-      "Make the change feel specific, not dramatic."
-    ],
+    "title": "job description expires on arrival",
+    "overview": "Job descriptions become outdated within months of hiring. With median tenure at 2.7 years for workers aged 25-34, the role mutates faster than the person can adapt to it. The job you accepted is not the job you have six months later.",
     "bigIdea": {
       "truth": "The modern role is less like a chair and more like a moving floor.",
       "idea": "A job description now expires while the person is still learning it.",
@@ -1474,25 +1464,25 @@
         "The Six-Month Role"
       ]
     },
-    "close": "You accepted one job and inherited another.",
+    "angles": [
+      {
+        "spoken": "You accepted one job. Six months in, you inherited a different one.",
+        "text": "The role doesn't stay still long enough to master before it changes again. That's not a personal failure. That's the structure."
+      },
+      {
+        "spoken": "The job description is already outdated. You just haven't been told yet.",
+        "text": "Stability used to mean the role stays the same. The new baseline is: expect the floor to move and build for that."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "052",
     "mode": "structure",
-    "source": "Professionals fear AI will thin the ice, making roles more precarious and less predictable, while removing the grunt work that once built foundational expertise.",
-    "hook": "AI thins the ice.",
-    "angles": [
-      "Diagnosis: The fear is not only replacement. It is being pushed into higher-stakes work before the foundation has formed.",
-      "Content angle: Show the junior work disappearing, then show the person being judged on senior decisions.",
-      "Video use: Use a ladder with the lower rungs erased."
-    ],
-    "presentation": [
-      "Open with the task AI now handles.",
-      "Show what that task used to teach.",
-      "End with the missing rung problem."
-    ],
+    "title": "AI erases the training ground",
+    "overview": "Professionals fear AI will remove the low-level work that once built foundational expertise. The problem is not just replacement. It is being pushed toward high-stakes decisions before the foundation for those decisions has formed.",
     "bigIdea": {
       "truth": "Removing low-level work also removes the place where people learn how to carry high-level judgment.",
       "idea": "AI does not only replace tasks. It erases training ground.",
@@ -1503,25 +1493,25 @@
         "Erased Training Ground"
       ]
     },
-    "close": "The rung disappeared before the person learned to climb.",
+    "angles": [
+      {
+        "spoken": "AI didn't just take the task. It took where you learned the harder one.",
+        "text": "The entry-level work was not just grunt work. It was the ground floor of a judgment that now has no foundation."
+      },
+      {
+        "spoken": "The rung disappeared before you learned to climb.",
+        "text": "When AI handles the low-level tasks, junior workers skip to the stakes before they've built the capacity to handle them."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "053",
     "mode": "structure",
-    "source": "A communication gap worsens AI anxiety. While 69% of C-suite leaders believe they have communicated clearly about AI, only 12% of entry-level and mid-career professionals agree.",
-    "hook": "Leadership thinks it explained AI.",
-    "angles": [
-      "Diagnosis: The gap itself creates fear. The people making the change think the people absorbing it understand the plan.",
-      "Content angle: Show the executive slide, then show the employee trying to decode what happens to their role.",
-      "Video use: Split screen the polished AI memo against a private Slack message asking what it means."
-    ],
-    "presentation": [
-      "Open with the confident leadership statement.",
-      "Cut to the worker's actual question.",
-      "Make the silence between them visible."
-    ],
+    "title": "AI communication gap at work",
+    "overview": "While 69% of C-suite leaders believe they communicated clearly about AI changes, only 12% of entry-level and mid-career professionals agree. The gap itself creates fear. Unclear change reads as threat regardless of the intent behind it.",
     "bigIdea": {
       "truth": "Unclear change feels like threat, even when leadership calls it strategy.",
       "idea": "The AI communication gap turns transformation into workplace fog.",
@@ -1532,25 +1522,25 @@
         "The 69 To 12 Gap"
       ]
     },
-    "close": "The memo sounded clear only from the top.",
+    "angles": [
+      {
+        "spoken": "Leadership thinks they explained it. 88% of their teams never got the memo.",
+        "text": "The gap between what was announced and what was understood is not a communication failure. It is the actual workplace experience of AI transformation."
+      },
+      {
+        "spoken": "Vague strategy looks like threat from the ground floor.",
+        "text": "The person at the top knows the plan. The person absorbing the change is reading fog for clues about whether their role survives."
+      }
+    ],
+    "formats": ["text-post", "produced-carousel"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "054",
     "mode": "structure",
-    "source": "Boreout is the result of chronic understimulation and a lack of meaningful tasks. Professionals are still performing outside, but something inside that used to care has quietly disappeared.",
-    "hook": "Boreout is empty exhaustion.",
-    "angles": [
-      "Diagnosis: The person is tired without being used fully. That creates shame because the exhaustion looks unearned from the outside.",
-      "Content angle: Show a worker doing fine on paper while disappearing internally.",
-      "Video use: Use a full calendar with dead eyes, then cut to the unused skill sitting untouched."
-    ],
-    "presentation": [
-      "Open with the person meeting expectations.",
-      "Show the absence of challenge.",
-      "Name the exhaustion that comes from being underused."
-    ],
+    "title": "boreout is underuse exhaustion",
+    "overview": "Boreout is the result of chronic understimulation: meeting external expectations while being internally unused. The person is tired without having been fully deployed. The exhaustion looks unearned from the outside, which adds shame to the drain.",
     "bigIdea": {
       "truth": "Being underused can drain a person as deeply as being overused.",
       "idea": "Boreout is what happens when the work keeps the body busy and leaves the self untouched.",
@@ -1561,25 +1551,25 @@
         "The Underused Self"
       ]
     },
-    "close": "The work was easy. That was the problem.",
+    "angles": [
+      {
+        "spoken": "You're exhausted but you haven't been used. That's boreout.",
+        "text": "Being underutilized is a real drain. Not because the body worked hard, but because the self had nowhere to go."
+      },
+      {
+        "spoken": "The job keeps the body busy. It doesn't touch the person.",
+        "text": "Boreout creates a specific shame: you're tired without a visible reason, which makes it easy to dismiss your own experience."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "055",
     "mode": "structure",
-    "source": "Professionals fear the creator economy is a mathematical impossibility, moving from stable exploitation to volatile exhaustion under an algorithm that is indifferent to survival.",
-    "hook": "The exit has a trapdoor.",
-    "angles": [
-      "Diagnosis: Leaving corporate life does not automatically create freedom. It can replace a manager with a colder machine.",
-      "Content angle: Show the fantasy of the corporate exit, then show the pressure of needing attention to eat.",
-      "Video use: Contrast quitting footage with an empty analytics dashboard at midnight."
-    ],
-    "presentation": [
-      "Open with the dream of leaving.",
-      "Show the new dependency on attention.",
-      "End with the question of who the creator now works for."
-    ],
+    "title": "creator economy trapdoor",
+    "overview": "The creator economy can sell freedom while replacing a manager with an indifferent algorithm. Leaving corporate exploitation does not automatically produce freedom. It can shift the dependency from a bad boss to an attention machine that has no obligation to your survival.",
     "bigIdea": {
       "truth": "The creator economy can sell freedom while quietly moving the boss into the algorithm.",
       "idea": "Stable exploitation can become volatile exhaustion when attention becomes income.",
@@ -1590,25 +1580,25 @@
         "Algorithm Boss"
       ]
     },
-    "close": "You left the boss and met the dashboard.",
+    "angles": [
+      {
+        "spoken": "You left the boss. You met the dashboard.",
+        "text": "The algorithm doesn't care about your survival. Unlike the bad manager, it has no human limit on how badly it can go."
+      },
+      {
+        "spoken": "Freedom and dependency on attention are not the same thing.",
+        "text": "Some exits from corporate life trade a floor for a ceiling. The ceiling can be higher. The floor disappears."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "056",
     "mode": "structure",
-    "source": "Career Capital is a portfolio of portable, compounding assets that transcend any single company or role: learning velocity, networks, reputation, character, and financial resources.",
-    "hook": "Career capital travels with you.",
-    "angles": [
-      "Diagnosis: A title can vanish when the company changes. Career capital remains because it lives in the person and the market around them.",
-      "Content angle: Show the five assets that still matter after a layoff.",
-      "Video use: Use a suitcase metaphor with skills, network, reputation, character, and cash as packed items."
-    ],
-    "presentation": [
-      "Open with the job title being removed.",
-      "Show what stays in the person's hands.",
-      "Make each asset visible through a concrete example."
-    ],
+    "title": "career capital survives the layoff",
+    "overview": "Career Capital is a portfolio of portable assets that persist beyond any single company or role: learning velocity, networks, reputation, character, and financial resources. The company owns the title. The professional owns what survives after it is removed.",
     "bigIdea": {
       "truth": "The company owns the role. The professional owns the assets that survive the role.",
       "idea": "Career capital is the part of a career that remains portable.",
@@ -1619,25 +1609,25 @@
         "The Layoff Suitcase"
       ]
     },
-    "close": "The title left. The capital stayed.",
+    "angles": [
+      {
+        "spoken": "The title left. The capital stayed. That's the whole strategy.",
+        "text": "What do you own when the company removes the role? Five assets that were never theirs to take."
+      },
+      {
+        "spoken": "You've been building the wrong thing if layoffs scare you.",
+        "text": "Career capital is the stack that doesn't require the company's permission to keep growing."
+      }
+    ],
+    "formats": ["produced-carousel", "text-post"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "057",
     "mode": "structure",
-    "source": "The Invisible Ladder consists of learning velocity, professional networks, reputation, character, and financial resources.",
-    "hook": "The real ladder is invisible.",
-    "angles": [
-      "Diagnosis: People chase visible promotion while ignoring the assets that actually create future options.",
-      "Content angle: Show two careers. One climbs titles. One builds portable power below the surface.",
-      "Video use: Use an iceberg visual where title sits above water and the five hidden assets sit below."
-    ],
-    "presentation": [
-      "Open with the visible promotion path.",
-      "Reveal the hidden ladder underneath.",
-      "Tie each rung to a real weekly behavior."
-    ],
+    "title": "invisible ladder beneath the title",
+    "overview": "The Invisible Ladder consists of five hidden assets: learning velocity, professional networks, reputation, character, and financial resources. The visible promotion path can disappear. The invisible ladder keeps creating options independent of whether any single employer continues.",
     "bigIdea": {
       "truth": "The visible ladder can disappear. The invisible ladder keeps creating options.",
       "idea": "The Invisible Ladder is the stack of assets that makes a professional harder to trap.",
@@ -1648,25 +1638,25 @@
         "Option Stack"
       ]
     },
-    "close": "The promotion was visible. The options were built underneath.",
+    "angles": [
+      {
+        "spoken": "Two people chase the same title. One is building something invisible.",
+        "text": "The visible path ends when the company restructures. The invisible one doesn't depend on the company staying the same."
+      },
+      {
+        "spoken": "The promotion is above the water. The actual power is below it.",
+        "text": "Five assets that compound quietly under the surface of every week. They don't show up on a resume until the moment you need them most."
+      }
+    ],
+    "formats": ["produced-carousel", "green-screen"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "058",
     "mode": "structure",
-    "source": "The Soft Life movement represents peace over pressure. It rejects grind culture in favor of self-care, boundaries, leisure without guilt, and anti-exploitation.",
-    "hook": "Soft life is not laziness.",
-    "angles": [
-      "Diagnosis: People dismiss softness because they confuse exploitation with ambition.",
-      "Content angle: Show a person choosing boundaries without abandoning standards.",
-      "Video use: Use a slow morning, a closed laptop, and one high-quality piece of work finished without collapse."
-    ],
-    "presentation": [
-      "Open with the accusation of laziness.",
-      "Show the boundary protecting the work.",
-      "Make peace look disciplined, not decorative."
-    ],
+    "title": "soft life rejects exploitation not effort",
+    "overview": "The Soft Life movement positions peace as the condition that prevents ambition from becoming self-abandonment. It is not a rejection of effort or standards. It is a refusal to allow exploitation to be rebranded as dedication.",
     "bigIdea": {
       "truth": "Peace is not the opposite of ambition. It is the condition that stops ambition from becoming self-abandonment.",
       "idea": "Soft life rejects exploitation, not effort.",
@@ -1677,25 +1667,25 @@
         "Anti-Exploitation Ambition"
       ]
     },
-    "close": "The boundary protected the standard.",
+    "angles": [
+      {
+        "spoken": "Soft life isn't about doing less. It's about refusing to call exploitation dedication.",
+        "text": "The boundary isn't laziness. It's the mechanism that keeps the standard from collapsing under the weight of continuous extraction."
+      },
+      {
+        "spoken": "Peace is not the enemy of output. It's the condition for output that actually holds.",
+        "text": "The person who protects their nervous system consistently outproduces the person who spends it all by Thursday."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "059",
     "mode": "structure",
-    "source": "Professionals want to romanticize the small stuff and feel rich in life despite economic volatility.",
-    "hook": "Rich in life beats rich-looking.",
-    "angles": [
-      "Diagnosis: The craving is not only luxury. It is wanting daily life to feel worth being inside.",
-      "Content angle: Show small moments that make life feel abundant without pretending money is irrelevant.",
-      "Video use: Use sunlight, meal prep, a walk, a clean room, and one paid bill as grounded richness."
-    ],
-    "presentation": [
-      "Open with a normal moment that feels expensive emotionally.",
-      "Avoid fake luxury.",
-      "Keep money reality in frame."
-    ],
+    "title": "rich in life before financially perfect",
+    "overview": "Professionals want to romanticize the small things and feel abundant in daily life despite economic volatility. This is not delusional optimism. It is the desire to find proof that life can feel full before every number is right.",
     "bigIdea": {
       "truth": "People want proof that life can feel full before everything is financially perfect.",
       "idea": "Rich in life means the day contains more than survival math.",
@@ -1706,25 +1696,25 @@
         "The Full Day"
       ]
     },
-    "close": "The day felt full before it looked impressive.",
+    "angles": [
+      {
+        "spoken": "You don't need the right number to feel like the day is full.",
+        "text": "Rich in life is not a workaround for financial reality. It is a separate metric. The day felt worth being inside, or it didn't."
+      },
+      {
+        "spoken": "The sunlight, the meal, the walk. That's the life. The account is a separate problem.",
+        "text": "Economic pressure can coexist with a day that feels full. They are not competing measurements of the same thing."
+      }
+    ],
+    "formats": ["carousel-dump", "text-post"],
     "category": "money",
     "status": "unused"
   },
   {
     "id": "060",
     "mode": "structure",
-    "source": "Reddit is where professionals admit to doommaxxing or feeling 404 coded, meaning checked out or mentally unavailable due to stress.",
-    "hook": "404 coded means checked out.",
-    "angles": [
-      "Diagnosis: The person is physically present at work, but the inner system has stopped loading.",
-      "Content angle: Use the error-code language to show a professional who still performs while mentally unavailable.",
-      "Video use: Overlay 404 coded on a normal desk scene where every action is delayed by one beat."
-    ],
-    "presentation": [
-      "Open with the phrase on screen.",
-      "Show ordinary work movements feeling slightly offline.",
-      "End with one honest line about the system being overloaded."
-    ],
+    "title": "404 coded at the office",
+    "overview": "Reddit professionals admit to doommaxxing and feeling 404 coded: physically present but internally unavailable due to chronic stress. The body shows up. The system has stopped loading. The error is not visible from the outside.",
     "bigIdea": {
       "truth": "Checking out can be the nervous system refusing to keep pretending it is online.",
       "idea": "404 coded gives professional numbness internet-native language.",
@@ -1735,25 +1725,25 @@
         "The Loaded-Out Self"
       ]
     },
-    "close": "The person was there. The system was not.",
+    "angles": [
+      {
+        "spoken": "You're at your desk. The system has been offline since Tuesday.",
+        "text": "404 coded is not laziness or disengagement. It is the nervous system reaching a load limit and refusing to pretend otherwise."
+      },
+      {
+        "spoken": "The body was there. Nobody tells you the self checked out weeks ago.",
+        "text": "Professional numbness reads as fine from the outside. The person inside is already running on error state."
+      }
+    ],
+    "formats": ["text-post", "quick-hits"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "061",
     "mode": "structure",
-    "source": "TikTok professionals participate in aura farming, deliberately curating their vibe or aesthetic to signal success or peace.",
-    "hook": "Aura farming performs peace.",
-    "angles": [
-      "Diagnosis: The peaceful image can become another job when the person has to keep proving they are above pressure.",
-      "Content angle: Show the difference between actual calm and the performance of looking calm.",
-      "Video use: Contrast the curated morning routine with the hidden pressure to make it look effortless."
-    ],
-    "presentation": [
-      "Open with the perfect soft-life shot.",
-      "Reveal the work required to look effortless.",
-      "End with a quieter version of peace that does not need proof."
-    ],
+    "title": "performed calm versus actual calm",
+    "overview": "Aura farming describes the deliberate curation of a peaceful aesthetic on social media as a signal of success or psychological peace. When the calm has to be constantly witnessed, it becomes another job rather than an actual state.",
     "bigIdea": {
       "truth": "Peace becomes another performance when it has to be constantly witnessed.",
       "idea": "Aura farming turns calm into a signal instead of a state.",
@@ -1764,25 +1754,25 @@
         "Signal Versus State"
       ]
     },
-    "close": "The calm became work once it needed an audience.",
+    "angles": [
+      {
+        "spoken": "When the calm needs an audience, it stopped being calm.",
+        "text": "The curated peaceful morning routine is the inverse of the thing it's supposed to represent. Performing rest is not the same as resting."
+      },
+      {
+        "spoken": "Signaling peace and having it are two different nervous systems.",
+        "text": "Aura farming is the extension of hustle culture into the wellness aesthetic. The output changes. The performance requirement doesn't."
+      }
+    ],
+    "formats": ["text-post", "yap"],
     "category": "environment",
     "status": "unused"
   },
   {
     "id": "062",
     "mode": "structure",
-    "source": "Self-improvement has evolved from a hobby into a survival strategy. The shared fear is technological and existential obsolescence, while the shared desire is sovereignty over time and mental bandwidth.",
-    "hook": "Self-improvement became survival.",
-    "angles": [
-      "Diagnosis: People are not optimizing for fun. They are trying to stay employable, sane, and self-owned.",
-      "Content angle: Show the same habit as lifestyle content and then as survival infrastructure.",
-      "Video use: Reframe journaling, walking, learning AI, and budgeting as tools for staying sovereign."
-    ],
-    "presentation": [
-      "Open with a habit that looks optional.",
-      "Show the pressure that made it necessary.",
-      "Name the survival function clearly."
-    ],
+    "title": "self-improvement as survival infrastructure",
+    "overview": "Self-improvement in 2025-2026 is no longer a lifestyle hobby. It is a response to technological and existential obsolescence. The habits that used to be optional are now the infrastructure that keeps a person employable, sane, and self-directing.",
     "bigIdea": {
       "truth": "The modern professional improves because the ground keeps moving.",
       "idea": "Self-improvement is now survival infrastructure.",
@@ -1793,25 +1783,25 @@
         "Professional Survival"
       ]
     },
-    "close": "The habit looked optional until the ground moved.",
+    "angles": [
+      {
+        "spoken": "What used to be self-improvement is now survival infrastructure.",
+        "text": "The person who treats journaling and learning AI and physical capacity as optional is falling behind on something that isn't optional anymore."
+      },
+      {
+        "spoken": "The habit looked optional until the ground moved.",
+        "text": "Technological obsolescence made personal development a necessity. The people who got there early built the infrastructure. The rest are catching up."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "063",
     "mode": "raw",
+    "title": "nothing ever is final",
     "raw": "get addicted to thinking positively. believe that things can suddenly change for you. do not worry about how an d when. just deeply believe in the possibility of a new outcome. it can all be so different than what you are currently experiencing. nothing ever is final. allow that to bring you peace and give you hope.",
-    "hook": "Nothing ever is final.",
-    "angles": [
-      "Raw idea: get addicted to thinking positively. believe that things can suddenly change for you. do not worry about how an d when. just deeply believe in the possibility of a new outcome. it can all be so different than what you are currently experiencing. nothing ever is final. allow that to bring you peace and give you hope.",
-      "Video idea: Start on the current situation, then let the frame slowly brighten without explaining the change.",
-      "Presentation idea: Keep the raw text as the main card and let the final sentence land alone."
-    ],
-    "presentation": [
-      "Use slow sky movement behind the text.",
-      "Split the long paragraph into breath-sized lines on video.",
-      "Let the last line hold for longer than the rest."
-    ],
     "bigIdea": {
       "truth": "Hope gets stronger when the current situation stops being treated as final.",
       "idea": "The possibility of a new outcome can calm the body before the evidence arrives.",
@@ -1822,25 +1812,25 @@
         "Sudden Change"
       ]
     },
-    "close": "Nothing final means there is still room.",
+    "angles": [
+      {
+        "spoken": "Nothing about right now is the final word on your life.",
+        "text": "The current situation is not the conclusion. It is a data point in a sequence that hasn't finished yet."
+      },
+      {
+        "spoken": "Things can change faster than the pattern suggests.",
+        "text": "Treating the present as permanent is the thought that blocks the next version from arriving."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "064",
     "mode": "raw",
+    "title": "state before result",
     "raw": "focus on your state. not the result. your emotions attract faster than your plans. stay calm. stay certain. stay open.",
-    "hook": "Focus on your state.",
-    "angles": [
-      "Raw idea: focus on your state. not the result. your emotions attract faster than your plans. stay calm. stay certain. stay open.",
-      "Video idea: Show someone stopping mid-scroll, breathing, and returning to the room before taking action.",
-      "Presentation idea: Make the short commands feel like steps down a staircase."
-    ],
-    "presentation": [
-      "Use one line at a time.",
-      "Let calm, certain, and open appear as three separate beats.",
-      "Keep the card spacious."
-    ],
     "bigIdea": {
       "truth": "The state comes before the strategy.",
       "idea": "Calm changes the way a person meets the result.",
@@ -1851,25 +1841,25 @@
         "Before The Result"
       ]
     },
-    "close": "The result is not the first place to look.",
+    "angles": [
+      {
+        "spoken": "Your emotions move faster than your plans. Get the state right first.",
+        "text": "Chasing the result from an anxious state produces anxious results. The state is the first variable, not the last."
+      },
+      {
+        "spoken": "Calm, certain, open. In that order. Before you take any action.",
+        "text": "The plan can wait until the nervous system is in a position to execute it well."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "system",
     "status": "unused"
   },
   {
     "id": "065",
     "mode": "raw",
+    "title": "reality is selected",
     "raw": "reality isn't created. it's selected. you shift into the version that matches your belief and frequency.",
-    "hook": "Reality is selected.",
-    "angles": [
-      "Raw idea: reality isn't created. it's selected. you shift into the version that matches your belief and frequency.",
-      "Video idea: Show two versions of the same room, then let attention choose which one becomes visible.",
-      "Presentation idea: Keep it minimal and let selected carry the weight."
-    ],
-    "presentation": [
-      "Use two light states on the same background.",
-      "Make selected the visual anchor.",
-      "Avoid overexplaining the metaphysics."
-    ],
     "bigIdea": {
       "truth": "People move toward the reality their belief keeps rehearsing.",
       "idea": "Selection is a cleaner frame than force.",
@@ -1880,25 +1870,25 @@
         "Belief Match"
       ]
     },
-    "close": "The version you feed gets louder.",
+    "angles": [
+      {
+        "spoken": "You're not creating your reality. You're selecting which one you notice.",
+        "text": "The version that keeps getting your attention is the one that becomes visible. Not because you forced it. Because you kept pointing at it."
+      },
+      {
+        "spoken": "Belief doesn't build the outcome. It selects it.",
+        "text": "Two people in the same room, the same week. Different beliefs. They walk out having experienced different realities."
+      }
+    ],
+    "formats": ["quick-hits", "yap"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "066",
     "mode": "raw",
+    "title": "you are the observer",
     "raw": "when a bad thought arrives, remember you are the observer.",
-    "hook": "You are the observer.",
-    "angles": [
-      "Raw idea: when a bad thought arrives, remember you are the observer.",
-      "Video idea: Show the thought passing like weather while the person stays still.",
-      "Presentation idea: Make the sentence tiny, quiet, and centered."
-    ],
-    "presentation": [
-      "Use a single-card format.",
-      "Let the background move while the text stays still.",
-      "Hold silence after the line."
-    ],
     "bigIdea": {
       "truth": "A thought loses power when it stops being mistaken for the whole self.",
       "idea": "Observation creates distance without needing a fight.",
@@ -1909,25 +1899,25 @@
         "Distance From Thought"
       ]
     },
-    "close": "The thought arrived. It did not become you.",
+    "angles": [
+      {
+        "spoken": "The thought arrived. You are not the thought.",
+        "text": "Observing a bad thought is not the same as being one. The watcher and the weather are not the same thing."
+      },
+      {
+        "spoken": "You don't have to fight the thought. Just stop mistaking it for you.",
+        "text": "Distance from a thought is not suppression. It's the recognition that you are the one watching it pass."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "067",
     "mode": "raw",
+    "title": "silent battles count",
     "raw": "today is a good day to be proud of all the silent battles you've won.",
-    "hook": "Be proud today.",
-    "angles": [
-      "Raw idea: today is a good day to be proud of all the silent battles you've won.",
-      "Video idea: Show ordinary actions that carry invisible effort.",
-      "Presentation idea: Let silent battles sit as the emotional center."
-    ],
-    "presentation": [
-      "Use small daily footage.",
-      "Avoid heroic visuals.",
-      "Make the card feel like recognition, not motivation."
-    ],
     "bigIdea": {
       "truth": "Some wins are real even when nobody saw the fight.",
       "idea": "Private endurance deserves public tenderness.",
@@ -1938,25 +1928,25 @@
         "Unseen Victory"
       ]
     },
-    "close": "The quiet win still counts.",
+    "angles": [
+      {
+        "spoken": "The fight no one watched still counts.",
+        "text": "Some victories don't produce evidence anyone outside you can read. They happened. They changed things. They count."
+      },
+      {
+        "spoken": "Private endurance is still endurance.",
+        "text": "The silent battle is the hardest kind. There's no audience, no validation, no one who knows what it cost."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "068",
     "mode": "raw",
+    "title": "confusing growth is still growth",
     "raw": "some periods of our growth are so confusing that we don't even recognize that growth is happening. we may feel hostile or angry or weepy and hysterical or we may feel depressed. it would never occur to us that we were in fact in the process of change.",
-    "hook": "Growth can feel confusing.",
-    "angles": [
-      "Raw idea: some periods of our growth are so confusing that we don't even recognize that growth is happening. we may feel hostile or angry or weepy and hysterical or we may feel depressed. it would never occur to us that we were in fact in the process of change.",
-      "Video idea: Show emotional weather changing without making any one state the villain.",
-      "Presentation idea: Break the paragraph into three movements: confusion, feeling, change."
-    ],
-    "presentation": [
-      "Use a slower reading pace.",
-      "Let the difficult emotions stay in the text.",
-      "End on process of change with visual softness."
-    ],
     "bigIdea": {
       "truth": "Change does not always feel like progress while it is happening.",
       "idea": "Confusing growth is still growth.",
@@ -1967,25 +1957,25 @@
         "Messy Becoming"
       ]
     },
-    "close": "You can be changing before you understand it.",
+    "angles": [
+      {
+        "spoken": "Growth doesn't always feel like growing. Sometimes it feels like breaking.",
+        "text": "The confused, irritable, weepy period is often the exact moment the change is happening. It just doesn't look like what you expected."
+      },
+      {
+        "spoken": "You can be in the process of becoming something without knowing it yet.",
+        "text": "Hostile, depressed, unclear. All of these can be the experience of change from the inside, before the outside catches up."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "069",
     "mode": "raw",
+    "title": "you are safe",
     "raw": "you're safe. it's just your thoughts trying to scare you again. you'll be fine.",
-    "hook": "You are safe.",
-    "angles": [
-      "Raw idea: you're safe. it's just your thoughts trying to scare you again. you'll be fine.",
-      "Video idea: Show a nervous moment resolving into one steady breath.",
-      "Presentation idea: Keep it direct and almost parental."
-    ],
-    "presentation": [
-      "Use very little motion.",
-      "Put you're safe on its own line.",
-      "Let you'll be fine feel like the exhale."
-    ],
     "bigIdea": {
       "truth": "Fear can sound like truth when the body is activated.",
       "idea": "Safety starts by naming the scare as thought.",
@@ -1996,25 +1986,25 @@
         "The Exhale Card"
       ]
     },
-    "close": "The scare was loud. It was still a thought.",
+    "angles": [
+      {
+        "spoken": "It's the thoughts doing it again. Not the actual situation.",
+        "text": "Fear that feels like information is often a scared nervous system rehearsing danger. The scare is real. The danger isn't."
+      },
+      {
+        "spoken": "You're safe. You'll be fine. Stay with that.",
+        "text": "Sometimes the most useful intervention is the simplest one: name the source. It's thoughts. Not facts."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "fear",
     "status": "unused"
   },
   {
     "id": "070",
     "mode": "raw",
+    "title": "presence is the actual escape",
     "raw": "there is nothing more powerful than presence. its why a child can truly have fun. it s why an animal can truly rest. its why we crave an escape from reality, but the true escape is sittin long enough with it. the true freedom is right there.",
-    "hook": "Presence is the escape.",
-    "angles": [
-      "Raw idea: there is nothing more powerful than presence. its why a child can truly have fun. it s why an animal can truly rest. its why we crave an escape from reality, but the true escape is sittin long enough with it. the true freedom is right there.",
-      "Video idea: Show someone trying to leave the moment, then slowly returning to it.",
-      "Presentation idea: Let true escape and true freedom mirror each other visually."
-    ],
-    "presentation": [
-      "Use long, soft shots.",
-      "Keep the original typos and rhythm.",
-      "Let the final sentence land without commentary."
-    ],
     "bigIdea": {
       "truth": "The escape people crave can be the moment they keep trying to avoid.",
       "idea": "Presence turns reality from a thing to flee into a place to rest.",
@@ -2025,25 +2015,25 @@
         "Sitting With Reality"
       ]
     },
-    "close": "The freedom was inside the moment.",
+    "angles": [
+      {
+        "spoken": "The escape you keep looking for is sitting still long enough with what's here.",
+        "text": "The child and the animal can rest because they're not trying to leave the moment. That's the thing most adults have forgotten how to do."
+      },
+      {
+        "spoken": "You don't need to leave. You need to stay longer.",
+        "text": "The craving for escape is real. But the escape itself is inside the moment you're trying to exit."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "time",
     "status": "unused"
   },
   {
     "id": "071",
     "mode": "raw",
+    "title": "life is peak without the audience",
     "raw": "let whoever think whatever. life is so peak when you just don't care.",
-    "hook": "Let them think whatever.",
-    "angles": [
-      "Raw idea: let whoever think whatever. life is so peak when you just don't care.",
-      "Video idea: Show the person leaving the imagined audience behind.",
-      "Presentation idea: Make the card quick, light, and slightly blunt."
-    ],
-    "presentation": [
-      "Use a fast cut from tension to freedom.",
-      "Let whoever think whatever should appear first.",
-      "Make so peak feel casual, not polished."
-    ],
     "bigIdea": {
       "truth": "Freedom starts when the imagined audience stops getting a vote.",
       "idea": "Not caring can be a clean act of self-return.",
@@ -2054,25 +2044,25 @@
         "Peak Freedom"
       ]
     },
-    "close": "The room got lighter when they lost the vote.",
+    "angles": [
+      {
+        "spoken": "Let them think whatever. Stop performing it. That's the life.",
+        "text": "Not caring is not nihilism. It is the specific removal of an audience that never belonged in the decision anyway."
+      },
+      {
+        "spoken": "The opinions stop landing once you stop building a reception desk for them.",
+        "text": "Life gets lighter when whoever isn't standing in the room anymore."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "072",
     "mode": "raw",
+    "title": "be yourself to be found",
     "raw": "be yourself, so that the people looking for you, can find you.",
-    "hook": "Be yourself to be found.",
-    "angles": [
-      "Raw idea: be yourself, so that the people looking for you, can find you.",
-      "Video idea: Show someone removing small acts of disguise until the right people appear.",
-      "Presentation idea: Keep it clean and centered like a note to self."
-    ],
-    "presentation": [
-      "Use a gentle reveal.",
-      "Let people looking for you be the emotional phrase.",
-      "Keep the comma rhythm exactly as sent."
-    ],
     "bigIdea": {
       "truth": "Hiding protects you from rejection and also blocks recognition.",
       "idea": "Being findable requires being visible as yourself.",
@@ -2083,25 +2073,25 @@
         "Visible As Yourself"
       ]
     },
-    "close": "The right people need the real signal.",
+    "angles": [
+      {
+        "spoken": "The right people are looking for exactly who you are. They can't find a performance.",
+        "text": "Every adjustment made to appear acceptable to the general audience makes you invisible to the people who actually want the real version."
+      },
+      {
+        "spoken": "Hiding works. That's the problem.",
+        "text": "You protect yourself from judgment by masking. But the mask also blocks the people who were looking for exactly you."
+      }
+    ],
+    "formats": ["yap", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "073",
     "mode": "raw",
+    "title": "pure heart wins first",
     "raw": "with a pure heart - you'll always win.",
-    "hook": "Pure heart wins.",
-    "angles": [
-      "Raw idea: with a pure heart - you'll always win.",
-      "Video idea: Show a quiet choice that costs ego but protects the heart.",
-      "Presentation idea: Make the line feel like a blessing, not a slogan."
-    ],
-    "presentation": [
-      "Use a simple card with lots of air.",
-      "Let pure heart hold visually.",
-      "Avoid competitive imagery."
-    ],
     "bigIdea": {
       "truth": "Winning can mean staying clean inside what tries to harden you.",
       "idea": "A pure heart is a form of victory before the outcome arrives.",
@@ -2112,132 +2102,142 @@
         "Win Inside First"
       ]
     },
-    "close": "The first win is staying clean inside.",
+    "angles": [
+      {
+        "spoken": "The first win is staying clean inside the thing that wanted to make you hard.",
+        "text": "Before any external outcome, there's a simpler test: did you stay true to what you actually believe? That result is already in."
+      },
+      {
+        "spoken": "With a pure heart, you've already won something the outcome can't take back.",
+        "text": "The verdict from outside comes later. The verdict from inside is available the moment you decide to act with integrity."
+      }
+    ],
+    "formats": ["yap", "quick-hits"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "074",
     "mode": "structure",
-    "source": "Board analysis. Dan Koe's content engine, Zach Pogrob's 'Obsession > Discipline' tweet, Tim Denning's Lasse Virén story. The thesis: discipline is not the input. It's a downstream output of obsession with a vision. The self-help industry teaches discipline first; these creators argue the reverse.",
-    "hook": "Discipline is a side effect. Not a practice.",
-    "angles": [
-      "Diagnosis: You're trying to build discipline without the thing that generates it. Discipline is what happens when you're obsessed. It is not the lever you pull to become obsessed.",
-      "Content angle: Show the causal order most people have backwards. Discipline-first advice teaches people to white-knuckle their way to motivation. Obsession-first runs in the opposite direction entirely.",
-      "Video use: Open with a scene of forcing yourself to work. Then contrast with a scene of forgetting to stop. Let the contrast hold."
-    ],
-    "presentation": [
-      "Open with the assumption: discipline is the skill you need to build.",
-      "Show what that belief produces: structured routines that collapse under any real pressure.",
-      "End on the diagnosis: you can't manufacture discipline for something you don't care about."
-    ],
+    "title": "discipline is downstream of obsession",
+    "overview": "The self-help industry teaches discipline as the input to motivation. Dan Koe, Zach Pogrob, and Tim Denning argue the opposite causal direction: discipline is a downstream output of obsession. You cannot build discipline for something you do not care about enough.",
     "bigIdea": {
       "truth": "Discipline is the output of obsession, not the input to it. The self-help industry reversed the order.",
       "idea": "Stop trying to build discipline. Find what already pulls you. The discipline follows.",
       "bridge": "Use this to reframe the identity layer before any system or habit conversation.",
       "names": ["Obsession First", "The Wrong Order", "Discipline Downstream"]
     },
-    "close": "You can't discipline yourself into caring.",
+    "angles": [
+      {
+        "spoken": "You don't build discipline. Obsession builds it for you.",
+        "text": "The entire self-help industry taught the causal chain backwards. Discipline is not the lever. It's what happens when the lever is already pulled."
+      },
+      {
+        "spoken": "You can't discipline yourself into caring. That's not how the sequence works.",
+        "text": "Every routine that collapsed did so because the discipline was being asked to generate the obsession. It works the other way."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "075",
     "mode": "structure",
-    "source": "Board analysis. Zach Pogrob: 'Your new life is going to cost you your old one.' Dan Koe: 'They can't help but leave the world behind to create a better one.' The burn-everything-down image: letting go of past identities to create a blank slate. Pattern: transformation is destruction, not addition.",
-    "hook": "Adding habits to a broken identity doesn't fix the identity.",
-    "angles": [
-      "Diagnosis: Most transformation advice is additive. Add this routine, add this habit, add this framework. The pattern underneath the board is the opposite: the new life requires killing the old identity first. Addition without subtraction layers noise onto a broken foundation.",
-      "Content angle: The question isn't what to add. It's what you're refusing to let die. Name the specific things people cling to: the old story, the old role, the old excuse. Name them as the actual cost.",
-      "Video use: Two columns. Left: what you gain. Right: what it costs. Make the costs real and specific, not abstract."
-    ],
-    "presentation": [
-      "Open with the common belief: transformation is about adding better behaviors.",
-      "Show why it fails: the identity underneath stays the same, so the behaviors don't stick.",
-      "End on the diagnosis: the blocker is rarely a missing habit. It's an identity that has to die first."
-    ],
+    "title": "identity deletion before habit addition",
+    "overview": "Most transformation advice is additive: add a habit, add a system, add a framework. The deeper pattern from Zach Pogrob and Dan Koe runs in the opposite direction. The new life requires the old identity to die first. Addition without subtraction layers new behavior onto a foundation that rejects it.",
     "bigIdea": {
       "truth": "People fail to change because they're adding a new life on top of an old identity. The old identity rejects it.",
       "idea": "Real transformation is an identity deletion, not a habit addition.",
       "bridge": "Use this before any conversation about systems, routines, or offers. The identity layer is the prerequisite.",
       "names": ["Identity Deletion", "The Real Cost", "Subtraction First"]
     },
-    "close": "You don't need more habits. You need fewer old selves.",
+    "angles": [
+      {
+        "spoken": "Every new habit you've added failed because the identity underneath stayed the same.",
+        "text": "The behavior doesn't stick because the person doing it doesn't believe they're the person who does that behavior. The identity is the blocker."
+      },
+      {
+        "spoken": "You don't need more habits. You need fewer old selves.",
+        "text": "The question is not what to add. It's what you're refusing to let die. That refusal is the actual blocker."
+      }
+    ],
+    "formats": ["green-screen", "text-post"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "076",
     "mode": "structure",
-    "source": "Board analysis. Dan Koe's YouTube framework: create an anti-vision — a detailed picture of the future you absolutely do not want — before the positive vision. Negative energy is 'very very potent' and can be transmuted into action. The diagnosis: people can't pull a clear vision from imagination, but everyone already knows what they refuse to accept.",
-    "hook": "Vision boards don't move people. The anti-vision does.",
-    "angles": [
-      "Diagnosis: Vision alone is weak motivation. People struggle to define what they want because they're reaching into abstraction. But everyone has experienced, observed, or feared the life they don't want, and that produces a far more visceral response than any vision board.",
-      "Content angle: Walk through the anti-vision exercise. If nothing changes for five years, describe a Tuesday. Where do you wake up? What does your body feel like? What's the first thing you think about? Let the discomfort do the work.",
-      "Video use: Ask the anti-vision questions one at a time on screen. No music. Let the silence hold."
-    ],
-    "presentation": [
-      "Open with the failure of vision boards: 'Picture your dream life' produces generic images and no movement.",
-      "Introduce the inversion: picture the life you refuse to accept.",
-      "End on the mechanism: disgust is a more reliable engine than desire."
-    ],
+    "title": "anti-vision moves people",
+    "overview": "Dan Koe argues that positive vision is abstract while negative vision is visceral. People struggle to define what they want because it requires imagining a life they haven't lived. But everyone already has experienced, observed, or feared the life they refuse, and that produces a far more reliable engine than aspiration.",
     "bigIdea": {
       "truth": "Positive vision is abstract. Negative vision is visceral. The self-help industry sells the first because it feels good. The second one actually moves people.",
       "idea": "Before you build your vision, build your anti-vision. The fuel is in what you refuse.",
       "bridge": "Use this as the entry point for any identity or goal-setting conversation. The anti-vision creates the stakes.",
       "names": ["Anti-Vision", "Disgust as Fuel", "What You Refuse"]
     },
-    "close": "Your vision tells you where to go. Your anti-vision tells you why you have to.",
+    "angles": [
+      {
+        "spoken": "Vision boards don't move people. The anti-vision does.",
+        "text": "Positive vision asks you to imagine something you haven't felt. The anti-vision asks you to describe something you already know."
+      },
+      {
+        "spoken": "Describe your life in five years if nothing changes. That's the fuel.",
+        "text": "Disgust is a more reliable engine than desire. The anti-vision puts you in contact with what you refuse before asking what you want."
+      }
+    ],
+    "formats": ["yap", "green-screen"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "077",
     "mode": "structure",
-    "source": "Board analysis. Dan Koe: 'Specializing in only one skill is certain death.' Three ingredients of sovereignty: self-education, self-interest, self-sufficiency. The printing press created the Renaissance; AI is the new printing press. The moat is a unique perspective built from the intersection of multiple interests. Every founder or CEO is a generalist who directs the ship.",
-    "hook": "Niche down is industrial-age programming.",
-    "angles": [
-      "Diagnosis: The 'niche down' instruction is industrial programming. Specialization was the competitive advantage of the factory era, when depth in a narrow skill translated to employment security. That contract is broken. The people building now are synthesizing multiple domains, not burrowing deeper into one.",
-      "Content angle: Name the three things you're 'supposed to pick between.' Show how the intersection of all three is the moat. The point is not breadth for breadth's sake. A perspective only you can see because of how your interests combine is something no specialist can replicate.",
-      "Video use: Show the 'pick one' advice as the audience knows it, then flip it: the intersection is the product."
-    ],
-    "presentation": [
-      "Open with the advice: pick a niche, specialize, avoid shiny object syndrome.",
-      "Show what that advice was designed for: a world where employers rewarded depth and breadth had no distribution mechanism.",
-      "End on the diagnosis: when you are the distribution channel, the unique synthesis of your interests is the only moat that can't be copied."
-    ],
+    "title": "niche down is industrial-age advice",
+    "overview": "Dan Koe argues that specializing in a single skill is the competitive strategy of the factory era, not the creator era. When you control your own distribution, the synthesis of multiple interests becomes a moat that no specialist can replicate. The unique perspective born from an unusual intersection is the product.",
     "bigIdea": {
       "truth": "Specialization was the right move when someone else controlled your distribution. When you are the distribution, the synthesis of your interests becomes the product.",
       "idea": "Multiple interests aren't a problem to fix. They're a perspective no specialist can replicate.",
       "bridge": "Use this to reframe the 'pick one thing' objection before any conversation about a personal brand or creator business.",
       "names": ["Polymathy as Moat", "The Wrong Advice", "Synthesis Over Specialization"]
     },
-    "close": "The rarest thing is a perspective only your combination of interests could produce.",
+    "angles": [
+      {
+        "spoken": "Niche down is advice built for a world where someone else owned your distribution.",
+        "text": "When you control distribution, the synthesis of your interests is a moat no specialist can copy."
+      },
+      {
+        "spoken": "Your multiple interests aren't a liability. They're the part no specialist can replicate.",
+        "text": "The intersection of three things only you have lived through produces a perspective that didn't exist before you built it."
+      }
+    ],
+    "formats": ["text-post", "green-screen"],
     "category": "identity",
     "status": "unused"
   },
   {
     "id": "078",
     "mode": "structure",
-    "source": "Board analysis. Tim Denning's Lasse Virén essay. He fell in the Olympic 10,000m final. Got up calmly, rejoined the pack, then attacked the final 600 meters so hard he broke the world record. Lock-in framework: raised standards, phone under 10 minutes/day, wake at 6am and start immediately, no 3-hour morning routine, 4 hours of flow state daily. The mechanic: a violent psychological reset after a fall. Not a permanent maintenance posture.",
-    "hook": "Lock-in is a comeback protocol. Not a maintenance posture.",
-    "angles": [
-      "Diagnosis: 'Lock in' gets sold as a permanent lifestyle posture: always on, always maximizing. The Virén story reveals what it actually is: a psychological reset after collapse. He fell, got up, rejoined the race calmly, and then attacked at the end. The power is in the sequence, not the posture.",
-      "Content angle: Show the distinction between lock-in as identity (always on) vs. lock-in as a response to a fall. The second one is actionable. The first one burns out.",
-      "Video use: Tell the Virén story. Fall. Get up. Calm re-entry. Violent finish. Let the metaphor carry the point without narrating it."
-    ],
-    "presentation": [
-      "Open with the Virén scene: fell mid-race, got up, didn't panic.",
-      "Show the sequence: calm re-entry first, then the violent attack in the final 600 meters.",
-      "End on the diagnosis: the psychology of the comeback is different from the psychology of maintenance."
-    ],
+    "title": "lock-in is a comeback protocol",
+    "overview": "The Lasse Viréen story reveals what lock-in actually is: not a permanent posture of maximized output, but a psychological reset protocol after collapse. Viréen fell mid-race, got up calmly, rejoined the pack, then attacked in the final 600 meters and broke the world record. The sequence matters: calm re-entry first, then the violent finish.",
     "bigIdea": {
       "truth": "Locking in is not a permanent posture. It's a specific response to having fallen. The calm re-entry is the first move, not the acceleration.",
       "idea": "The value of a lock-in practice is not that it keeps you from falling. It's that it tells you exactly what to do after you do.",
       "bridge": "Use this to reframe discipline conversations away from perfection and toward recovery protocol.",
       "names": ["The Virén Protocol", "Comeback Mechanics", "After The Fall"]
     },
-    "close": "The question isn't how you stay locked in. It's how fast you get back there.",
+    "angles": [
+      {
+        "spoken": "Lock-in is not how you stay up. It's how you get back up.",
+        "text": "The permanent lock-in posture burns out. The comeback protocol is what you run after you've already fallen. Different mechanics."
+      },
+      {
+        "spoken": "He fell in the Olympic final. Got up calmly. Then broke the world record.",
+        "text": "The sequence is: calm re-entry, then the attack. Not the other way around. That's the part that makes the protocol actually work."
+      }
+    ],
+    "formats": ["vlog", "green-screen"],
     "category": "system",
     "status": "unused"
   }
