@@ -38,7 +38,33 @@ export default function Home() {
     setCurrentIndex(0)
   }
 
-  if (!current) return null
+  if (!current) {
+    return (
+      <main className="min-h-screen overflow-x-hidden flex flex-col">
+        <GradientBackground />
+
+        <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
+          <span className="cloud-brand select-none">
+            <span className="cloud-brand__icon" aria-hidden="true" />
+            <span className="cloud-wordmark text-[2rem] leading-none text-cloud-ink whitespace-nowrap sm:text-[2.35rem]">
+              clouds
+            </span>
+          </span>
+        </header>
+
+        <div className="flex flex-1 items-center justify-center px-5 py-10">
+          <section className="glass-card w-full max-w-xl p-6 md:p-8">
+            <p className="display-font text-[2.35rem] leading-[1.02] tracking-[-0.02em] text-cloud-ink sm:text-5xl">
+              Clean slate.
+            </p>
+            <p className="mt-5 text-base leading-relaxed text-cloud-charcoal/78">
+              Add material with /raw or /structure. Clouds will keep the source clean and build from there.
+            </p>
+          </section>
+        </div>
+      </main>
+    )
+  }
 
   return (
     <main className="min-h-screen overflow-x-hidden flex flex-col">

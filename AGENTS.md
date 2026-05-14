@@ -9,26 +9,38 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This app is an idea library called Clouds. The default task is adding new
 idea cards to `data/ideas.json` using the existing card logic.
 
-When the user gives raw ideas, quotes, notes, fragments, or inspiration, treat
-the request as: "Add new idea cards to `data/ideas.json`."
+When the user gives ideas, quotes, notes, fragments, transcripts, or inspiration,
+do not guess the transformation mode. Use the command prefix:
+
+- `/raw`: preserve the material exactly and add only categorization,
+  presentation notes, and a separate Big Idea analysis field.
+- `/structure`: extract the strongest ideas from comprehensive material using
+  the local Big Idea and Voice DNA rules, then create content cards.
 
 The raw idea is sacred. Preserve the user's wording, punctuation, casing, typos,
-rhythm, and emotional temperature in the card's `raw` field. The card may add
-light structure around the idea, but it must never rewrite the idea into generic
-motivational language or replace the user's original phrasing with a polished
-summary.
+rhythm, and emotional temperature in the card's `raw` field. Analysis may sit
+under the raw text, but it must never replace it.
+
+Voice DNA is local to this repo at `.claude/reference/voice-dna-v1.md`. Read it
+before creating or rewriting cards. Treat it as a hard rule set, with this
+project override: generated insight language must use conviction and simple
+words. Do not use vague qualifiers such as "maybe", "might", "may", "could be",
+"kind of", "sort of", or "one way to think about it" unless they appear inside
+the preserved raw/source text.
 
 Always:
 
 1. Read `.claude/reference/idea-extraction-guide.md` before writing cards.
-2. Convert each raw idea into one complete idea card while preserving the
-   original text in `raw`.
-3. Append new cards to `data/ideas.json` with the next three-digit ID.
-4. Use the existing schema from `types/idea.ts`.
-5. Use only existing categories.
-6. Set every new card to `"status": "unused"`.
-7. Run `npm run validate:ideas` before finishing.
-8. Do not change UI, components, dependencies, styling, or app logic unless the user explicitly asks.
+2. Read `.claude/reference/voice-dna-v1.md` before writing any generated
+   insight, hook, presentation, or structure field.
+3. Use `/raw` or `/structure` logic exactly.
+4. Preserve source material in `raw` or `source`.
+5. Append new cards to `data/ideas.json` with the next three-digit ID.
+6. Use the existing schema from `types/idea.ts`.
+7. Use only existing categories.
+8. Set every new card to `"status": "unused"`.
+9. Run `npm run validate:ideas` before finishing.
+10. Do not change UI, components, dependencies, styling, or app logic unless the user explicitly asks.
 
 The idea card source of truth is `data/ideas.json`. The app renders from that
 file. Do not create alternate idea files, draft folders, generated component

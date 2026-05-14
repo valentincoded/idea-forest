@@ -33,6 +33,9 @@ const segmentLabels = [
   'Stun',
   'Snap',
   'Question planted',
+  'Diagnosis',
+  'Content angle',
+  'Video use',
 ]
 
 function parseAngle(angle: string) {
@@ -111,6 +114,43 @@ export default function IdeaCard({ idea, total, current }: IdeaCardProps) {
             <span className="ui-label mr-2 text-[12px] not-italic leading-none text-cloud-accent-strong">close</span>
             {idea.close}
           </p>
+        </div>
+      )}
+
+      {idea.presentation && idea.presentation.length > 0 && (
+        <div className="relative z-10 grid gap-2 rounded-cloud-panel border border-cloud-line bg-white/58 p-4">
+          <p className="ui-label text-[13px] leading-none text-cloud-accent-strong">
+            presentation
+          </p>
+          <ul className="grid gap-2">
+            {idea.presentation.map((item) => (
+              <li key={item} className="text-sm leading-relaxed text-cloud-charcoal/78">
+                {item}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {idea.bigIdea && (
+        <div className="relative z-10 grid gap-3 rounded-cloud-panel border border-cloud-line bg-cloud-paper-soft/76 p-4">
+          <p className="ui-label text-[13px] leading-none text-cloud-accent-strong">
+            big idea
+          </p>
+          <div className="grid gap-3 text-sm leading-relaxed text-cloud-charcoal/82">
+            <p>
+              <span className="ui-label mr-2 text-[13px] text-cloud-accent-strong">truth</span>
+              {idea.bigIdea.truth}
+            </p>
+            <p>
+              <span className="ui-label mr-2 text-[13px] text-cloud-accent-strong">idea</span>
+              {idea.bigIdea.idea}
+            </p>
+            <p>
+              <span className="ui-label mr-2 text-[13px] text-cloud-accent-strong">bridge</span>
+              {idea.bigIdea.bridge}
+            </p>
+          </div>
         </div>
       )}
 
