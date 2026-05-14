@@ -5,13 +5,12 @@ import IdeaCard from '@/components/IdeaCard'
 import GradientBackground from '@/components/GradientBackground'
 import ideasData from '@/data/ideas.json'
 import { Idea, Category } from '@/types/idea'
-import Link from 'next/link'
 
 const CATEGORIES: Category[] = ['time', 'identity', 'system', 'money', 'fear', 'design', 'creativity', 'environment']
 const ALL = 'all'
 
 export default function Home() {
-  const [ideas, setIdeas] = useState<Idea[]>(ideasData as Idea[])
+  const ideas = ideasData as Idea[]
   const [activeCategory, setActiveCategory] = useState<Category | typeof ALL>(ALL)
   const [currentIndex, setCurrentIndex] = useState(0)
 
@@ -34,14 +33,6 @@ export default function Home() {
     setCurrentIndex(idx)
   }, [filtered.length])
 
-  const markUsed = useCallback(() => {
-    setIdeas(prev => prev.map(idea =>
-      idea.id === current.id
-        ? { ...idea, status: idea.status === 'unused' ? 'recorded' : 'unused' }
-        : idea
-    ))
-  }, [current])
-
   const handleCategory = (cat: Category | typeof ALL) => {
     setActiveCategory(cat)
     setCurrentIndex(0)
@@ -54,15 +45,12 @@ export default function Home() {
       <GradientBackground />
 
       <header className="mx-auto flex w-full max-w-6xl shrink-0 items-center justify-between px-4 pt-4 pb-3 sm:px-5 md:px-8 md:py-7">
-        <span className="cloud-wordmark select-none text-[2rem] leading-none text-cloud-ink whitespace-nowrap sm:text-[2.35rem]">
-          clouds
+        <span className="cloud-brand select-none">
+          <span className="cloud-brand__icon" aria-hidden="true" />
+          <span className="cloud-wordmark text-[2rem] leading-none text-cloud-ink whitespace-nowrap sm:text-[2.35rem]">
+            clouds
+          </span>
         </span>
-        <Link
-          href="/add"
-          className="ui-label sky-pill sky-pill--bright min-h-10 px-3.5 py-2 text-[13px] font-medium leading-none text-cloud-ink transition-all hover:border-white hover:bg-white/86 whitespace-nowrap sm:min-h-11 sm:px-4 sm:py-2.5"
-        >
-          + add idea
-        </Link>
       </header>
 
       <nav className="scrollbar-none mx-auto flex w-full max-w-6xl shrink-0 gap-2 overflow-x-auto px-4 pb-4 sm:px-5 md:px-8">
@@ -94,7 +82,6 @@ export default function Home() {
       <div className="flex min-h-0 w-full max-w-full flex-1 items-start justify-center overflow-hidden px-3 pb-5 pt-1 sm:px-5 sm:py-8 md:items-center md:px-8 md:py-10">
         <IdeaCard
           idea={current}
-          onMarkUsed={markUsed}
           total={filtered.length}
           current={currentIndex + 1}
         />

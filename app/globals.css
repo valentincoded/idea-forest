@@ -21,20 +21,33 @@ body {
 
 .cloud-background {
   overflow: hidden;
-  background: linear-gradient(180deg, #92dcff 0%, #64c5f3 44%, #41a9df 100%);
+  background: #69c9f4;
 }
 
 .cloud-background__wash {
   position: absolute;
-  inset: -35%;
+  inset: -28%;
   background:
-    radial-gradient(ellipse at 18% 28%, rgba(255, 255, 255, 0.96), transparent 30%),
-    radial-gradient(ellipse at 70% 22%, rgba(255, 255, 255, 0.72), transparent 34%),
-    radial-gradient(ellipse at 52% 72%, rgba(255, 255, 255, 0.62), transparent 40%);
-  filter: blur(58px);
+    linear-gradient(180deg, rgba(186, 232, 255, 0.9) 0%, rgba(74, 180, 229, 0.68) 100%),
+    radial-gradient(ellipse at 20% 18%, rgba(255, 255, 255, 0.86), transparent 34%),
+    radial-gradient(ellipse at 78% 82%, rgba(255, 255, 255, 0.5), transparent 38%);
+  filter: blur(28px);
   mix-blend-mode: screen;
-  opacity: 0.9;
-  animation: cloud-drift 28s ease-in-out infinite alternate;
+  opacity: 0.82;
+  animation: cloud-drift 24s ease-in-out infinite alternate;
+}
+
+.cloud-background__flow {
+  position: absolute;
+  inset: -18% -55%;
+  background:
+    linear-gradient(105deg, transparent 0 18%, rgba(255, 255, 255, 0.78) 31%, rgba(255, 255, 255, 0.3) 43%, transparent 56%),
+    linear-gradient(105deg, transparent 12%, rgba(255, 255, 255, 0.42) 28%, transparent 46%),
+    radial-gradient(ellipse at 62% 46%, rgba(255, 255, 255, 0.72), transparent 34%);
+  filter: blur(42px);
+  mix-blend-mode: screen;
+  opacity: 0.86;
+  animation: white-gradient-flow 18s linear infinite;
 }
 
 .cloud-background__drift {
@@ -42,13 +55,13 @@ body {
   pointer-events: none;
   border-radius: 999px;
   background:
-    radial-gradient(ellipse at 18% 56%, rgba(255, 255, 255, 0.9) 0 18%, transparent 19%),
-    radial-gradient(ellipse at 38% 42%, rgba(255, 255, 255, 0.84) 0 25%, transparent 26%),
-    radial-gradient(ellipse at 62% 54%, rgba(255, 255, 255, 0.76) 0 22%, transparent 23%),
-    radial-gradient(ellipse at 82% 62%, rgba(255, 255, 255, 0.62) 0 16%, transparent 17%);
-  filter: blur(28px);
+    radial-gradient(ellipse at 18% 56%, rgba(255, 255, 255, 0.72) 0 18%, transparent 19%),
+    radial-gradient(ellipse at 38% 42%, rgba(255, 255, 255, 0.66) 0 25%, transparent 26%),
+    radial-gradient(ellipse at 62% 54%, rgba(255, 255, 255, 0.58) 0 22%, transparent 23%),
+    radial-gradient(ellipse at 82% 62%, rgba(255, 255, 255, 0.48) 0 16%, transparent 17%);
+  filter: blur(34px);
   mix-blend-mode: screen;
-  opacity: 0.74;
+  opacity: 0.62;
 }
 
 .cloud-background__drift--one {
@@ -75,6 +88,16 @@ body {
 
   to {
     transform: translate3d(2%, 1.5%, 0) scale(1.04);
+  }
+}
+
+@keyframes white-gradient-flow {
+  from {
+    transform: translate3d(-16%, -2%, 0);
+  }
+
+  to {
+    transform: translate3d(16%, 2%, 0);
   }
 }
 
@@ -109,7 +132,7 @@ body {
 
 .idea-card {
   width: calc(100vw - 1.5rem);
-  max-width: 48rem;
+  max-width: 54rem;
 }
 
 @media (max-width: 640px) {
@@ -178,6 +201,26 @@ body {
   border-color: rgba(254, 255, 252, 0.88);
 }
 
+.cloud-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.cloud-brand__icon {
+  width: 34px;
+  height: 22px;
+  display: inline-block;
+  flex: 0 0 auto;
+  color: var(--cloud-ink);
+  background:
+    radial-gradient(circle at 20% 64%, currentColor 0 8px, transparent 8.8px),
+    radial-gradient(circle at 45% 42%, currentColor 0 11px, transparent 11.8px),
+    radial-gradient(circle at 72% 62%, currentColor 0 9px, transparent 9.8px),
+    linear-gradient(currentColor, currentColor) 8px 10px / 20px 10px no-repeat;
+  opacity: 0.96;
+}
+
 .display-font,
 .cloud-wordmark {
   font-family: var(--font-ppmondwest);
@@ -198,6 +241,7 @@ body {
 
 @media (prefers-reduced-motion: reduce) {
   .cloud-background__wash,
+  .cloud-background__flow,
   .cloud-background__drift {
     animation: none;
   }
