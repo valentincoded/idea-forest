@@ -2115,5 +2115,130 @@
     "close": "The first win is staying clean inside.",
     "category": "identity",
     "status": "unused"
+  },
+  {
+    "id": "074",
+    "mode": "structure",
+    "source": "Board analysis. Dan Koe's content engine, Zach Pogrob's 'Obsession > Discipline' tweet, Tim Denning's Lasse Virén story. The thesis: discipline is not the input. It's a downstream output of obsession with a vision. The self-help industry teaches discipline first; these creators argue the reverse.",
+    "hook": "Discipline is a side effect. Not a practice.",
+    "angles": [
+      "Diagnosis: You're trying to build discipline without the thing that generates it. Discipline is what happens when you're obsessed. It is not the lever you pull to become obsessed.",
+      "Content angle: Show the causal order most people have backwards. Discipline-first advice teaches people to white-knuckle their way to motivation. Obsession-first runs in the opposite direction entirely.",
+      "Video use: Open with a scene of forcing yourself to work. Then contrast with a scene of forgetting to stop. Let the contrast hold."
+    ],
+    "presentation": [
+      "Open with the assumption: discipline is the skill you need to build.",
+      "Show what that belief produces: structured routines that collapse under any real pressure.",
+      "End on the diagnosis: you can't manufacture discipline for something you don't care about."
+    ],
+    "bigIdea": {
+      "truth": "Discipline is the output of obsession, not the input to it. The self-help industry reversed the order.",
+      "idea": "Stop trying to build discipline. Find what already pulls you. The discipline follows.",
+      "bridge": "Use this to reframe the identity layer before any system or habit conversation.",
+      "names": ["Obsession First", "The Wrong Order", "Discipline Downstream"]
+    },
+    "close": "You can't discipline yourself into caring.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "075",
+    "mode": "structure",
+    "source": "Board analysis. Zach Pogrob: 'Your new life is going to cost you your old one.' Dan Koe: 'They can't help but leave the world behind to create a better one.' The burn-everything-down image: letting go of past identities to create a blank slate. Pattern: transformation is destruction, not addition.",
+    "hook": "Adding habits to a broken identity doesn't fix the identity.",
+    "angles": [
+      "Diagnosis: Most transformation advice is additive. Add this routine, add this habit, add this framework. The pattern underneath the board is the opposite: the new life requires killing the old identity first. Addition without subtraction layers noise onto a broken foundation.",
+      "Content angle: The question isn't what to add. It's what you're refusing to let die. Name the specific things people cling to: the old story, the old role, the old excuse. Name them as the actual cost.",
+      "Video use: Two columns. Left: what you gain. Right: what it costs. Make the costs real and specific, not abstract."
+    ],
+    "presentation": [
+      "Open with the common belief: transformation is about adding better behaviors.",
+      "Show why it fails: the identity underneath stays the same, so the behaviors don't stick.",
+      "End on the diagnosis: the blocker is rarely a missing habit. It's an identity that has to die first."
+    ],
+    "bigIdea": {
+      "truth": "People fail to change because they're adding a new life on top of an old identity. The old identity rejects it.",
+      "idea": "Real transformation is an identity deletion, not a habit addition.",
+      "bridge": "Use this before any conversation about systems, routines, or offers. The identity layer is the prerequisite.",
+      "names": ["Identity Deletion", "The Real Cost", "Subtraction First"]
+    },
+    "close": "You don't need more habits. You need fewer old selves.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "076",
+    "mode": "structure",
+    "source": "Board analysis. Dan Koe's YouTube framework: create an anti-vision — a detailed picture of the future you absolutely do not want — before the positive vision. Negative energy is 'very very potent' and can be transmuted into action. The diagnosis: people can't pull a clear vision from imagination, but everyone already knows what they refuse to accept.",
+    "hook": "Vision boards don't move people. The anti-vision does.",
+    "angles": [
+      "Diagnosis: Vision alone is weak motivation. People struggle to define what they want because they're reaching into abstraction. But everyone has experienced, observed, or feared the life they don't want, and that produces a far more visceral response than any vision board.",
+      "Content angle: Walk through the anti-vision exercise. If nothing changes for five years, describe a Tuesday. Where do you wake up? What does your body feel like? What's the first thing you think about? Let the discomfort do the work.",
+      "Video use: Ask the anti-vision questions one at a time on screen. No music. Let the silence hold."
+    ],
+    "presentation": [
+      "Open with the failure of vision boards: 'Picture your dream life' produces generic images and no movement.",
+      "Introduce the inversion: picture the life you refuse to accept.",
+      "End on the mechanism: disgust is a more reliable engine than desire."
+    ],
+    "bigIdea": {
+      "truth": "Positive vision is abstract. Negative vision is visceral. The self-help industry sells the first because it feels good. The second one actually moves people.",
+      "idea": "Before you build your vision, build your anti-vision. The fuel is in what you refuse.",
+      "bridge": "Use this as the entry point for any identity or goal-setting conversation. The anti-vision creates the stakes.",
+      "names": ["Anti-Vision", "Disgust as Fuel", "What You Refuse"]
+    },
+    "close": "Your vision tells you where to go. Your anti-vision tells you why you have to.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "077",
+    "mode": "structure",
+    "source": "Board analysis. Dan Koe: 'Specializing in only one skill is certain death.' Three ingredients of sovereignty: self-education, self-interest, self-sufficiency. The printing press created the Renaissance; AI is the new printing press. The moat is a unique perspective built from the intersection of multiple interests. Every founder or CEO is a generalist who directs the ship.",
+    "hook": "Niche down is industrial-age programming.",
+    "angles": [
+      "Diagnosis: The 'niche down' instruction is industrial programming. Specialization was the competitive advantage of the factory era, when depth in a narrow skill translated to employment security. That contract is broken. The people building now are synthesizing multiple domains, not burrowing deeper into one.",
+      "Content angle: Name the three things you're 'supposed to pick between.' Show how the intersection of all three is the moat. The point is not breadth for breadth's sake. A perspective only you can see because of how your interests combine is something no specialist can replicate.",
+      "Video use: Show the 'pick one' advice as the audience knows it, then flip it: the intersection is the product."
+    ],
+    "presentation": [
+      "Open with the advice: pick a niche, specialize, avoid shiny object syndrome.",
+      "Show what that advice was designed for: a world where employers rewarded depth and breadth had no distribution mechanism.",
+      "End on the diagnosis: when you are the distribution channel, the unique synthesis of your interests is the only moat that can't be copied."
+    ],
+    "bigIdea": {
+      "truth": "Specialization was the right move when someone else controlled your distribution. When you are the distribution, the synthesis of your interests becomes the product.",
+      "idea": "Multiple interests aren't a problem to fix. They're a perspective no specialist can replicate.",
+      "bridge": "Use this to reframe the 'pick one thing' objection before any conversation about a personal brand or creator business.",
+      "names": ["Polymathy as Moat", "The Wrong Advice", "Synthesis Over Specialization"]
+    },
+    "close": "The rarest thing is a perspective only your combination of interests could produce.",
+    "category": "identity",
+    "status": "unused"
+  },
+  {
+    "id": "078",
+    "mode": "structure",
+    "source": "Board analysis. Tim Denning's Lasse Virén essay. He fell in the Olympic 10,000m final. Got up calmly, rejoined the pack, then attacked the final 600 meters so hard he broke the world record. Lock-in framework: raised standards, phone under 10 minutes/day, wake at 6am and start immediately, no 3-hour morning routine, 4 hours of flow state daily. The mechanic: a violent psychological reset after a fall. Not a permanent maintenance posture.",
+    "hook": "Lock-in is a comeback protocol. Not a maintenance posture.",
+    "angles": [
+      "Diagnosis: 'Lock in' gets sold as a permanent lifestyle posture: always on, always maximizing. The Virén story reveals what it actually is: a psychological reset after collapse. He fell, got up, rejoined the race calmly, and then attacked at the end. The power is in the sequence, not the posture.",
+      "Content angle: Show the distinction between lock-in as identity (always on) vs. lock-in as a response to a fall. The second one is actionable. The first one burns out.",
+      "Video use: Tell the Virén story. Fall. Get up. Calm re-entry. Violent finish. Let the metaphor carry the point without narrating it."
+    ],
+    "presentation": [
+      "Open with the Virén scene: fell mid-race, got up, didn't panic.",
+      "Show the sequence: calm re-entry first, then the violent attack in the final 600 meters.",
+      "End on the diagnosis: the psychology of the comeback is different from the psychology of maintenance."
+    ],
+    "bigIdea": {
+      "truth": "Locking in is not a permanent posture. It's a specific response to having fallen. The calm re-entry is the first move, not the acceleration.",
+      "idea": "The value of a lock-in practice is not that it keeps you from falling. It's that it tells you exactly what to do after you do.",
+      "bridge": "Use this to reframe discipline conversations away from perfection and toward recovery protocol.",
+      "names": ["The Virén Protocol", "Comeback Mechanics", "After The Fall"]
+    },
+    "close": "The question isn't how you stay locked in. It's how fast you get back there.",
+    "category": "system",
+    "status": "unused"
   }
 ]
